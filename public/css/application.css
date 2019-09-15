@@ -1,0 +1,84 @@
+.masonryImage {
+    padding: 0 !important;
+}
+
+/*Scroll to Top*/
+
+#scroll-to-top {
+    float: right;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 50px;
+    color: white;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(66, 117, 244, 0.8);
+    display: none;
+    z-index: 99999;
+}
+
+#scroll-to-top .fa {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    top: 15px;
+    cursor: pointer;
+}
+
+.link {
+    cursor: pointer;
+}
+
+/*PHONES*/
+
+@media screen and (max-width: 768px) {
+    /*Little tweaks*/
+    #scroll-to-top {
+        visibility: hidden;
+    }
+    #footer-section {
+        text-align: center;
+        /*margin-top: -100px;*/
+    }
+    .footer-social-btn {
+        padding-bottom: 15px;
+    }
+}
+
+/*TABLETS*/
+
+@media screen and (min-width:768px) and (max-width:992px) {
+    /*Little Tweaks*/
+    /*#footer-section {
+		margin-top: -100px;
+	}*/
+    #footer-section .footer-phone-email {
+        float: left;
+    }
+    #footer-section .footer-email {
+        text-align: right;
+        float: right;
+    }
+    #footer-section .copyright {
+        text-align: right;
+        float: right;
+    }
+}
+
+/*Footer*/
+
+footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /*background-color: #3756A0;*/
+    /*color: white;*/
+}
+
+footer .fa {
+    font-size: 25px;
+    margin: 0 10px 0 10px;
+    /*color: white;*/
+}

@@ -1,0 +1,359 @@
+/*Navbar design*/
+
+.navbar {
+    font-size: 18px;
+}
+
+.navbar-brand img:hover {
+    -ms-transform: scale(1.1);
+    /* IE 9 */
+    -webkit-transform: scale(1.1);
+    /* Safari */
+    transform: scale(1.1);
+    /* Standard syntax */
+}
+
+.navbar-sm {
+    min-height: 50px;
+    height: 50px;
+    font-size: 16px;
+    background: white;
+}
+
+.navbar-sm .navbar-nav>li>a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 50px;
+    color: black !important;
+}
+
+.navbar li {
+    font-weight: bold;
+    z-index: 100;
+}
+
+.navbar:before {
+    content: "";
+    position: absolute;
+    top: -4px;
+    left: 0px;
+    height: 2px;
+    width: 100%;
+    background-color: #3756A0;
+}
+
+.navbar:after {
+    content: "";
+    position: absolute;
+    bottom: -4px;
+    right: 0px;
+    background-color: #3756A0;
+    height: 2px;
+    width: 65%;
+}
+
+.navbar-brand {
+    float: left;
+    padding: 25px 10px;
+    position: relative;
+    background-color: #3756A0;
+}
+
+.navbar-sm .navbar-brand {
+    padding: 12px;
+    height: 60px;
+}
+
+.navbar-brand img {
+    height: 50px;
+    width: auto;
+    -webkit-transition: -webkit-transform 2s;
+    /* Safari */
+    transition: transform .2s;
+}
+
+.navbar-sm .navbar-brand img {
+    height: 35px;
+    width: auto;
+}
+
+.navbar-brand:before {
+    content: "";
+    position: absolute;
+    right: 100%;
+    top: 0px;
+    height: 100%;
+    width: 2000%;
+    background-color: #3756A0;
+}
+
+.navbar-brand:after {
+    content: "";
+    position: absolute;
+    right: -26px;
+    height: 100%;
+    width: 100px;
+    transform: skew(-25deg);
+    top: 0;
+    background-color: #3756A0;
+    z-index: -1;
+}
+
+.nav.navbar-nav {
+    margin-left: 50px;
+}
+
+.nav.navbar-nav li a {
+    text-transform: uppercase;
+    color: white;
+}
+
+.navbar-static-top {
+    position: absolute;
+    top: 45px;
+    left: 0;
+    width: 100%;
+}
+
+.navbar-toggle {
+    z-index: 1000;
+    border: none;
+    font-size: 18px;
+    margin: 0;
+    color: #0F6FA9;
+}
+
+.navbar-toggle.collapsed {
+    color: gray;
+}
+
+.navbar-collapse.collapse.in {
+    background-color: white;
+    width: 100%;
+    width: 100vw;
+    font-size: 18px;
+    margin-left: -15px;
+}
+
+.navbar-collapse.collapse.in ul li a {
+    color: black;
+    padding: 0;
+    line-height: 30px;
+    color: black;
+    text-align: center;
+}
+
+.upper-navbar {
+    height: 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin-top: 5px;
+    z-index: 3;
+    color: white;
+    text-align: center;
+}
+
+.upper-navbar a {
+    color: white;
+    text-decoration: none;
+}
+
+.upper-navbar a.fa {
+    margin-left: 15px;
+    margin-right: 15px;
+    -webkit-transition: -webkit-transform .1s;
+    /* Safari */
+    transition: transform .1s;
+}
+
+.upper-navbar a:hover {
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+    transform: scale(1.05);
+}
+
+.upper-navbar a {
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
+}
+
+.tablet-navbar {
+    display: none;
+}
+
+.dropdown-menu a {
+    color: black !important;
+}
+
+ul.nav a:hover,
+.dropdown.open a {
+    background-color: transparent !important;
+}
+
+ul.nav a:not(.dropdown-toggle):hover:after,
+.dropdown-menu:after {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    width: 100%;
+    height: 5px;
+    bottom: -3px;
+    left: 0;
+    background: #3756A0;
+}
+
+.dropdown-menu a:hover {
+    font-weight: 600;
+}
+
+.navbar-static-top .dropdown-menu a {
+    color: white !important;
+}
+
+.navbar-static-top .dropdown-menu {
+    background-color: transparent !important;
+    border: none;
+}
+
+/*Drop down on hover*/
+
+@media (min-width: 768px) {
+    .dropdown:hover .dropdown-menu {
+        display: block;
+    }
+}
+
+/*PHONES*/
+
+@media screen and (max-width: 768px) {
+    /*Navbar*/
+    .lg-screen {
+        display: none;
+        visibility: hidden;
+    }
+    .navbar {
+        min-height: 40px;
+        height: 40px;
+        background: white;
+    }
+    .navbar .navbar-brand {
+        padding: 9px;
+        height: 48px;
+        margin-left: 10px;
+    }
+    .navbar .navbar-brand img {
+        height: 30px;
+        width: auto;
+    }
+    .navbar-static-top {
+        position: fixed;
+        top: 0px;
+        left: 0;
+        width: 100%;
+    }
+    .upper-navbar {
+        display: none;
+    }
+}
+
+/*TABLETS*/
+
+@media screen and (min-width:768px) and (max-width:992px) {
+    /*Navbar*/
+    .lg-screen {
+        display: none;
+        visibility: hidden;
+    }
+    .navbar {
+        min-height: 50px;
+        height: 50px;
+        background: white;
+    }
+    .navbar .navbar-brand {
+        padding: 10px;
+        height: 60px;
+    }
+    .navbar .navbar-brand img {
+        height: 40px;
+        width: auto;
+    }
+    .navbar-static-top {
+        position: fixed;
+        top: 0px;
+        left: 0;
+        width: 100%;
+    }
+    .navbar-toggle {
+        font-size: 26px;
+    }
+    .upper-navbar {
+        display: none;
+    }
+    .tablet-navbar {
+        display: inline;
+        top: 0;
+        z-index: 100000;
+        color: black;
+        margin-left: 100px;
+        height: 50px;
+        font-size: 20px;
+        position: relative;
+        top: 10px;
+    }
+}
+
+/*DESKTOPS*/
+
+@media screen and (min-width: 992px) {
+    .sm-show {
+        display: none;
+    }
+    .sm-screen {
+        display: none;
+        visibility: hidden;
+    }
+}
+
+/*Colapse navbar at at 922px*/
+
+@media (max-width: 992px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-left,
+    .navbar-right {
+        float: none !important;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    }
+    .navbar-fixed-top {
+        top: 0;
+        border-width: 0 0 1px;
+    }
+    .navbar-collapse.collapse {
+        display: none !important;
+    }
+    .navbar-nav {
+        float: none !important;
+        margin-top: 7.5px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .collapse.in {
+        display: block !important;
+    }
+}
