@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 import $ from 'jquery';
+import '@fortawesome/fontawesome-free/css/all.css'
+import '@fortawesome/free-brands-svg-icons'
+import 'font-awesome/css/font-awesome.min.css'
 
 import '../../static/styles/index.css';
 import '../../static/styles/navbar.css';

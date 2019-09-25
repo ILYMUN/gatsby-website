@@ -1,0 +1,8 @@
+#footer-section a{
+  color: #151515;
+}
+#footer-section a:hover{
+  color: #3756A0;
+}
+@media (max-width: 992px) {
+}

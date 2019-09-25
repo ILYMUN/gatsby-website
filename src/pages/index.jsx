@@ -1,12 +1,15 @@
 import React from "react"
 
 import {Navbar} from '../components/navbar'
+import {Footer} from '../components/footer'
+
 import {HomeAboutSection} from '../components/home/about'
 import {LandingSlider} from '../components/home/slider'
 import {LandingParallax} from '../components/home/parallax'
 import {LandingValues} from '../components/home/values'
 import {LandingTeam} from '../components/home/team'
 import {CountDownParallax} from '../components/home/countdown'
+// import {LandingQuotes} from '../components/home/quotes'
 
 /* CSS Files */
 import '../../static/css/bootstrap.min.css';
@@ -72,14 +75,14 @@ class HomePage extends React.Component {
           <LandingValues />
           <LandingTeam />
           <CountDownParallax />
-          {/* <LandingQuotes />
-          <LandingPress />
+          {/* <LandingQuotes /> */}
+          {/* <LandingPress />
           <LandingPartners />
           <Contact /> */}
           {/* <section id="map" style={{width: '100%', height: '500px'}}></section> */}
           {/* <Map /> */}
         </div>
-        {/* <Footer /> */}
+        <Footer />
         {/* <ScriptTag type="text/javascript" src={require("./wp-content/themes/ilymun-wp-theme/js/owl.carousel.min.js")} /> */}
         {/* <ScriptTag type="text/javascript" src={require("./wp-content/themes/ilymun-wp-theme/js/parallax.min.js")} /> */}
         {/* <ScriptTag type="text/javascript" src={require("./wp-content/themes/ilymun-wp-theme/js/landing/kinetic-v5.1.0.min.js")} /> */}
