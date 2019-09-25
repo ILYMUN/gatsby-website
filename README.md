@@ -4,7 +4,7 @@
 
     Get npm, if you don't already have it, and install gatsby.
     ```
-    npm install -g gatsby
+    npm install -g gatsby-cli
     ```
 
 1.  **Start developing.**
