@@ -6,6 +6,7 @@ import {LandingSlider} from '../components/home/slider'
 import {LandingParallax} from '../components/home/parallax'
 import {LandingValues} from '../components/home/values'
 import {LandingTeam} from '../components/home/team'
+import {CountDownParallax} from '../components/home/countdown'
 
 /* CSS Files */
 import '../../static/css/bootstrap.min.css';
@@ -70,8 +71,8 @@ class HomePage extends React.Component {
           <LandingParallax />
           <LandingValues />
           <LandingTeam />
-          {/* <CountDownParallax />
-          <LandingQuotes />
+          <CountDownParallax />
+          {/* <LandingQuotes />
           <LandingPress />
           <LandingPartners />
           <Contact /> */}
