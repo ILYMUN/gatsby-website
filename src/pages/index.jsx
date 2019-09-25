@@ -3,6 +3,7 @@ import React from "react"
 import {Navbar} from '../components/navbar'
 import {HomeAboutSection} from '../components/home/about'
 import {LandingSlider} from '../components/home/landingSlider'
+import {LandingParallax} from '../components/home/parallax'
 
 /* CSS Files */
 import '../../static/css/bootstrap.min.css';
@@ -64,8 +65,8 @@ class HomePage extends React.Component {
         <div id="content" class="site-content">
           <LandingSlider />
           <HomeAboutSection />
-          {/* <LandingParallax />
-          <LandingValues />
+          <LandingParallax />
+          {/* <LandingValues />
           <LandingTeam />
           <CountDownParallax />
           <LandingQuotes />
