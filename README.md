@@ -1,5 +1,12 @@
 ## 🚀 Quick start
 
+1. **Prerequisites**
+
+    Get npm, if you don't already have it, and install gatsby.
+    ```
+    npm install -g gatsby
+    ```
+
 1.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
