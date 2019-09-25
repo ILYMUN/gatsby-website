@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import ScrollAnimation from 'react-animate-on-scroll';
 
-import '@fortawesome/fontawesome-free/css/fontawesome.min.css'
+import '@fortawesome/fontawesome-free/css/all.css'
 
 export class LandingValues extends Component {
   render() {
@@ -47,7 +47,7 @@ export class LandingValues extends Component {
                 <ScrollAnimation animateIn="bounceInUp" animateOnce>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                   <div class="feature-wrap">
-                    <div class="icon-wrap"><i class="fa fa-lightbulb-o"></i></div>
+                    <div class="icon-wrap"><i class="fa fa-lightbulb"></i></div>
                     <h3>Innovation & Creativity</h3>
                     <p>We constantly seek to learn and grow from previous experiences and actively work to make each conference better than the previous one.</p>
                   </div>

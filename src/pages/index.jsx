@@ -2,9 +2,10 @@ import React from "react"
 
 import {Navbar} from '../components/navbar'
 import {HomeAboutSection} from '../components/home/about'
-import {LandingSlider} from '../components/home/landingSlider'
+import {LandingSlider} from '../components/home/slider'
 import {LandingParallax} from '../components/home/parallax'
 import {LandingValues} from '../components/home/values'
+import {LandingTeam} from '../components/home/team'
 
 /* CSS Files */
 import '../../static/css/bootstrap.min.css';
@@ -68,8 +69,8 @@ class HomePage extends React.Component {
           <HomeAboutSection />
           <LandingParallax />
           <LandingValues />
-          {/* <LandingTeam />
-          <CountDownParallax />
+          <LandingTeam />
+          {/* <CountDownParallax />
           <LandingQuotes />
           <LandingPress />
           <LandingPartners />
