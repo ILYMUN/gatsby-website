@@ -1,14 +1,16 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "gatsby-ilymun-website",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Gatsby ILYMUN website",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Pablo Gamito <pablo@gamito.me>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
-    "gatsby": "^2.15.15",
+    "classnames": "^2.2.6",
+    "eslint-plugin-flowtype": "^2.50.3",
+    "gatsby": "^2.15.24",
     "gatsby-image": "^2.2.19",
     "gatsby-plugin-feed": "^2.3.12",
     "gatsby-plugin-google-analytics": "^2.1.16",
@@ -26,7 +28,6 @@
     "gatsby-transformer-remark": "^2.6.22",
     "gatsby-transformer-sharp": "^2.2.14",
     "hero-slider": "^2.0.3",
-    "jQuery": "^1.7.4",
     "jquery": "^3.4.1",
     "prismjs": "^1.17.1",
     "react": "^16.9.0",
@@ -34,10 +35,11 @@
     "react-dom": "^16.9.0",
     "react-helmet": "^5.2.1",
     "react-lazyload": "^2.6.2",
-    "react-rev-slider": "^1.0.1",
     "react-typography": "^0.16.19",
+    "styled-components": "^4.4.0",
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.75",
+    "typescript": "^3.6.3",
     "typography": "^0.16.19",
     "typography-theme-wordpress-2016": "^0.16.19"
   },
