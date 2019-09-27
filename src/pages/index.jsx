@@ -1,4 +1,4 @@
-import React from "react"
+import React from 'react'
 
 import {Navbar} from '../components/navbar'
 import {Footer} from '../components/footer'
@@ -10,7 +10,9 @@ import {LandingValues} from '../components/home/values'
 import {LandingTeam} from '../components/home/team'
 import {CountDownParallax} from '../components/home/countdown'
 // import {LandingQuotes} from '../components/home/quotes'
+import {LandingPress} from '../components/home/press'
 import {Contact} from '../components/home/contact'
+import {Map} from '../components/home/map'
 
 /* CSS Files */
 import '../../static/css/bootstrap.min.css';
@@ -77,11 +79,11 @@ class HomePage extends React.Component {
           <LandingTeam />
           <CountDownParallax />
           {/* <LandingQuotes /> */}
-          {/* <LandingPress />
-          <LandingPartners />  */}
+          <LandingPress />
+          {/* <LandingPartners />  */}
           <Contact />
           {/* <section id="map" style={{width: '100%', height: '500px'}}></section> */}
-          {/* <Map /> */}
+          <Map />
         </div>
         <Footer />
         {/* <ScriptTag type="text/javascript" src={require("./wp-content/themes/ilymun-wp-theme/js/owl.carousel.min.js")} /> */}
