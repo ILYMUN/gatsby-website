@@ -1,6 +1,7 @@
 ---
 page: "home"
 section: "about"
+
 title: "about"
 subtitle: "Ilymun, (International Lyon Model United Nations), is a three-day conference, organized by students in Lyon for students from around the world."
 ---

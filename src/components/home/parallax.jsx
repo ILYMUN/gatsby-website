@@ -1,9 +1,22 @@
 import React, {Component} from 'react';
-import { Parallax, Background } from 'react-parallax';
+import { StaticQuery, graphql } from 'gatsby'
+import { Parallax } from 'react-parallax';
 
 export class LandingParallax extends Component {
   render() {
-    const parallax = 
+    return <StaticQuery
+      query={graphql`
+      {
+        content: markdownRemark(frontmatter: {section: {eq: "parallax"}, page: {eq: "home"}}) {
+          frontmatter {
+            title
+            content
+          }
+          html
+        }
+      }
+      `}
+      render={data => (
       <section class="parallax">
         <div class="top-angle" style={{
           height: "150px",
@@ -21,16 +34,15 @@ export class LandingParallax extends Component {
           <div class="parallax-window dotted-overlay">
             <div class="container">
               <div class="content">
-                <h3>By Students for Students</h3>
+                <h3>{data.content.frontmatter.title}</h3>
                 <div class="quote">
-                  <br/><p>We believe that to truly appeal to students’ minds and hearts, the ideas, planning, and execution of the conference must sprout from students.</p>
+                  <br/><p>{data.content.frontmatter.content}</p>
                 </div>
               </div>
             </div>
           </div>
         </Parallax>
-      </section>
-      
-    return parallax;
+      </section>)}
+    />
   }
 }

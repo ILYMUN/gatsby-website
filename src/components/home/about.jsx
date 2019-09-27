@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import { StaticQuery, graphql } from "gatsby"
+import { StaticQuery, graphql } from 'gatsby'
 import LazyLoad from 'react-lazyload';
 import ScrollAnimation from 'react-animate-on-scroll';
 
@@ -14,7 +14,6 @@ export class HomeAboutSection extends Component {
       {
         content: markdownRemark(frontmatter: {section: {eq: "about"}, page: {eq: "home"}}) {
           frontmatter {
-            page
             title
             subtitle
           }

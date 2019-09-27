@@ -1,10 +1,23 @@
 import React, {Component} from 'react';
+import { StaticQuery, graphql } from 'gatsby'
 import LazyLoad from 'react-lazyload';
 import ScrollAnimation from 'react-animate-on-scroll';
 
 export class LandingTeam extends Component {
   render () {
-    const team = 
+    return <StaticQuery
+      query={graphql`
+      {
+        content: markdownRemark(frontmatter: {section: {eq: "team"}, page: {eq: "home"}}) {
+          frontmatter {
+            title
+            subtitle
+          }
+          html
+        }
+      }
+      `}
+      render={data => (
       <section id="team">
         <div>
           <div class="gray-bg angular section-padding">
@@ -12,9 +25,9 @@ export class LandingTeam extends Component {
             <div class="container">
             <ScrollAnimation animateIn="slideInRight" animateOnce>
               <div class="section-head">
-                <h2 class="section-title">Our Team</h2>
+                <h2 class="section-title">{data.content.frontmatter.title}</h2>
                 <p class="section-description">
-                  Meet the people who make all this possible. A hard working team dedicated to bringing ILYMUN to life in the best way possible.
+                  {data.content.frontmatter.subtitle}
                 </p>
               </div>
             </ScrollAnimation>
@@ -82,7 +95,7 @@ export class LandingTeam extends Component {
           </div>
         </div>
       </section>
-
-    return team;
+      )}
+    />
   }
 }
