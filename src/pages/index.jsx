@@ -10,6 +10,7 @@ import {LandingValues} from '../components/home/values'
 import {LandingTeam} from '../components/home/team'
 import {CountDownParallax} from '../components/home/countdown'
 // import {LandingQuotes} from '../components/home/quotes'
+import {Contact} from '../components/home/contact'
 
 /* CSS Files */
 import '../../static/css/bootstrap.min.css';
@@ -77,8 +78,8 @@ class HomePage extends React.Component {
           <CountDownParallax />
           {/* <LandingQuotes /> */}
           {/* <LandingPress />
-          <LandingPartners />
-          <Contact /> */}
+          <LandingPartners />  */}
+          <Contact />
           {/* <section id="map" style={{width: '100%', height: '500px'}}></section> */}
           {/* <Map /> */}
         </div>
