@@ -1,103 +1,89 @@
-import React, { Component } from 'react';
-import {$} from 'jquery'
+import React, { Component } from "react";
+import { $ } from "jquery";
 
 export class RevSlider extends Component {
-    constructor(props) {
-        super(props);
-    }
+  constructor(props) {
+    super(props);
+  }
 
-    componentDidMount() {
-        $(document).ready(() => {
-            $('.tp-banner').revolution(this.props.config);
-        });
-    }
+  componentDidMount() {
+    $(document).ready(() => {
+      $(".tp-banner").revolution(this.props.config);
+    });
+  }
 
-    render() {
-        return(
-            <div 
-                className="tp-container"
-                style={containerStyle}
-            >
-                <div 
-                    className="tp-banner"
-                    style={bannerStyle}
-                >
-                    <ul>
-                        {this.props.children}
-                    </ul>
-                </div>
-            </div>
-        )
-    }
+  render() {
+    return (
+      <div className="tp-container" style={containerStyle}>
+        <div className="tp-banner" style={bannerStyle}>
+          <ul>{this.props.children}</ul>
+        </div>
+      </div>
+    );
+  }
 }
 
 export class Slide extends Component {
-    constructor(props, context) {
-        super(props, context);
-    }
+  constructor(props, context) {
+    super(props, context);
+  }
 
-    render() {
-        return (
-            <li {...fetchAttributes(this.props.slideProperties)}>
-                <img {...fetchAttributes(this.props, 'slideProperties')}/>
-                {this.props.children}
-            </li>
-        )
-    }
+  render() {
+    return (
+      <li {...fetchAttributes(this.props.slideProperties)}>
+        <img {...fetchAttributes(this.props, "slideProperties")} />
+        {this.props.children}
+      </li>
+    );
+  }
 }
 
-
 export class Caption extends Component {
-    constructor(props, context) {
-        super(props, context);
-    }
+  constructor(props, context) {
+    super(props, context);
+  }
 
-    render() {
-        return (
-            <div {...fetchAttributes(this.props)}>
-                {this.props.children}
-            </div>
-        )
-    }
+  render() {
+    return <div {...fetchAttributes(this.props)}>{this.props.children}</div>;
+  }
 }
 
 export default RevSlider;
 
 const containerStyle = {
-    position: 'relative',
-    width: '100%',
-    padding: 0
-}
+  position: "relative",
+  width: "100%",
+  padding: 0
+};
 
 const bannerStyle = {
-    width: '100%',
-	position: 'relative'
-}
+  width: "100%",
+  position: "relative"
+};
 
 const fullscreenContainer = {
-    maxHeight: 'none',
-    overflow: 'visible',
-}
+  maxHeight: "none",
+  overflow: "visible"
+};
 
 function fetchAttributes(payload, sk = [], ex = []) {
-    const attr = {};
-    const skip = ['children'].concat(sk)
-    const exceptions = ['class', 'src', 'alt', 'style', 'id'].concat(...ex);
-    for (let key in payload) {
-        if (skip.includes(key)) {
-            continue;
-        } else if (key === 'class') {
-            attr[key + 'Name'] = payload[key];
-        } else if (exceptions.includes(key)) {
-            attr[key] = payload[key];
-        } else {
-            if (key.startsWith('data-')) {
-                attr[key] = payload[key];
-            } else {
-                attr['data-' + key] = payload[key];
-            }
-        }
-
+  const attr = {};
+  const skip = ["children"].concat(sk);
+  const exceptions = ["class", "src", "alt", "style", "id"].concat(...ex);
+  for (let key in payload) {
+    if (skip.includes(key)) {
+      continue;
+    } else if (key === "class") {
+      attr[key + "Name"] = payload[key];
+    } else if (exceptions.includes(key)) {
+      attr[key] = payload[key];
+    } else {
+      if (key.startsWith("data-")) {
+        attr[key] = payload[key];
+      } else {
+        attr["data-" + key] = payload[key];
+      }
     }
-    return attr;
+  }
+  return attr;
 }

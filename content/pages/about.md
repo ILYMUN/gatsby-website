@@ -11,7 +11,6 @@ In 2015 the UN adopted 17 goals, the Sustainable Development Goals, and set targ
 
 We have seen that economic growth is not enough to reduce these disparities. The gaps between the rich and the poor are growing bigger. In addition, it is clear that inequality is a serious threat to social and political stability as well as to the environment and sustained growth. Thus, inequalities within and among countries is one of our biggest challenges. In the same report, the UN gives us courage in stating that “Inequality is not a matter of fate or chance and can be reversed through policies and reforms.”
 
-
 We believe that by involving youth in finding solutions and taking action, we can make a difference. Therefore, in addition to our core MUN committees, we will once again host the Action Assembly, in which students represent themselves rather than countries in order to work towards real change in their local communities, and the Youth Conference for “collège” or middle school students from the Auvergne- Rhône-Alpes region.
 
 We will also offer the Model International Court of Justice (ICJ), a forum that mediates conflicts between two nations by reflecting on treaties, international conventions, and international law. The ICJ is a unique and enriching experience for delegates who wish to try something different to ordinary committees, particularly for those interested in pursuing a career in law.
@@ -23,6 +22,7 @@ All in all, we guarantee ILYMUN 2019 will be, an unforgettable experience!
 Taking inspiration from FERMUN in Geneva and THIMUN in the Hague, two students from the Cité Scolaire Internationale, Pierre Mohamed and Kaelan Tardy, reached out to students at the International School of Lyon in order to organize the first ILYMUN conference in 2013. Most of the schools participating in that first conference are now regular participants in our annual conferences and many have gone on to model their MUN clubs and even their own conferences on ILYMUN. We’re delighted to see these developments as it means more communities working together to change the world.
 
 #### Our Values
+
 ##### 1. Enriching Education
 
 We believe that the main aim of MUN conferences is to educate the participants, providing them with essential skills such as public speaking, collaboration with others and critical thinking. MUN opens one’s mind and encourages in-depth reflections on our complex world. ILYMUN helps students grow and become global citizens. Here is a quote from one of our friends at INOMUN in Lille that captures our view of MUN: “The aim of debating is to resolve problems with words, without violence, without deaths. We, high school students, are the next generation. We have to act, we have to do something. A MUN won’t literally change things, but it is a way to sharpen our critical mind and our intelligence in order to take over our parents’ generation. In order to bring peace.”

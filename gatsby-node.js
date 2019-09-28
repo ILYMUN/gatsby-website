@@ -1,10 +1,10 @@
-const path = require(`path`)
-const { createFilePath } = require(`gatsby-source-filesystem`)
+const path = require(`path`);
+const { createFilePath } = require(`gatsby-source-filesystem`);
 
 exports.createPages = async ({ graphql, actions }) => {
-  const { createPage } = actions
+  const { createPage } = actions;
 
-  const plainPageTemplate = path.resolve(`./src/templates/plain-page.jsx`)
+  const plainPageTemplate = path.resolve(`./src/templates/plain-page.jsx`);
   const result = await graphql(
     `
       {
@@ -21,44 +21,44 @@ exports.createPages = async ({ graphql, actions }) => {
         }
       }
     `
-  )
+  );
 
   if (result.errors) {
-    throw result.errors
+    throw result.errors;
   }
 
   // Create pages from markdown
-  result.data.allMarkdownRemark.edges.forEach((edge) => {
-    const page = edge.node
+  result.data.allMarkdownRemark.edges.forEach(edge => {
+    const page = edge.node;
 
     switch (page.frontmatter.type) {
-      case 'default':
+      case "default":
         createPage({
           path: page.frontmatter.path,
           component: plainPageTemplate,
-          context: {},
-        })
+          context: {}
+        });
         break;
-      case 'plain':
+      case "plain":
         createPage({
           path: page.frontmatter.path,
           component: plainPageTemplate,
-          context: {},
-        })
+          context: {}
+        });
         break;
     }
-  })
-}
+  });
+};
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions
+  const { createNodeField } = actions;
 
   if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
+    const value = createFilePath({ node, getNode });
     createNodeField({
       name: `slug`,
       node,
-      value,
-    })
+      value
+    });
   }
-}
+};

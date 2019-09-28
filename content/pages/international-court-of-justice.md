@@ -30,9 +30,9 @@ The two teams of advocates will represent the following groups :
 
 The ICJ is composed of
 
-*   2 presidents
-*   2 teams of advocates; each team consisting of two advocates
-*   12-15 independent judges
+- 2 presidents
+- 2 teams of advocates; each team consisting of two advocates
+- 12-15 independent judges
 
 Both sides hold opening speeches to present both factual and legal evidence to the judges.  
 The judges are given time to question the advocates.
@@ -69,6 +69,6 @@ for the role. Delegates should also state which role they prefer (judge or advoc
 if they aren’t accepted for their first choice.
 
 Applications must be accompanied by a **letter of recommendation** from the delegates’ MUN Director. Send letters of  
-application and recommendations by **<u>FRIDAY, OCTOBER 12</u>** or **any questions** about the ICJ to:  
+application and recommendations by **<u>FRIDAY, OCTOBER 12</u>** or **any questions** about the ICJ to:
 
-[kmalouda@islyon.org](https://web.archive.org/web/20181026101439/mailto:kmalouda@islyon.org )
+[kmalouda@islyon.org](https://web.archive.org/web/20181026101439/mailto:kmalouda@islyon.org)

@@ -5,7 +5,7 @@ path: "/action-assembly"
 title: "Action Assembly"
 ---
 
-* * *
+---
 
 ## **A unique committee where your voice is heard!**
 
@@ -27,15 +27,15 @@ At the end of the conference, the members of Action Assembly will present their 
 
 <span style="font-weight: 400;"></span>
 
-*   We will be posting research reports regarding various NGOs.
-*   We also encourage delegates to research these and other UN posts about Development Goal 10, reducing inequalities:
+- We will be posting research reports regarding various NGOs.
+- We also encourage delegates to research these and other UN posts about Development Goal 10, reducing inequalities:
 
 [UUA Website](https://www.uua.org/sites/live-new.uua.org/files/sdg_10_reduce_inequality.pdf)  
 [UNWomen Website](http://www.unwomen.org/en/news/in-focus/women-and-the-sdgs/sdg-10-reduced-inequalities)  
 [UN Browse Website](https://sustainabledevelopment.un.org/partnership/browse/)  
 [UN ActionNetwork Website](https://sustainabledevelopment.un.org/partnerships/actionnetworks)
 
-*   Finally, we encourage delegates to research and identify an NGO THEY would like to work with to tackle this year’s issue. Delegates should be prepared to present this NGO to the Action Assembly and explain what projects students could get involved in with this NGO.
+- Finally, we encourage delegates to research and identify an NGO THEY would like to work with to tackle this year’s issue. Delegates should be prepared to present this NGO to the Action Assembly and explain what projects students could get involved in with this NGO.
 
 ### <span style="font-weight: 400;">Why should YOU join the Action Assembly ?</span>
 

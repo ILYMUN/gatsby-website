@@ -28,7 +28,7 @@ To ensure a high quality of debates, an External MUN Development team is dedicat
 ### **Points & Motions: **What are they and how are they used?
 
 > _<span style="font-weight: 400;">This is a guide for first time delegates who aren’t completely familiar</span>_
-> 
+>
 > _<span style="font-weight: 400;">with all the different</span> _**_points_**_ <span style="font-weight: 400;">or</span> _**_motions_**_ <span style="font-weight: 400;">at an MUN conference.</span>_
 
 <span style="font-weight: 400;">The difference between a motion and a point is who it concerns. A motion involves the entire committee, while a point only involves a chair or delegate. For this reason a motion requires a vote.  When a delegate proposes a motion, the chairs ask if there are any objections to the motion. If there are none, the motion is voted on. Neither points nor motions can interrupt speakers, unless it is a</span> _<span style="font-weight: 400;">point of personal privilege</span>_ <span style="font-weight: 400;">to do with the audibility of the speaker.</span>

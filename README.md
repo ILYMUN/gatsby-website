@@ -2,25 +2,26 @@
 
 1. **Prerequisites**
 
-    Get npm, if you don't already have it, and install gatsby.
-    ```
-    npm install -g gatsby-cli
-    ```
+   Get npm, if you don't already have it, and install gatsby.
 
-1.  **Start developing.**
+   ```
+   npm install -g gatsby-cli
+   ```
 
-    Navigate into your new site’s directory and start it up.
+1. **Start developing.**
 
-    ```sh
-    cd gatsby-website
-    gatsby develop
-    ```
+   Navigate into your new site’s directory and start it up.
 
-1.  **Open the source code and start editing!**
+   ```sh
+   cd gatsby-website
+   gatsby develop
+   ```
 
-    Your site is now running at `http://localhost:8000`!
+1. **Open the source code and start editing!**
 
-    Open the `gatsby-website` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+   Your site is now running at `http://localhost:8000`!
+
+   Open the `gatsby-website` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
 ## 🧐 What's inside?
 
