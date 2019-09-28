@@ -5,6 +5,8 @@ fields:
 - type: text
   name: type
   label: type
+  hidden: true
+  default: plain
 - type: text
   name: path
   label: path
