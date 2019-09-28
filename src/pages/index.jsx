@@ -1,4 +1,5 @@
 import React from 'react'
+import {Helmet} from 'react-helmet'
 
 import {Navbar} from '../components/navbar'
 import {Footer} from '../components/footer'
@@ -69,6 +70,10 @@ class HomePage extends React.Component {
   render () {
     const home = 
       <div id="home">
+        <Helmet>
+          <title>ILYMUN</title>
+        </Helmet>
+
         <Navbar landing/>
         
         <div id="content" class="site-content">

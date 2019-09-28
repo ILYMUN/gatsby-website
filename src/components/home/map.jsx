@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import {Helmet} from 'react-helmet'
-import { compose, withProps } from 'recompose'
-import { withScriptjs, withGoogleMap, GoogleMap, Marker, InfoWindow } from 'react-google-maps'
+import { withGoogleMap, GoogleMap, Marker, InfoWindow } from 'react-google-maps'
 
 export class Map extends Component {
   constructor(props){
@@ -224,7 +223,7 @@ export class Map extends Component {
 
     return(
         <>
-            <Helmet defer={false}>
+            <Helmet>
             <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAe1DMphtMNtyXrGpefobwwONtV0oiWwE4&callback=onGoogleMap"></script>
             </Helmet>
             

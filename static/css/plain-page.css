@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.plainPage {
+  padding-top: 80px;
+  font-family: 'Raleway', sans-serif;
+  text-height: 150%;
+  color: #333;
+}
+.plainPage h1, .plainPage h2, .plainPage h3, .plainPage h4, .plainPage h5, .plainPage h6 {
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+}
+.plainPage #content li {
+  margin-bottom: 10px;
+}
+.plainPage #content a {
+  text-decoration: underline;
+}
