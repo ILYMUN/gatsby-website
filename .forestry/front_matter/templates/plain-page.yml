@@ -1,0 +1,15 @@
+---
+label: plain-page
+hide_body: false
+fields:
+- type: text
+  name: type
+  label: type
+  hidden: true
+  default: plain
+- type: text
+  name: path
+  label: path
+- type: text
+  name: title
+  label: title
