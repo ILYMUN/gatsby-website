@@ -60,7 +60,7 @@ export class LandingSlider extends Component {
                         </OverlayContainer> */}
                 
                         <Slide
-                        shouldRenderMask
+                        // shouldRenderMask
                         navDescription='Kyoto - Japan'
                         background={{
                             backgroundColor: '#6D9B98',
@@ -68,7 +68,7 @@ export class LandingSlider extends Component {
                         }} />
                 
                         <Slide
-                        shouldRenderMask
+                        // shouldRenderMask
                         navDescription='Tenryu-ji Temple - Kyōto-shi - Japan'
                         background={{
                             backgroundColor: '#8A8A8A',
@@ -76,7 +76,7 @@ export class LandingSlider extends Component {
                         }} />
                 
                         <Slide
-                        shouldRenderMask
+                        // shouldRenderMask
                         navDescription='Hakone - Japan'
                         background={{
                             backgroundColor: '#EA2329',
@@ -84,14 +84,14 @@ export class LandingSlider extends Component {
                         }} />
                 
                         <Slide
-                        shouldRenderMask
+                        // shouldRenderMask
                         navDescription='Byodo-In Temple - Kaneohe - United States'
                         background={{
                             backgroundColor: '#2D7791',
                             backgroundImage: byodoInTemple
                         }} />
                 
-                        <MenuNav />
+                        {/* <MenuNav /> */}
                     </HeroSlider>
                 </article>
             </section>
