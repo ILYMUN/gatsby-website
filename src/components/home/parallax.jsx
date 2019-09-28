@@ -28,7 +28,7 @@ export class LandingParallax extends Component {
           marginTop: "-75px",
         }}></div>
         <Parallax 
-          bgImage={require('../../../public/images/parallax/01.jpg')}
+          bgImage={require('../../../static/images/parallax/01.jpg')}
           strength={300}
         >
           <div class="parallax-window dotted-overlay">

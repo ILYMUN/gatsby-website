@@ -3,7 +3,7 @@ import '@fortawesome/fontawesome-free/css/all.css'
 import '@fortawesome/free-brands-svg-icons'
 import 'font-awesome/css/font-awesome.min.css'
 
-import '../../public/css/footer.css';
+import '../../static/css/footer.css';
 
 export class Footer extends Component {
   render () {

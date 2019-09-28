@@ -21,7 +21,7 @@ export class CountDownParallax extends Component {
           marginTop: "-75px",
         }}></div>
         <Parallax 
-          bgImage={require('../../../public/images/parallax/count-down.jpg')}
+          bgImage={require('../../../static/images/parallax/count-down.jpg')}
           strength={300}
         >
           <div class="parallax-window dotted-overlay">

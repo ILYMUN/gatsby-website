@@ -10,10 +10,10 @@ import HeroSlider, {
 } from 'hero-slider'
 
 // Images
-import kyoto from '../../../public/images/index-slider.jpg'
-import tenryuJiTemple from '../../../public/images/about.jpg'
-import hakone from '../../../public/images/index-slider.jpg'
-import byodoInTemple from '../../../public/images/index-slider.jpg'
+import kyoto from '../../../static/images/index-slider.jpg'
+import tenryuJiTemple from '../../../static/images/about.jpg'
+import hakone from '../../../static/images/index-slider.jpg'
+import byodoInTemple from '../../../static/images/index-slider.jpg'
 
 export class LandingSlider extends Component {
 

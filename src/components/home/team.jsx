@@ -36,7 +36,7 @@ export class LandingTeam extends Component {
                   <div class="col-md-4 col-sm-4">
                   <ScrollAnimation animateIn="bounceInUp" animateOnce>
                     <LazyLoad>
-                      <img src={require("../../../public/images/team/estee.jpg")} />
+                      <img src={require("../../../static/images/team/estee.jpg")} />
                     </LazyLoad>
                     <p>Estée Poichot</p>
                   </ScrollAnimation>
@@ -44,7 +44,7 @@ export class LandingTeam extends Component {
                   <div class="col-md-4 col-sm-4">
                   <ScrollAnimation animateIn="bounceInUp" animateOnce>
                     <LazyLoad>
-                      <img src={require("../../../public/images/team/justine.jpg")} />
+                      <img src={require("../../../static/images/team/justine.jpg")} />
                     </LazyLoad>
                     <p>Justine Seguin</p>
                   </ScrollAnimation>
@@ -52,7 +52,7 @@ export class LandingTeam extends Component {
                   <div class="col-md-4 col-sm-4">
                     <ScrollAnimation animateIn="bounceInUp" animateOnce>
                     <LazyLoad>
-                      <img src={require("../../../public/images/team/david.jpg")} />
+                      <img src={require("../../../static/images/team/david.jpg")} />
                     </LazyLoad>
                     <p>David Genaro Garcia</p>
                     </ScrollAnimation>
@@ -60,7 +60,7 @@ export class LandingTeam extends Component {
                   <div class="col-md-4 col-sm-4">
                     <ScrollAnimation animateIn="bounceInUp" animateOnce>
                     <LazyLoad>
-                      <img src={require("../../../public/images/team/remi.jpg")} />
+                      <img src={require("../../../static/images/team/remi.jpg")} />
                     </LazyLoad>
                     <p>Rémi Fodor</p>
                     </ScrollAnimation>
@@ -68,7 +68,7 @@ export class LandingTeam extends Component {
                   <div class="col-md-4 col-sm-4">
                    <ScrollAnimation animateIn="bounceInUp" animateOnce>
                     <LazyLoad>
-                      <img src={require("../../../public/images/team/line.jpg")} />
+                      <img src={require("../../../static/images/team/line.jpg")} />
                     </LazyLoad>
                     <p>Line Teixeira</p>
                     </ScrollAnimation>
@@ -76,7 +76,7 @@ export class LandingTeam extends Component {
                   <div class="col-md-4 col-sm-4">
                     <ScrollAnimation animateIn="bounceInUp" animateOnce>
                     <LazyLoad height={200}>
-                      <img src={require("../../../public/images/team/matthieu.jpg")} />
+                      <img src={require("../../../static/images/team/matthieu.jpg")} />
                     </LazyLoad>
                     <p>Matthieu Contamin</p>
                     </ScrollAnimation>
