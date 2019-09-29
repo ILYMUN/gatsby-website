@@ -314,9 +314,11 @@ export class Map extends Component {
     return (
       <>
         <Helmet>
-          <script async defer
-              src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAe1DMphtMNtyXrGpefobwwONtV0oiWwE4&callback=initMap">
-          </script>
+          <script
+            async
+            defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAe1DMphtMNtyXrGpefobwwONtV0oiWwE4&callback=initMap"
+          ></script>
         </Helmet>
 
         {!this.state.mapLoaded ? (
