@@ -5,9 +5,11 @@ fields:
 - type: text
   name: page
   label: page
+  hidden: true
 - type: text
   name: section
   label: section
+  hidden: true
 - type: number
   name: eventStartYearUtc
   label: eventStartYearUtc
