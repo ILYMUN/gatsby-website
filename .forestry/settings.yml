@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: content/pages
   label: Pages
-  create: all
+  create: documents
   match: "*.md"
   new_doc_ext: md
   templates:
