@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/pages/home-page
+  label: Landing Page
+  create: documents
+  match: "*.md"
+- type: directory
   path: content/pages
   label: Pages
   create: documents
