@@ -12,16 +12,16 @@ fields:
   hidden: true
 - type: number
   name: eventStartYearUtc
-  label: eventStartYearUtc
+  label: ILYMUN's Start Year (UTC Time Zone)
 - type: number
   name: eventStartMonthUtc
-  label: eventStartMonthUtc
+  label: ILYMUN's Start Month (UTC Time Zone)
 - type: number
   name: eventStartDayUtc
-  label: eventStartDayUtc
+  label: ILYMUN's Start Day (UTC Time Zone)
 - type: number
   name: eventStartHourUtc
-  label: eventStartHourUtc
+  label: ILYMUN's Start Hour (UTC Time Zone)
 - type: number
   name: eventStartMinuteUtc
-  label: eventStartMinuteUtc
+  label: ILYMUN's Start Minute (UTC Time Zone)
