@@ -73,7 +73,9 @@
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \"",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \" && exit 0",
     "forestry:preview": "gatsby develop -H 0.0.0.0 -p 8080"
+    "preDeploy": "gatsby build --prefix-paths",
+    "deploy": "npm run preDeploy && gh-pages -d public"
   }
 }
