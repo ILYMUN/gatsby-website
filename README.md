@@ -65,7 +65,7 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 12. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
 
-## 💫 Deploy
+## 💫 Deployment
 
 Deployment is very simple. A CI/CD pipeline is set up with Travis to run any time this repository changes. This pipeline will build the production version of the website from the latest master and deploys the changes to [ILYMUN/ilymun.github.io](https://github.com/ILYMUN/ilymun.github.io) which are then live at (ilymun.github.io/)[https://ilymun.github.io/]. The pipeline takes a couple of minutes to run, so changes are only live a couple minutes after changes are commited to the repository.
 
