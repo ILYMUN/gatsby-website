@@ -37,6 +37,10 @@ a {
     box-shadow: none;
 }
 
+img {
+    margin: 0;
+}
+
 /*PHONES*/
 
 @media screen and (max-width: 768px) {
