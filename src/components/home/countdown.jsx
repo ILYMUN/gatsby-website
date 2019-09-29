@@ -1,15 +1,86 @@
 import React, { Component } from "react";
+import { StaticQuery, graphql } from "gatsby";
 import { Parallax, Background } from "react-parallax";
 
 export class CountDownParallax extends Component {
-  render() {
-    /**
-     * UPDATE THIS TO SET THE EVENT START TIME FOR THE COUNTDOWN TO WORK
-     * See: https://www.geeksforgeeks.org/date-utc-javascript/ for information on Date.UTC()
-     */
-    const eventTime = Date.UTC(2019, 0, 24, 9, 0, 0) / 1000;
+  constructor(props) {
+    super(props);
 
-    const countdown = (
+    this.endDate = new Date()
+
+    this.state = {
+      days: 0,
+      hours: 0,
+      min: 0,
+      sec: 0,
+    }
+  }
+
+  componentDidMount() {
+    // update every second
+    this.interval = setInterval(() => {
+      const date = this.calculateCountdown(this.endDate);
+      date ? this.setState(date) : this.stop();
+    }, 1000);
+  }
+
+  componentWillUnmount() {
+    this.stop();
+  }
+
+  calculateCountdown(endDate) {
+    let diff = (Date.parse(new Date(endDate)) - Date.parse(new Date())) / 1000;
+
+    // clear countdown when date is reached
+    if (diff <= 0) return false;
+
+    const timeLeft = {
+      years: 0,
+      days: 0,
+      hours: 0,
+      min: 0,
+      sec: 0,
+      millisec: 0,
+    };
+
+    // calculate time difference between now and expected date
+    if (diff >= (365.25 * 86400)) { // 365.25 * 24 * 60 * 60
+      timeLeft.years = Math.floor(diff / (365.25 * 86400));
+      diff -= timeLeft.years * 365.25 * 86400;
+    }
+    if (diff >= 86400) { // 24 * 60 * 60
+      timeLeft.days = Math.floor(diff / 86400);
+      diff -= timeLeft.days * 86400;
+    }
+    if (diff >= 3600) { // 60 * 60
+      timeLeft.hours = Math.floor(diff / 3600);
+      diff -= timeLeft.hours * 3600;
+    }
+    if (diff >= 60) {
+      timeLeft.min = Math.floor(diff / 60);
+      diff -= timeLeft.min * 60;
+    }
+    timeLeft.sec = diff;
+
+    return timeLeft;
+  }
+
+  stop() {
+    clearInterval(this.interval);
+  }
+
+  addLeadingZeros(value) {
+    value = String(value);
+    while (value.length < 2) {
+      value = '0' + value;
+    }
+    return value;
+  }
+
+  render() {
+    const countDown = this.state;
+
+    const countDownParallax = (
       <section class="parallax count-down" style={{ marginTop: "25px" }}>
         <div
           class="top-angle"
@@ -33,8 +104,6 @@ export class CountDownParallax extends Component {
                 <h3>Time Until Next Event</h3>
                 <div
                   class="countdown countdown-container container"
-                  data-end={eventTime.toString()}
-                  data-now={(new Date().getTime() / 1000).toString()}
                   data-border-color="rgba(255, 255, 255, .8)"
                 >
                   <div class="clock row">
@@ -43,7 +112,7 @@ export class CountDownParallax extends Component {
                         <div class="inner">
                           <div id="canvas-days" class="clock-canvas"></div>
                           <div class="text">
-                            <p class="val">0</p>
+                            <p class="val">{this.addLeadingZeros(countDown.days)}</p>
                             <p class="type-days type-time">DAYS</p>
                           </div>
                         </div>
@@ -54,7 +123,7 @@ export class CountDownParallax extends Component {
                         <div class="inner">
                           <div id="canvas-hours" class="clock-canvas"></div>
                           <div class="text">
-                            <p class="val">0</p>
+                            <p class="val">{this.addLeadingZeros(countDown.hours)}</p>
                             <p class="type-hours type-time">HOURS</p>
                           </div>
                         </div>
@@ -65,7 +134,7 @@ export class CountDownParallax extends Component {
                         <div class="inner">
                           <div id="canvas-minutes" class="clock-canvas"></div>
                           <div class="text">
-                            <p class="val">0</p>
+                            <p class="val">{this.addLeadingZeros(countDown.min)}</p>
                             <p class="type-minutes type-time">MINUTES</p>
                           </div>
                         </div>
@@ -76,7 +145,7 @@ export class CountDownParallax extends Component {
                         <div class="inner">
                           <div id="canvas-seconds" class="clock-canvas"></div>
                           <div class="text">
-                            <p class="val">0</p>
+                            <p class="val">{this.addLeadingZeros(countDown.sec)}</p>
                             <p class="type-seconds type-time">SECONDS</p>
                           </div>
                         </div>
@@ -91,6 +160,36 @@ export class CountDownParallax extends Component {
       </section>
     );
 
-    return countdown;
+    return (
+      <StaticQuery
+        query={graphql`
+          {
+            content: markdownRemark(
+              frontmatter: { section: { eq: "countdown" }, page: { eq: "home" } }
+            ) {
+              frontmatter {
+                eventStartYearUtc
+                eventStartMonthUtc
+                eventStartDayUtc
+                eventStartHourUtc
+                eventStartMinuteUtc
+              }
+            }
+          }
+        `}
+        render={data => {
+          var date = data.content.frontmatter;
+
+          this.endDate = Date.UTC(
+            date.eventStartYearUtc, 
+            date.eventStartMonthUtc, 
+            date.eventStartDayUtc, 
+            date.eventStartHourUtc, 
+            date.eventStartMinuteUtc);
+
+          return countDownParallax;
+        }}
+      />
+    )
   }
 }

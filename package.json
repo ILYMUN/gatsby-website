@@ -37,6 +37,7 @@
     "gatsby-transformer-sharp": "^2.2.14",
     "hero-slider": "^2.0.3",
     "jquery": "^3.4.1",
+    "kinetic": "^5.2.0",
     "prismjs": "^1.17.1",
     "react": "^16.9.0",
     "react-animate-on-scroll": "^2.1.5",
