@@ -1,0 +1,25 @@
+---
+label: landing-countdown
+hide_body: true
+fields:
+- type: text
+  name: page
+  label: page
+- type: text
+  name: section
+  label: section
+- type: number
+  name: eventStartYearUtc
+  label: eventStartYearUtc
+- type: number
+  name: eventStartMonthUtc
+  label: eventStartMonthUtc
+- type: number
+  name: eventStartDayUtc
+  label: eventStartDayUtc
+- type: number
+  name: eventStartHourUtc
+  label: eventStartHourUtc
+- type: number
+  name: eventStartMinuteUtc
+  label: eventStartMinuteUtc
