@@ -52,3 +52,5 @@ fields:
 - type: textarea
   name: fourthPointContent
   label: fourthPointContent
+pages:
+- content/pages/home-page/values.md
