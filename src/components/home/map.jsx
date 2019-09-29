@@ -29,7 +29,7 @@ export class Map extends Component {
   }
 
   render() {
-    const GoogleMapExample = withGoogleMap(props => (
+    const IlymunLocationMap = withGoogleMap(props => (
       <GoogleMap
         defaultOptions={{
           // How zoomed in you want the map to start at (always required)
@@ -314,17 +314,16 @@ export class Map extends Component {
     return (
       <>
         <Helmet>
-          <script
-            type="text/javascript"
-            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAe1DMphtMNtyXrGpefobwwONtV0oiWwE4&callback=onGoogleMap"
-          ></script>
+          <script async defer
+              src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAe1DMphtMNtyXrGpefobwwONtV0oiWwE4&callback=initMap">
+          </script>
         </Helmet>
 
         {!this.state.mapLoaded ? (
           "Loading map..."
         ) : (
           <div>
-            <GoogleMapExample
+            <IlymunLocationMap
               containerElement={
                 <div style={{ height: `500px`, width: "100vw" }} />
               }
@@ -339,7 +338,7 @@ export class Map extends Component {
   state = { mapLoaded: false };
 
   componentDidMount() {
-    window.onGoogleMap = () => this.setState({ mapLoaded: true });
+    window.initMap = () => this.setState({ mapLoaded: true });
   }
 
   componentWillUnmount() {
