@@ -132,6 +132,8 @@
 .upper-navbar a{
 	color: white;
 	text-decoration: none;
+	/* Remove gatsby added underline */
+    box-shadow: none;
 }
 .upper-navbar a.fa{
 	margin-left: 15px;

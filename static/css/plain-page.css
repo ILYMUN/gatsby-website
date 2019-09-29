@@ -16,4 +16,6 @@
 }
 .plainPage #content a {
   text-decoration: underline;
+  /* Remove gatsby added underline */
+  box-shadow: none;
 }

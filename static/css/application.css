@@ -32,6 +32,11 @@
     cursor: pointer;
 }
 
+a {
+    /* Remove gatsby added underline */
+    box-shadow: none;
+}
+
 /*PHONES*/
 
 @media screen and (max-width: 768px) {
