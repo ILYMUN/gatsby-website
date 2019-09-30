@@ -63,6 +63,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   }
 };
 
+const webpack = require('webpack');
 exports.onCreateWebpackConfig = ({
   stage,
   rules,
