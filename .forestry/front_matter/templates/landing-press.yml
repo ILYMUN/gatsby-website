@@ -1,0 +1,20 @@
+---
+label: landing-press
+hide_body: true
+fields:
+- type: text
+  name: page
+  label: page
+  hidden: true
+- type: text
+  name: section
+  label: section
+  hidden: true
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: subtitle
+  label: subtitle
+pages:
+- content/pages/home-page/press.md

@@ -1,0 +1,18 @@
+---
+label: landing-about
+hide_body: false
+fields:
+- type: text
+  name: page
+  label: page
+  hidden: true
+- type: text
+  name: section
+  label: section
+  hidden: true
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: subtitle
+  label: subtitle
