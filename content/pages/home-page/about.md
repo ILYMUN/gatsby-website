@@ -1,13 +1,14 @@
 ---
-page: "home"
-section: "about"
+page: home
+section: about
+title: about
+subtitle: Ilymun, (International Lyon Model United Nations), is a three-day conference,
+  organized by students in Lyon for students from around the world.
 
-title: "about"
-subtitle: "Ilymun, (International Lyon Model United Nations), is a three-day conference, organized by students in Lyon for students from around the world."
 ---
+In 2015, the UN adopted the Sustainable Development Goals, and set targets for 2030. Our conference will focus on Goal 6, Clean water and sanitation, and Goal 14, Life below water. The importance of these two goals is unparalleled. As the UN states, “Water is at the core of sustainable development and is critical for socio-economic development, energy and food production, healthy ecosystems and for human survival itself.” 
 
-In 2015 the UN adopted the 17 Sustainable Development Goals, and set targets for 2030. Our conference addresses Goal 10. In defining this goal, the UN explains that “Inequalities based on income, sex, age, disability, sexual orientation, race, class, ethnicity, religion and opportunity continue to persist across the world.”
+In the past few years, the UN has called great attention to issues of water and now states that water is key to securing peace and a sustainable future. Goals 6 and 14 address issues of water scarcity, water security and equal access to water. They also focus on the protection of the earth's essential water resources. These resources have been exploited as a source of power and economic profit, critically jeopardising the health of our oceans, lakes and rivers as well as coastal life. In addition, it is crucial to address the increasing conflicts, ranging from water access to maritime boundaries, which are continually shaping relations between nations. Finally, in a time of great technological surge, various solutions to counter water issues must be considered. Indeed, water issues bear upon all areas of human development and thus impact all of us as well as the health of the earth itself.
 
-Economic growth is not enough to reduce these disparities. The gaps between the rich and the poor are growing bigger. It is clear that inequality is a serious threat to social and political stability as well as to the environment and sustained growth. Thus, inequalities within and among countries is one of our biggest challenges. According to the UN, “Inequality is not a matter of fate or chance and can be reversed through policies and reforms.”
-
-It is our hope that in debating issues regarding empowerment, opportunity and the social and economic inclusion of all, the delegates of ILYMUN 2019 will draft these much-needed policies and reforms.
+  
+It is our hope that in debating issues regarding ocean health, water scarcity and health the delegates of ILYMUN 2020 will draft these much-needed policies and reforms.
