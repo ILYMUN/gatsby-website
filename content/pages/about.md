@@ -1,7 +1,7 @@
 ---
 type: plain
 path: "/about"
-title: ILYMUN 2019
+title: ILYMUN 2020
 
 ---
 2020 will be the eighth consecutive year in which the International School of Lyon and the Cité Scolaire Internationale de Lyon collaborate to organise ILYMUN. The conference will take place the 30th, 31st January and 1st of February, in the prestigious 'Hôtel de Région Auvergne-Rhône-Alpes' (1 Esplanade François Mitterrand, 69269 Lyon, Cedex 02). We have invited keen and bright high school pupils to join us to debate and take action!
