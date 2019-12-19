@@ -5,7 +5,7 @@ import { Navbar } from "../components/navbar";
 import { Footer } from "../components/footer";
 
 import { HomeAboutSection } from "../components/home/about";
-import { LandingSlider } from "../components/home/slider";
+import { LandingHero } from "../components/home/hero";
 import { LandingParallax } from "../components/home/parallax";
 import { LandingValues } from "../components/home/values";
 import { LandingTeam } from "../components/home/team";
@@ -47,7 +47,7 @@ class HomePage extends React.Component {
         <Navbar landing />
 
         <div id="content" class="site-content">
-          <LandingSlider />
+          <LandingHero />
           <HomeAboutSection />
           <LandingParallax />
           <LandingValues />
