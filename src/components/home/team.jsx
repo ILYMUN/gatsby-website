@@ -15,6 +15,18 @@ export class LandingTeam extends Component {
               frontmatter {
                 title
                 subtitle
+                image1
+                name1
+                image2
+                name2
+                image3
+                name3
+                image4
+                name4
+                image5
+                name5
+                image6
+                name6
               }
               html
             }
@@ -42,60 +54,60 @@ export class LandingTeam extends Component {
                         <ScrollAnimation animateIn="bounceInUp" animateOnce>
                           <LazyLoad>
                             <img
-                              src={require("../../../static/images/team/estee.jpg")}
+                              src={require("../../../uploads/" + data.content.frontmatter.image1)}
                             />
                           </LazyLoad>
-                          <p>Estée Poichot</p>
+                          <p>{data.content.frontmatter.name1}</p>
                         </ScrollAnimation>
                       </div>
                       <div class="col-md-4 col-sm-4">
                         <ScrollAnimation animateIn="bounceInUp" animateOnce>
                           <LazyLoad>
                             <img
-                              src={require("../../../static/images/team/justine.jpg")}
+                              src={require("../../../uploads/" + data.content.frontmatter.image2)}
                             />
                           </LazyLoad>
-                          <p>Justine Seguin</p>
+                          <p>{data.content.frontmatter.name2}</p>
                         </ScrollAnimation>
                       </div>
                       <div class="col-md-4 col-sm-4">
                         <ScrollAnimation animateIn="bounceInUp" animateOnce>
                           <LazyLoad>
                             <img
-                              src={require("../../../static/images/team/david.jpg")}
+                              src={require("../../../uploads/" + data.content.frontmatter.image3)}
                             />
                           </LazyLoad>
-                          <p>David Genaro Garcia</p>
+                          <p>{data.content.frontmatter.name3}</p>
                         </ScrollAnimation>
                       </div>
                       <div class="col-md-4 col-sm-4">
                         <ScrollAnimation animateIn="bounceInUp" animateOnce>
                           <LazyLoad>
                             <img
-                              src={require("../../../static/images/team/remi.jpg")}
+                              src={require("../../../uploads/" + data.content.frontmatter.image4)}
                             />
                           </LazyLoad>
-                          <p>Rémi Fodor</p>
+                          <p>{data.content.frontmatter.name4}</p>
                         </ScrollAnimation>
                       </div>
                       <div class="col-md-4 col-sm-4">
                         <ScrollAnimation animateIn="bounceInUp" animateOnce>
                           <LazyLoad>
                             <img
-                              src={require("../../../static/images/team/line.jpg")}
+                              src={require("../../../uploads/" + data.content.frontmatter.image5)}
                             />
                           </LazyLoad>
-                          <p>Line Teixeira</p>
+                          <p>{data.content.frontmatter.name5}</p>
                         </ScrollAnimation>
                       </div>
                       <div class="col-md-4 col-sm-4">
                         <ScrollAnimation animateIn="bounceInUp" animateOnce>
                           <LazyLoad height={200}>
                             <img
-                              src={require("../../../static/images/team/matthieu.jpg")}
+                              src={require("../../../uploads/" + data.content.frontmatter.image6)}
                             />
                           </LazyLoad>
-                          <p>Matthieu Contamin</p>
+                          <p>{data.content.frontmatter.name6}</p>
                         </ScrollAnimation>
                       </div>
                     </div>
