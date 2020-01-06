@@ -16,7 +16,7 @@ title: Committees & Issues Debated
 
 ### General Assembly
 
-* [The Respect of the Fundamental Rights endowed to all by the charter of the United Nations](https://docs.google.com/document/d/1qkUgtF8VtI-1rtgB1ZAuAVdSUOHjYUrFGgHNi0uC324/edit?usp=sharing)
+* [Marine Biodiversity](https://drive.google.com/file/d/1xE6aZLvG1Ny4ubyC6dXIDn50AhaKljMu/view?usp=sharing "Marine Biodiversity ") 
 
 </div>
 
@@ -28,9 +28,9 @@ title: Committees & Issues Debated
 
 ### Security Council
 
-* [Tackling Organised Crime at Sea](https://docs.google.com/document/d/1JsveYWP5H9_hPvWZlhjYUosXyXTh7l1sLH6W-7rEM-0/edit?usp=sharing "Tackling Organised Crime at Sea ")
-* [The South China Sea](https://docs.google.com/document/d/17SVWDQ_uaFZxhdxW6MiUrr4cEnfqxxPsbCxDglPPlzY/edit?usp=sharing "The South China Sea ")
-* [Water Scarcity](https://docs.google.com/document/d/1XMPc_AiXF1QibUSPGouG9jNkn2XEclrl_YDzNgApQn4/edit?usp=sharing "Water Scarcity ")
+* [Tackling Organised Crime at Sea](https://drive.google.com/file/d/1ORcW91arQOU911crNGqKYg_pszmnOwiQ/view?usp=sharing "Tackling Organised Crime at Sea ")
+* [The South China Sea](https://drive.google.com/file/d/1pmp1jjEHhdxtkd_YgNthYbg6bgMK69Hx/view?usp=sharing "The South China Sea ")
+* [Water Scarcity](https://drive.google.com/file/d/13ErhxmXVA_J8wGFDmHzDsIO0L3RJw8d5/view?usp=sharing "Water Scarcity ")
 
 </div>
 
@@ -38,9 +38,9 @@ title: Committees & Issues Debated
 
 ### Historical Security Council
 
-* [Suez Canal Crisis: 1956](https://docs.google.com/document/d/1YVIrD42zWaigMAFF2QxRav8nQ9dZj3hZ10GpQeoIpLw/edit?usp=sharing "Suez Canal Crisis: 1956 ")
-* [Turkish Invasion of Cyprus: 1974](https://docs.google.com/document/d/1rtsQs_y3W0uccXbD_Mlx7GPTuGen2f2bJNcpeRll6-k/edit?usp=sharing "Turkish Invasion of Cyprus: 1974")
-* [Falkland Islands War: 1982  ](https://docs.google.com/document/d/1_aOEZuLHU-KEI6lQgVXH09LYT8hOycn4pRk1Pqy8LA0/edit?usp=sharing "Falkland Islands War: 1982")
+* [Suez Canal Crisis: 1956](https://drive.google.com/file/d/1IbD555VApooD9WxILr5FTlJ5NPYlaxca/view?usp=sharing "Suez Canal Crisis: 1956 ")
+* [Turkish Invasion of Cyprus: 1974](https://drive.google.com/file/d/1ijQtGtj6ZLRRpfVkqBZYqFZ3hk9WD4wC/view?usp=sharing "Turkish Invasion of Cyprus: 1974")
+* [Falkland Islands War: 1982  ](https://drive.google.com/file/d/1gRf_SYAgJMQhDqng8jJxPXVYcrIhj6j2/view?usp=sharing "Falkland Islands War: 1982")
 
 </div>
 
@@ -48,8 +48,8 @@ title: Committees & Issues Debated
 
 ### Territorial
 
-* [Arctic Waters](https://docs.google.com/document/d/16Yv5rSotOESM3ESoxtYSor9CtWPM5iN6qiouzBRPxQs/edit?usp=sharing "Arctic Waters ")
-* [Transboundary Waters](https://docs.google.com/document/d/1S47htOtgxU56JlH6hLHm6dIDKYL59G2f8qop15aLne0/edit?usp=sharing "Transboundary Waters ")
+* [Arctic Waters](https://drive.google.com/file/d/1JPTm-hU8FAg_zU9yui7ztL_CMxXBdzMw/view?usp=sharing "Arctic Waters ")
+* [Transboundary Waters](https://drive.google.com/file/d/1qJUbqiJSmdjkgfDk2mS9mfn8cgTBTX12/view?usp=sharing "Transboundary Waters ")
 
 </div>
 
@@ -61,26 +61,26 @@ title: Committees & Issues Debated
 
 ### Environmental
 
-* [The Great Pacific Garbage Patch](https://docs.google.com/document/d/1D8BkTOW14pbXrERnWClSa1MOSvHyR3ixQPJucZDVJCI/edit?usp=sharing "The Great Pacific Garbage Patch") 
-* [Conservation and Management of Freshwater Sources](https://docs.google.com/document/d/1PL-COO5IIY6th27sHuunqKCqFjEUNW-SkMF2lSaj1o4/edit?usp=sharing)
+* [The Great Pacific Garbage Patch](https://drive.google.com/file/d/13xnksv3_KyspxsbIVDY01pcPsWyTV1qL/view?usp=sharing "The Great Pacific Garbage Patch")
+* [Conservation and Management of Freshwater Sources](https://drive.google.com/file/d/1Ggr84M6fr7j2Abtau6_W1N4WalrE44nS/view?usp=sharing "Conservation and Management of Freshwater Sources")
 
 </div>
 
 <div class="col-md-4">
 
-### Science and Technology 
+### Science and Technology
 
-* [Improving Ocean Health](https://docs.google.com/document/d/1G2OO5h3k56ENMaXY158aoE8XTJCXFKqHgzvq-4Aumcs/edit?usp=sharing "Improving Ocean Health") 
-* [Water as a Sustainable Resource](https://docs.google.com/document/d/1steW5wK0iB_DctxmWKjZnpTIUhyqrFOm4zVEn90g4D0/edit?usp=sharing "Water as a Sustainable Resource") 
+* [Improving Ocean Health](https://drive.google.com/file/d/1gYkJgXdCxBgoPLjD0NXVwIIUUraTTgKA/view?usp=sharing "Improving Ocean Health")
+* [Water as a Sustainable Resource](https://drive.google.com/file/d/1lNJRCBKNqMxPY-Qc5jeuPm7rKQ5VkjGd/view?usp=sharing "Water as a Sustainable Resource")
 
 </div>
 
 <div class="col-md-4">
 
-### Human Rights  
+### Human Rights
 
-* [Embedding Gender Equity in Water Policies](https://docs.google.com/document/d/1OpCTl6sUNMTpVZ8F7NlfdauIqSP7F1TjEvxn5BExgcA/edit?usp=sharing "Embedding Gender Equity in Water Policies") 
-* [Governance of Indigenous Peoples Water Supply](https://docs.google.com/document/d/1_xLsKUgbaDSIV1CI18O4ouTBWeWwtCm3PCBI4J-0tBE/edit?usp=sharing "Governance of Indigenous Peoples Water Supply") 
+* [Embedding Gender Equity in Water Policies](https://drive.google.com/file/d/19YxsG1oQgpDrNRH3nTY9R9VsdJXlRQHX/view?usp=sharing "Embedding Gender Equity in Water Policies")
+* [Governance of Indigenous Peoples Water Supply](https://drive.google.com/file/d/1LQyznmaGxedTs7TcnelhI3t-QOLwtGFg/view?usp=sharing "Governance of Indigenous Peoples Water Supply")
 
 </div>
 
@@ -90,20 +90,20 @@ title: Committees & Issues Debated
 
 <div class="col-md-4">
 
-### UNDP 
+### UNDP
 
-* [Disaster Relief](https://docs.google.com/document/d/15WuF9QVp0clLdh1BAxxosNd4PX0PEP9F3WQSgNfBYTs/edit?usp=sharing "Disaster Relief ") 
-* [Extraction, Trade and Allocation of Water Sources ](https://docs.google.com/document/d/1mZgAcfJ2adKVegNCUZl5SSiJlFjw6UNINqFQ5HtJ9Z8/edit?usp=sharing "Extraction, Trade and Allocation of Water Sources ")
-* [Prevention and Management of Droughts](https://docs.google.com/document/d/1M1Mv6_4UK-YbsPTfpvQyhfL71HMySBDHhBFpPDBgp4c/edit?usp=sharing "Prevention and Management of Droughts ") 
+* [Disaster Relief](https://drive.google.com/file/d/1mESK0bfmxm3da8OHkcr1l9E7JtHBT9ji/view?usp=sharing "Disaster Relief ")
+* [Extraction, Trade and Allocation of Water Sources ](https://drive.google.com/file/d/15Z_nb1e9r_obKzT3gTqafO9YTt-Eamkd/view?usp=sharing "Extraction, Trade and Allocation of Water Sources ")
+* [Prevention and Management of Droughts](https://drive.google.com/file/d/1AxQWSLIX5yAAvfUQ7np9dqt03uYcpkvf/view?usp=sharing "Prevention and Management of Droughts ")
 
 </div>
 
 <div class="col-md-4">
 
-### World Health Organisation 
+### World Health Organisation
 
-* [Guaranteeing Water Safety](https://docs.google.com/document/d/1teuKYMitqt_9ZuiD2nPVx-4WW1e8kTdGH-FGAw4GX90/edit?usp=sharing "Guaranteeing Water Safety ") 
-* [Water Scarcity](https://docs.google.com/document/d/1nW9UvvyNYT9Q1SOMJCjE1kaQSvBwpTvEeEdHZ9U7mD0/edit?usp=sharing "Water Scarcity ") 
+* [Guaranteeing Water Safety](https://drive.google.com/file/d/1-jUpKHROBn0NusqwU6KlYNmtggoq2pp6/view?usp=sharing "Guaranteeing Water Safety ")
+* [Water Scarcity](https://drive.google.com/file/d/1VSlzEh_apGEQJbhEygtTc4bVdkJSeGqF/view?usp=sharing "Water Scarcity ")
 
 </div>
 
@@ -111,7 +111,7 @@ title: Committees & Issues Debated
 
 ### Action Assembly
 
-* [Water Over-Consumption; Water Pollution; Sanitation](https://docs.google.com/presentation/d/1SXlsah_LyaPdqHB_bBY3ARONZI2tucI3YQebTmstCGg/edit?usp=sharing "Water Over-Consumption; Water Pollution; Sanitation")   
+* [Water Over-Consumption; Water Pollution; Sanitation](https://drive.google.com/file/d/1Lvhhzu3ZiQOArdY8nnPliEURmOpnw-kE/view?usp=sharing "Water Over-Consumption; Water Pollution; Sanitation")
 
 </div>
 
@@ -121,9 +121,9 @@ title: Committees & Issues Debated
 
 <div class="col-md-4">
 
-### Special Conference: Focus on Islands 
+### Special Conference: Focus on Islands
 
-* [Special Conference: Complete Research Report](https://docs.google.com/document/d/1LjxKqRXCoe-9Whd7gE-UZO6XGdFE2DlLPp4S27_vIEI/edit?usp=sharing "Special Conference: Focus on Islands ") 
+* [Special Conference: Complete Research Report](https://drive.google.com/file/d/1WLYtn_7Ycf1bQpIGfQDgaBZc4HAZakYQ/view?usp=sharing "Special Conference: Focus on Islands ")
 
 </div>
 
