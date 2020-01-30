@@ -15,4 +15,5 @@ fields:
   label: title
 pages:
 - content/pages/articles.md
+- content/pages/gallery.md
 - content/pages/others-muns.md
