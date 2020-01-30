@@ -1,6 +1,6 @@
 ---
 type: plain
-path: "/others-muns"
+path: "/other-muns"
 title: Others Muns
 
 ---
