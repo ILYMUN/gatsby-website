@@ -182,7 +182,7 @@ export class Navbar extends Component {
                 </a>
                 <ul class="dropdown-menu">
                   <li>
-                    <a href="https://medium.com/@ilymun">Articles</a>
+                    <a href="/articles/">Articles</a>
                   </li>
                   <li>
                     <a href="https://www.facebook.com/pg/internationallyonmun/photos/">
