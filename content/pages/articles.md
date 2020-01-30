@@ -20,7 +20,7 @@ title: Articles
 
 <br /><br />
 
-<h3>Behinf the Scenes of ILYMUN: MUN club at the CSI</h3>
+<h3>Behind the Scenes of ILYMUN: MUN club at the CSI</h3>
 
 <p>A Model UN Club has been held at the Cité Scolaire Internationale of Lyon for many years. Students get together every Thursday, after school, to debate various topics, often inspired by ongoing events. Ranging from a motion on measures to protect forests, in light of the Australian bushfires, to resolutions on the refugee crisis, students are brought to confront ideas in a setting imitating a United Nations assembly.<br /><a href="https://medium.com/getting-to-know-ilymun/behind-the-scenes-of-ilymun-mun-club-at-the-csi-f4d202c8248a">See more</a></p>
 
