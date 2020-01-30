@@ -79,7 +79,7 @@ export class LandingPress extends Component {
                       }}
                     >
                       <h3>Latest Articles</h3>
-                      <a href="https://medium.com/ilymun">
+                      <a href="/articles/">
                         <button class="button">Checkout Our Articles</button>
                       </a>
                     </div>
