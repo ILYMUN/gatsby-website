@@ -28,6 +28,8 @@ title: Others MUNs
 
 <div class="col-md-4">
 
+<h3>TIMUN</h3>
+
 <p>December conference in Istanbul <br /> <a href="[https://www.timun.gen.tr/](https://www.timun.gen.tr/ "https://www.timun.gen.tr/")">Click for link to website</a></p>
 
 </div>
