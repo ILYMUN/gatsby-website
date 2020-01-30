@@ -20,6 +20,18 @@ title: Articles
 
 <br /><br />
 
+<h3>Behinf the Scenes of ILYMUN: MUN club at the CSI</h3>
+
+<p>A Model UN Club has been held at the Cité Scolaire Internationale of Lyon for many years. Students get together every Thursday, after school, to debate various topics, often inspired by ongoing events. Ranging from a motion on measures to protect forests, in light of the Australian bushfires, to resolutions on the refugee crisis, students are brought to confront ideas in a setting imitating a United Nations assembly.<br /><a href="https://medium.com/getting-to-know-ilymun/behind-the-scenes-of-ilymun-mun-club-at-the-csi-f4d202c8248a">See more</a></p>
+
+<br /><br />
+
+<h3>ILYMUN PREPARATIONS</h3>
+
+<p>From January 30th to February 1rst, students from all over the world will gather to debate water issues, United Nations-style, at ILYMUN; an annual conference organized for students, by students. ILYMUN will be hosting the debate around water with the following committees: Security Council, Historical Security Council, Science and Technology, World Health Organization, Environmental, UNDP, Human Rights, Territorial, Action Assembly, International Court of Justice, Special Conference: focus on islands, Youth Conferences, and naturally, the General Assembly.<br /><a href="https://medium.com/getting-to-know-ilymun/ilymun-preparations-5295de8c26cc">See more</a></p>
+
+<br /><br />
+
 <p> If you will see all of our articles: <a href="https://medium.com/@ilymun">Click for link to website</a></p>
 
 </div>
