@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Pablo Gamito <pablo@gamito.me>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/ILYMUN/gatsby-website/issues"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.12.0",
@@ -57,7 +57,7 @@
   "devDependencies": {
     "prettier": "^1.19.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://ilymun.org",
   "keywords": [
     "gatsby"
   ],
@@ -65,7 +65,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/ILYMUN/gatsby-website.git"
   },
   "scripts": {
     "build": "gatsby build",
