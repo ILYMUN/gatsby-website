@@ -14,4 +14,5 @@ fields:
   name: title
   label: title
 pages:
+- content/pages/articles.md
 - content/pages/others-muns.md
