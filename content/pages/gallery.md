@@ -8,11 +8,7 @@ title: Gallery
 
 <br /><br />
 
-<div class="col-md-4>
-
-<img src="https://ilymun.org/images/gallery-img/child1.jpg" alt="Erreur" />
-
-</div>
+<img src="../../static/images/gallery-img/flag1.jpg" alt="Picture" />
 
 <p>If you want to see more pictures: <a href="https://www.facebook.com/internationallyonmun">Click here for link to facebook.com</a></p>
 
