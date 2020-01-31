@@ -6,7 +6,7 @@ title: Gallery
 ---
 <div class="row">
 
-<div clas="col-md-4>
+<div class="col-md-4>
 
 </div>
 
