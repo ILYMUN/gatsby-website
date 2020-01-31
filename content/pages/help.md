@@ -4,6 +4,8 @@ path: "/fund"
 title: Help
 
 ---
+<br />
+
 <h2>Email</h2>
 
 <p>ILYMUN Support email address: <a href="https://web.archive.org/web/20181108191113/mailto:support@ilymun.org">support@ilymun.org</a></p>
@@ -14,9 +16,9 @@ title: Help
 
 <p>Cité Scolaire Internationale de Lyon,  International School of Lyon,
 
-2 place de Montréal, 
+2 place de Montréal,
 
-69007, Lyon 
+69007, Lyon
 
 FRANCE   </p>
 
