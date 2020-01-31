@@ -47,7 +47,7 @@ export class HomeAboutSection extends Component {
                           <div class="double-frame">
                             <LazyLoad>
                               <img
-                                src={require("../../../static/images/about.jpg")}
+                                src={require("../../../static/images/new_about.jpg")}
                                 alt=""
                               />
                             </LazyLoad>
