@@ -6,6 +6,8 @@ title: Gallery
 ---
 <div class="row">
 
+<br /><br />
+
 <div class="col-md-4>
 
 <img src="../images/gallery-img/child1.jpg" alt="Photo"/>
