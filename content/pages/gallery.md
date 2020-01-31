@@ -10,7 +10,7 @@ title: Gallery
 
 <div class="col-md-4>
 
-<img src="https://ilymun.org/images/gallery-img/child1.jpg" alt="Photo" />
+<img src="https://ilymun.org/images/gallery-img/child1.jpg" alt="Erreur" />
 
 </div>
 
