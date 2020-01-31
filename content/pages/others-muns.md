@@ -14,7 +14,7 @@ title: Others MUNs
 
 <h3>Impact Summit</h3>
 
-<p>International MUN, end of September in Prague <br /> <a href="[https://www.salamforpeace.com/about](https://www.salamforpeace.com/about "https://www.salamforpeace.com/about")">Click for link to website</a></p>
+<p>International MUN, end of September in Prague <br /> <a href="https://www.salamforpeace.com/about">Click for link to website</a></p>
 
 </div>
 
@@ -22,7 +22,7 @@ title: Others MUNs
 
 <h3>HMUN</h3>
 
-<p>April conference in Haarlem, The Netherlands <br /> <a href="[https://www.hmun.nl/](https://www.hmun.nl/ "https://www.hmun.nl/")">Click for link to website</a></p>
+<p>April conference in Haarlem, The Netherlands <br /> <a href="https://www.hmun.nl/">Click for link to website</a></p>
 
 </div>
 
@@ -30,7 +30,7 @@ title: Others MUNs
 
 <h3>TIMUN</h3>
 
-<p>December conference in Istanbul <br /> <a href="[https://www.timun.gen.tr/](https://www.timun.gen.tr/ "https://www.timun.gen.tr/")">Click for link to website</a></p>
+<p>December conference in Istanbul <br /> <a href="https://www.timun.gen.tr/">Click for link to website</a></p>
 
 </div>
 
