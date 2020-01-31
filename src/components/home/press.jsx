@@ -15,21 +15,18 @@ const imagesLoadedOptions = { background: ".my-bg-image-el" };
 export class LandingPress extends Component {
   render() {
     const childElements = [
-      require("../../../static/images/gallery/sample/optimized/0.jpg"),
-      require("../../../static/images/gallery/sample/optimized/1.jpg"),
-      require("../../../static/images/gallery/sample/optimized/2.jpg"),
-      require("../../../static/images/gallery/sample/optimized/3.jpg"),
-      require("../../../static/images/gallery/sample/optimized/4.jpg"),
-      require("../../../static/images/gallery/sample/optimized/5.jpg"),
-      require("../../../static/images/gallery/sample/optimized/6.jpg"),
-      require("../../../static/images/gallery/sample/optimized/7.jpg"),
-      require("../../../static/images/gallery/sample/optimized/8.jpg"),
-      require("../../../static/images/gallery/sample/optimized/9.jpg"),
-      require("../../../static/images/gallery/sample/optimized/10.jpg"),
-      require("../../../static/images/gallery/sample/optimized/11.jpg"),
-      require("../../../static/images/gallery/sample/optimized/12.jpg"),
-      require("../../../static/images/gallery/sample/optimized/13.jpg"),
-      require("../../../static/images/gallery/sample/optimized/14.jpg")
+      require("../../../static/images/gallery/sample/optimized/new_0.jpg"),
+      require("../../../static/images/gallery/sample/optimized/new_1.jpg"),
+      require("../../../static/images/gallery/sample/optimized/new_2.jpg"),
+      require("../../../static/images/gallery/sample/optimized/new_3.jpg"),
+      require("../../../static/images/gallery/sample/optimized/new_4.jpg"),
+      require("../../../static/images/gallery/sample/optimized/new_5.jpg"),
+      require("../../../static/images/gallery/sample/optimized/new_6.jpg"),
+      require("../../../static/images/gallery/sample/optimized/new_7.jpg"),
+      require("../../../static/images/gallery/sample/optimized/new_8.jpg"),
+      require("../../../static/images/gallery/sample/optimized/new_9.jpg"),
+      require("../../../static/images/gallery/sample/optimized/new_10.jpg"),
+      require("../../../static/images/gallery/sample/optimized/new_11.jpg")
     ].map(function(src) {
       return (
         <div className="masonryImage col-md-3 col-sm-4 col-xs-6">
