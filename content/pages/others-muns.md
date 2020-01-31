@@ -34,4 +34,44 @@ title: Others MUNs
 
 </div>
 
+<div class="col-md-4">
+
+<h3>BERMUN</h3>
+
+<p>Berlin MUN, that runs in November at the John F. Kennedy School <br /> <a href="https://www1.bermun.de/">Click for link to website</a></p>
+
+</div>
+
+<div class="col-md-4">
+
+<h3>INOMUN</h3>
+
+<p>International North MUN, end of March conference in Lille <br /><a href="http://inomun.weebly.com/">Click for link to website</a></p>
+
+</div>
+
+<div class="col-md-4">
+
+<h3>VefaMUN</h3>
+
+<p>Vefa Lisesi MUN, end of March conference in Instanbul <br /><a href="https://www.facebook.com/vefamun/">Click for link to website</a></p>
+
+</div>
+
+<div class="col-md-4">
+
+<h3>HagaMUN</h3>
+
+<p>March conference in The Hague <br /><a href="https://hagamun.org/">Click for link to website</a></p>
+
+</div>
+
+<div class="col-md-4">
+
+<h3>THIMUN</h3>
+
+<p>The Hague International Mun, that runs in Singapore end of November and in The Hague at the end of January. <br /><a href="http://foundation.thimun.org/">Click for link to website</a></p>
+
+</div>
+
 </div>
