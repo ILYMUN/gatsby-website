@@ -62,7 +62,7 @@ title: Others MUNs
 
 <h3>HagaMUN</h3>
 
-<p>March conference in The Hague <br /><a href="https://hagamun.org/">Click for link to website</a></p>
+<p>March conference in The Hague <br /><a href="https://hagamun.org/">Click here  for link to the website</a></p>
 
 </div>
 
