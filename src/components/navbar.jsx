@@ -51,6 +51,7 @@ export class Navbar extends Component {
 
   render() {
     const upperNavBar = (
+      <title>ILYMUN</title>
       <div class="container upper-navbar">
         <div class="row">
           <div class="col-md-3">
