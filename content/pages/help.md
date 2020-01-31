@@ -16,7 +16,7 @@ title: Help
 
 2 place de Montréal, 
 
-69361, Lyon 
+69007, Lyon 
 
 FRANCE   </p>
 
