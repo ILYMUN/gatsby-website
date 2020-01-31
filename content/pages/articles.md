@@ -4,6 +4,8 @@ path: "/articles"
 title: Articles
 
 ---
+<title>ILYMUN</title>
+
 <br />
 
 <div class="row">
