@@ -34,6 +34,6 @@ title: Articles
 
 <br /><br />
 
-<p> If you want to see all of our articles: <a href="https://medium.com/@ilymun">Click for link to medium</a></p>
+<p> If you want to see all of our articles: <a href="https://medium.com/@ilymun">Click here for link to medium.com</a></p>
 
 </div>
