@@ -38,6 +38,6 @@ title: Gallery
 
 <div id="test" style="visibility:hidden;">
 
-<p>blablabla</p>
+<p>https://google.com</p>
 
 </div>
