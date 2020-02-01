@@ -35,3 +35,9 @@ title: Gallery
 <br />
 
 <p style="padding-top:20px;">If you want to see more pictures: <a href="https://www.facebook.com/internationallyonmun">Click here for link to facebook.com</a></p>
+
+<div id="test" style="visibility:hidden;">
+
+<p>blablabla</p>
+
+</div>
