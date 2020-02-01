@@ -18,9 +18,7 @@ title: Gallery
 
 </div>
 
-<br />
-
-<div>
+<div style="padding-top:5px">
 
 <img src="https://ilymun.org/images/gallery-img/fun1.jpg" alt="Picture" style="height:22.5%;width:22.5%;">
 
