@@ -185,7 +185,7 @@ export class Navbar extends Component {
                     <a href="/articles/">Articles</a>
                   </li>
                   <li>
-                    <a href="https://www.facebook.com/pg/internationallyonmun/photos/">
+                    <a href="/gallery/">
                       Gallery
                     </a>
                   </li>
