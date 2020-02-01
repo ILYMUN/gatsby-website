@@ -4,7 +4,7 @@ path: "/gallery"
 title: Gallery
 
 ---
-<img src="../../static/images/gallery-img/flag1.jpg" alt="Picture" />
+!\[alt text\](https://ilymun.org/images/about.jpg "test")
 
 <img src="../../static/images/gallery-img/child1.jpg" alt="Picture" />
 
