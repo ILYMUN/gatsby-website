@@ -16,6 +16,24 @@ title: Articles
 
 <br /><br />
 
+<h3>Guest Speaker 2020 : Jean Louis Etienne</h3>
+
+<p>"The South Pole is where all the meridiens of all the countries come together. It is the land of international peace." <br /><a href="https://medium.com/ilymuns-guest-speakers/dr-jean-louis-etienne-777c7922e72">See more</a></p>
+
+<br /><br />
+
+<h3>Our written press team investigates the Humans of ILYMUN</h3>
+
+<p>On the first day of ILYMUN, many people arrived, most of them strangers to us. At first, only one thing seemed to be in common: their smile. So we became inquisitive: why were they here, and what was making them smile so much? Here’s what we found out. <br /><a href="https://medium.com/ilymun-inside-the-conference/ilymun-attendees-experience-70059aceca39">See more</a></p>
+
+<br /><br />
+
+<h3>ILYMUN : Inside the conference</h3>
+
+<p>Committee reports, articles, and more! <br /><a href="https://medium.com/ilymun-inside-the-conference">See more</a></p>
+
+<br /><br />
+
 <h3>Training Day November 31st 2019</h3>
 
 <p>The Organization of ILYMUN is a very large undertaking and requires a lot of people to cooperate and work together in order to assure the quality of the whole conference. On november 30th, training day was a way to prepare all teams; press, admins, logistics just to name a few, to ensure that we could have the best possible conference for everyone involved. <br /><a href="https://medium.com/training-day-committees/training-day-november-31st-2019-4f5b98525e2">See more</a></p>
