@@ -1,18 +1,18 @@
 ---
 type: plain
 path: "/about"
-title: ILYMUN 2020
+title: ILYMUN 2021
 
 ---
-2020 will be the eighth consecutive year in which the International School of Lyon and the Cité Scolaire Internationale de Lyon collaborate to organise ILYMUN. The conference will take place the 30th, 31st January and 1st of February, in the prestigious 'Hôtel de Région Auvergne-Rhône-Alpes' (1 Esplanade François Mitterrand, 69269 Lyon, Cedex 02). We have invited keen and bright high school pupils to join us to debate and take action!
+2021 will be the ninth consecutive year in which the International School of Lyon and the Cité Scolaire Internationale de Lyon collaborate to organise ILYMUN. The conference usually takes place around the 30th, 31st January and 1st of February, in the prestigious ‘Hôtel de Région Auvergne-Rhône-Alpes’ (1 Esplanade François Mitterrand, 69269 Lyon, Cedex 02); however, due to the Covid-19 pandemic these dates and the setting of the conference are still to be confirmed. We have invited keen and bright high school pupils to join us to debate and take action!
 
-In 2015 the UN adopted 17 goals, the Sustainable Development Goals, and set targets for 2030 in order to improve the quality of life on the planet. The theme of our conference this year, ‘Water: A Thirst for Change’, will focus on Goal 6, Clean water and sanitation, and Goal 14, Life below water. The importance of these two goals is unparalleled. As the UN states, “Water is at the core of sustainable development and is critical for socio-economic development, energy and food production, healthy ecosystems and for human survival itself.”
+The 20th century technological revolution, and especially the invention of the internet, brought about a new wave of globalization and the creation of a new space called the “cyber world”. The Covid-19 pandemic has shown how much we rely on technology and to what extent we are all connected. As the cyber world affects so many aspects of our lives, it must be considered when working towards the United Nations’ goals. The cyber world is a new frontier for which we need to develop institutions that are lawful, inclusive and fair. Our conference will focus on the United Nations’ Sustainable Goal 16, “Peace, Justice, and Strong Institutions” with debates focused on strengthening our cyber institutions. This brings us to the following questioning, this year’s theme: “Cyber world: Are truth, justice, and peace in the balance?”.
 
 We believe that by involving youth in finding solutions and taking action, we can make a difference. Therefore, in addition to our core MUN committees, we will once again host the Action Assembly, in which students represent themselves rather than countries in order to work towards real change in their local communities, striving for change through direct action. Additionally, ILYMUN will also be hosting the ‘Youth Conference’ for middle school students from the Auvergne-Rhône-Alpes region.
 
 We will also offer the Model International Court of Justice (ICJ), a forum that mediates conflicts between two nations by reflecting on treaties, international conventions, and international law. The ICJ is a unique and enriching experience for delegates who wish to try something different to ordinary committees, particularly for those interested in pursuing a career in law.
 
-All in all, we vow to make ILYMUN 2020 an unforgettable and thrilling experience for all its participants!
+All in all, we vow to make ILYMUN 2021 an unforgettable and thrilling experience for all its participants!
 
 #### History
 
@@ -49,4 +49,4 @@ The past several years we also have committed to debating the work and the value
 
 To make ILYMUN truly outstanding, we rely on generous sponsorship from institutions as well as private companies and individuals. We are currently sponsored by the Région Auvergne Rhône-Alpes who have generously provided their premises for the event. By financially helping ILYMUN, you will be effectively helping us reach our goals of providing a professional conference and encouraging young people to work towards positive changes in our world. For more information, click here to view our sponsor’s brochure (in PDF format). If you or your company are interested, our Public Relations Team is here to answer all of the questions you might have.
 
- Contact: tom.badou@csianglo.org
+Contact: tom.badou@csianglo.org
