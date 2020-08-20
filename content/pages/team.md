@@ -8,90 +8,85 @@ title: The ILYMUN Team
 
 #### Executive Team:
 
-Séphora Giraud-Carrier <br/>
-Basile Rérolle <br/>
-Nathan Bogaert <br/>
-Andras Gocz <br/>
-Nava Gottlieb <br/>
-Malo Thomassin <br/>
+Martin Barabas <br/>
+Horia Barabas <br/>
+Lucy Lu <br/>
+Leane Jupet <br/>
+Isabel Beurois <br/>
+Sonia Pasiecznik <br/>
 
 #### Heads of Chairs:
 
-Teresa Byrne <br/>
-Isabelle Thiney <br/>
-Isaac Noveck <br/>
-Luce Treppoz <br/>
+Julia Weiss <br/>
+Lance Arrighi <br/>
+Alice Faujas <br/>
+Jonah Gilroy <br/>
 
 #### Heads of Logistic:
 
-Lalou Bernardini <br/>
-Teo Tankurt-Mourre <br/>
-Pierre-Loup LeNoir <br/>
-Elsa Balen <br/>
+Lewis Cox <br/>
+Tahel Tobi <br/>
+Anais Imbrioscia <br/>
+Malo Uselle <br/>
 
 #### Heads of Housing:
 
-Julia Bedicks <br/>
-Tahel Tobi <br/>
-Maëlie Perier <br/>
-Emilie Brevière <br/>
+Rym Tallaa <br/>
+Valentine Marotte <br/>
+Maxime Ventura <br/>
 
 #### Heads of Social Events:
 
-Ipek Lara Dogan <br/>
-Tahel Tobi <br/>
-Julia Bedicks <br/>
-Lucas Origlia <br/>
-Elyse Contamin <br/>
-Alice Rossot <br/>
+Emma Andreetta <br/>
+Carlota Ortega <br/>
+Anna Moynier <br/>
+Ariane Nguyen <br/>
 
 #### Heads of Public Relations:
 
-Virgile Bonnel <br/>
-Tatiane Mendes <br/>
-Alexa Buathier-Phillipps <br/>
-Clara Gomez <br/>
+Elise Murer <br/>
+Hombeline Ponsignon <br/>
+Mathilde Le Luyer <br/>
+Salome Stokes <br/>
 
 #### Heads of Youth Conference:
 
-Elise Murer <br/>
-Tom Vasseur <br/>
-Sophie Marzio <br/>
-Sonia Pasiecznik <br/>
+Maja Muszyński <br/>
+Malak Malkawi <br/>
+Sarah Cotte <br/>
+Marta Averof <br/>
 
 #### Head of Press:
 
-Diego Royer <br/>
+Tomas Gouveia <br/> Jeanne Pierre <br/>
 
 #### Heads of Audiovisual Press:
 
 Louis Mellinand <br/>
-Alice Nicod <br/>
-Léo Lavost <br/>
+Yasmine Darchem <br/>
 
 #### Heads of Written Press:
 
-Charlene Lizut <br/>
-Isabel Beurois <br/>
-Arthur Quairel <br/>
+Anouk Balloffet <br/>
+Claire Dominici <br/>
+Clara Larsen <br/>
 
-#### Heads of Admin:
+#### Heads of Admins:
 
-Cian Corcoran <br/>
-Victorien Dirand <br/>
-Anne Dury <br/>
-Sarah Perret <br/>
+Guilherme Carvalho <br/>
+Jules Ambs <br/>
+Thomas Vacherand <br/>
+Lisa D’hoore <br/>
 
 #### Heads of Action Assembly:
 
-Capucine Sulmon <br/>
-Eloïse Saint-Girons <br/>
+Malou Morin <br/>
+Marine Balay <br/>
 
 #### Heads of International Court of Justice:
 
-Horia Barabas <br/>
-Eleni Roka <br/>
+Vanessa Chiaoru <br/> Emily Ren <br/> Lila Schwab <br/>
 
 #### Head of Graphic Designs:
 
-Arthur Quairel <br/>
+Megan Cluck <br/>
