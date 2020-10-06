@@ -13,29 +13,31 @@ The ICJ at ILYMUN will help you view conflicts from a new perspective and will o
 
 #### What is This Year’s Case ?
 
-This year’s case is Egypt versus Ethiopia, in the conflict over the Grand Ethiopian Renaissance Dam.
+This year’s case is The Russian Federation versus The United States of America,
+
+in the conflict over the alleged Russian interference in the 2016 USA elections.
 
 The two teams of advocates will represent the following groups :
 
-– Applicant party: Egypt
+– Applicant party: United States of America (USA)
 
-– Respondent party: Ethiopia
+– Respondent party: Russian Federation (Russia)
 
 #### **How Does the ICJ at ILYMUN Work ?**
 
 The International Court of Justice is composed of:
 
-\- **The Presidency:** 
+\- **The Presidency:**
 
-Two Presidents. This year they are represented by Helen Roka and Horia Barabas.
+This year they are represented by Lila Schwab, Emily Ren and Vanessa Chioaru.
 
-\- **The Advocacy:** 
+\- **The Advocacy:**
 
 An Applicant and a Respondent party, both represented by 2 advocates each.
 
-\- **The Jurisdiction:** 
+\- **The Jurisdiction:**
 
-A court of 15-17 independent judges.
+A court of 15-20 independent judges.
 
 Both advocate parties hold opening speeches, to present both factual and legal evidence to the judges. The judges are given time to question the advocates.
 
@@ -45,7 +47,7 @@ Then advocates present closing statements. After this, the judges deliberate upo
 
 #### **How do Advocates and Judges Prepare for the ICJ ?**
 
-**Advocates** need to research the case and create a report (called a memorandum). They also suggest a list of 3-4 witnesses they would like to have at the trial. Finally, they create an evidence packet. The 2 parties collaborate together to create a stipulation. In sum, both teams prepare by__*__:
+**Advocates** need to research the case and create a report (called a memorandum). They also suggest a list of 3-4 witnesses they would like to have at the trial. Finally, they create an evidence packet. The 2 parties collaborate together to create a stipulation. In sum, both teams prepare by:
 
 \- Gathering evidence
 
@@ -55,9 +57,15 @@ Then advocates present closing statements. After this, the judges deliberate upo
 
 \- Writing a memorandum
 
-___*____unbiased help and guidance from Presidents as well as templates are provided._
+The Presidents of the ICJ will offer unbiased help and guidance to the
 
-**The Presidents of the ICJ** will work in partnership with the advocates to create and polish these documents and then share them with the opposing advocates and the judges and/or post them on the ILYMUN website for all to access.
+advocates. They will provide templates for the various documents and work in
+
+partnership with the advocates to create and polish these documents. The
+
+Presidents will then share the documents with the opposing advocates and the
+
+judges and/or post them on the ILYMUN website for all to access.
 
 **Judges** should read the documents shared and posted by the Presidents of the ICJ to become familiar with the case, the witnesses and the evidence. It is expected that judges will act without bias, be reflective and innovative.
 
@@ -75,6 +83,6 @@ Due to the challenging nature and limited places for this committee we ask deleg
 
 Delegates should also state which role they prefer (_judge or advocate_) and if they are open to taking the _alternative_ if they aren’t accepted for their first choice.
 
-Send **_letters of application_** or **_any questions_** about the ICJ to:
+Send **_any questions_** about the ICJ or **_letters of application_** before October 25 to:
 
-elenir@islyon.org
+vanessac@islyon.org
