@@ -128,10 +128,6 @@ title: Committees & Issues Debated
 
 </div>
 
-</div>
-
-<div class="row">
-
 <div class="col-md-4">
 
 ### Special Conference: Focus on Press
