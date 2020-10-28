@@ -122,6 +122,18 @@ title: Committees & Issues Debated
 
 <div class="col-md-4">
 
+### International Court of Justice
+
+* Russian interference int the 2016 U.S. elections: USA vs Russian Federation
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-4">
+
 ### Special Conference: Focus on Press
 
 * Free and fair press
