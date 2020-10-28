@@ -8,6 +8,135 @@ title: Committees & Issues Debated
 
 <section>
 
+## ILYMUN 2021
+
+<div class="row">
+
+<div class="col-md-4">
+
+### General Assembly
+
+* Protecting human rights in the cyber world: the need for just, effective, and accountable institutions
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-4">
+
+### Security Council
+
+* Protecting the democratic process
+* Technology: both propagating and fighting extremism
+* Global security
+
+</div>
+
+<div class="col-md-4">
+
+### Historical Security Council
+
+* Gulf War: 14th February 2003
+* Cuban missile crisis: October 16th 1962
+* Snowden's case: 22nd February 2014
+
+</div>
+
+<div class="col-md-4">
+
+### Technology
+
+* Artifical intelligence
+* Cyber security
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-4">
+
+### Environmental
+
+* Invisible pollution of cyber activity
+* Materials for cyber activity: resources and waste
+
+</div>
+
+<div class="col-md-4">
+
+### Social
+
+* Ethics of the internet
+* Equity and empowerment through the internet
+
+</div>
+
+<div class="col-md-4">
+
+### Human Rights
+
+* Control of personal information
+* Censorship and misinformation
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-4">
+
+### Economic
+
+* Work in the cyber world: inclusive, substainable and decent
+* Transparency and accountability
+
+</div>
+
+<div class="col-md-4">
+
+### World Health Organisation
+
+* Health and the cyber world
+* Data: strengthening collection, accuracy and diffusion
+
+</div>
+
+<div class="col-md-4">
+
+### Action Assembly
+
+* Internet relationships
+* Activism on social media
+* Impact of the internet on press
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-4">
+
+### Special Conference: Focus on Press
+
+* Free and fair press
+* Protection of whistleblowers and journalists
+
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+***
+
 ## ILYMUN 2020
 
 <div class="row">
@@ -16,7 +145,7 @@ title: Committees & Issues Debated
 
 ### General Assembly
 
-* [Marine Biodiversity](https://drive.google.com/file/d/1xE6aZLvG1Ny4ubyC6dXIDn50AhaKljMu/view?usp=sharing "Marine Biodiversity ") 
+* [Marine Biodiversity](https://drive.google.com/file/d/1xE6aZLvG1Ny4ubyC6dXIDn50AhaKljMu/view?usp=sharing "Marine Biodiversity ")
 
 </div>
 
