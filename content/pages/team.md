@@ -8,85 +8,48 @@ title: The ILYMUN Team
 
 #### Executive Team:
 
-Martin Barabas <br/>
-Horia Barabas <br/>
-Lucy Lu <br/>
-Leane Jupet <br/>
-Isabel Beurois <br/>
-Sonia Pasiecznik <br/>
+Marine Balaÿ <br/>Sarah Cotte <br/>Raphaëlle Muller-Feuga <br/>Mathilde Le Luyer <br/> Tomàs Gouveia<br/> Emma Andreetta <br/> Maja Muszyński <br/>
 
 #### Heads of Chairs:
 
-Julia Weiss <br/>
-Lance Arrighi <br/>
-Alice Faujas <br/>
-Jonah Gilroy <br/>
+Sarah Matmati <br/> Claude Goni <br/> Tanya Kumble <br/> Chloe Marielle <br/>
 
 #### Heads of Logistic:
 
-Lewis Cox <br/>
-Tahel Tobi <br/>
-Anais Imbrioscia <br/>
-Malo Uselle <br/>
+Mathilde Le Luyer <br/> Tristan Fournier<br/> Judy Sultan <br/> Lewis Cox <br/>
 
-#### Heads of Housing:
+#### Communications Team:
 
-Rym Tallaa <br/>
-Valentine Marotte <br/>
-Maxime Ventura <br/>
-
-#### Heads of Social Events:
-
-Emma Andreetta <br/>
-Carlota Ortega <br/>
-Anna Moynier <br/>
-Ariane Nguyen <br/>
-
-#### Heads of Public Relations:
-
-Elise Murer <br/>
-Hombeline Ponsignon <br/>
-Mathilde Le Luyer <br/>
-Salome Stokes <br/>
+Giulia Olearo <br/> Eva Gromb <br/> Inès Fodor <br/> Clara Marsal <br/>  Titouan Rérolle <br/> Malak Malkawi <br/> Tahel Tobi <br/>
 
 #### Heads of Youth Conference:
 
-Maja Muszyński <br/>
-Malak Malkawi <br/>
-Sarah Cotte <br/>
-Marta Averof <br/>
+Stefan Vanoosthuyse <br/>
+Patricio Andujar Salas <br/>
+Kim Anna Giang <br/>
+Carlota Ortega-Faurie <br/>
 
 #### Head of Press:
 
-Tomas Gouveia <br/> Jeanne Pierre <br/>
+Clara Larsen <br/> Caroline Tintinger <br/>
 
 #### Heads of Audiovisual Press:
 
-Louis Mellinand <br/>
-Yasmine Darchem <br/>
+Nathalia Kawarski <br/>
 
 #### Heads of Written Press:
 
-Anouk Balloffet <br/>
-Claire Dominici <br/>
-Clara Larsen <br/>
+Mae-Line Provoost <br/>
 
 #### Heads of Admins:
 
-Guilherme Carvalho <br/>
-Jules Ambs <br/>
-Thomas Vacherand <br/>
-Lisa D’hoore <br/>
+Lorraine Brisset <br/> Violène Bertolino <br/> Daehun Kim <br/> Julien Chaussin <br/>
 
 #### Heads of Action Assembly:
 
-Malou Morin <br/>
-Marine Balay <br/>
+Lila Schwab <br/>
+Anna L'huillier <br/>
 
 #### Heads of International Court of Justice:
 
-Vanessa Chiaoru <br/> Emily Ren <br/> Lila Schwab <br/>
-
-#### Head of Graphic Designs:
-
-Megan Cluck <br/>
+Lisa Matmati <br/> Bela Mohamed <br/> Roman Harding <br/> Vanessa Chioaru <br/>
