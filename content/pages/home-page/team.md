@@ -4,8 +4,8 @@ section: team
 title: Our Team
 subtitle: Meet the people who make all this possible. A hard working team dedicated
   to bringing ILYMUN to life in the best way possible. Test
-image1: horia-barabas.jpg
-name1: Horia Barabas
+image1: emme-andreetta.png
+name1: Emma Andreetta
 image2: isabel-beurois.jpg
 name2: Isabel Beurois
 image3: leane-jupet.jpg
