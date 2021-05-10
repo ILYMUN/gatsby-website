@@ -6,15 +6,17 @@ subtitle: Meet the people who make all this possible. A hard working team dedica
   to bringing ILYMUN to life in the best way possible. Test
 image1: emme-andreetta.png
 name1: Emma Andreetta
-image2: isabel-beurois.jpg
-name2: Isabel Beurois
-image3: leane-jupet.jpg
-name3: Leane Jupet
-image4: lucy-lu.jpg
-name4: Lucy Lu
-image5: martin-barabas.jpg
-name5: Martin Barabas
-image6: sonia-pasiecznik.jpg
-name6: Sonia Pasiecznik
+image2: marine-balay.png
+name2: Marine Balaÿ
+image3: maja-muszynski.png
+name3:  Maja Muszyński 
+image4: sarah-cotte.png
+name4: Sarah Cotte
+image5: raphaelle-muller-feuga.png
+name5: Raphaëlle Muller-Feuga
+image6: tomas-gouveia.png
+name6: Tomàs Gouveia
+image7: mathilde-le-luyer.png
+name7: Mathilde Le Luyer
 
 ---
