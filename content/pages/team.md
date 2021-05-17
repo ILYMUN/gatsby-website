@@ -6,7 +6,7 @@ title: The ILYMUN Team
 ---
 <br/>
 
-#### Executive Team:
+#### Executive Teams:
 
 Marine Balaÿ <br/>Sarah Cotte <br/>Raphaëlle Muller-Feuga <br/>Mathilde Le Luyer <br/> Tomàs Gouveia<br/> Emma Andreetta <br/> Maja Muszyński <br/>
 
