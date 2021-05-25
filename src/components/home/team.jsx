@@ -3,6 +3,8 @@ import { StaticQuery, graphql } from "gatsby";
 import LazyLoad from "react-lazyload";
 import ScrollAnimation from "react-animate-on-scroll";
 
+const path_picture = "../../../static/images/team/";
+
 export class LandingTeam extends Component {
   render() {
     return (
@@ -27,11 +29,14 @@ export class LandingTeam extends Component {
                 name5
                 image6
                 name6
+                image7
+                name7
               }
               html
             }
           }
         `}
+        
         render={data => (
           <section id="team">
             <div>
@@ -54,17 +59,18 @@ export class LandingTeam extends Component {
                         <ScrollAnimation animateIn="bounceInUp" animateOnce>
                           <LazyLoad>
                             <img
-                              src={require("../../../uploads/" + data.content.frontmatter.image1)}
+                              src={require(path_picture + data.content.frontmatter.image1)}
                             />
                           </LazyLoad>
                           <p>{data.content.frontmatter.name1}</p>
                         </ScrollAnimation>
                       </div>
+
                       <div class="col-md-4 col-sm-4">
                         <ScrollAnimation animateIn="bounceInUp" animateOnce>
                           <LazyLoad>
                             <img
-                              src={require("../../../uploads/" + data.content.frontmatter.image2)}
+                              src={require(path_picture + data.content.frontmatter.image2)}
                             />
                           </LazyLoad>
                           <p>{data.content.frontmatter.name2}</p>
@@ -74,7 +80,7 @@ export class LandingTeam extends Component {
                         <ScrollAnimation animateIn="bounceInUp" animateOnce>
                           <LazyLoad>
                             <img
-                              src={require("../../../uploads/" + data.content.frontmatter.image3)}
+                              src={require(path_picture + data.content.frontmatter.image3)}
                             />
                           </LazyLoad>
                           <p>{data.content.frontmatter.name3}</p>
@@ -84,7 +90,7 @@ export class LandingTeam extends Component {
                         <ScrollAnimation animateIn="bounceInUp" animateOnce>
                           <LazyLoad>
                             <img
-                              src={require("../../../uploads/" + data.content.frontmatter.image4)}
+                              src={require(path_picture + data.content.frontmatter.image4)}
                             />
                           </LazyLoad>
                           <p>{data.content.frontmatter.name4}</p>
@@ -94,7 +100,7 @@ export class LandingTeam extends Component {
                         <ScrollAnimation animateIn="bounceInUp" animateOnce>
                           <LazyLoad>
                             <img
-                              src={require("../../../uploads/" + data.content.frontmatter.image5)}
+                              src={require(path_picture + data.content.frontmatter.image5)}
                             />
                           </LazyLoad>
                           <p>{data.content.frontmatter.name5}</p>
@@ -104,13 +110,14 @@ export class LandingTeam extends Component {
                         <ScrollAnimation animateIn="bounceInUp" animateOnce>
                           <LazyLoad height={200}>
                             <img
-                              src={require("../../../uploads/" + data.content.frontmatter.image6)}
+                              src={require(path_picture + data.content.frontmatter.image6)}
                             />
                           </LazyLoad>
                           <p>{data.content.frontmatter.name6}</p>
                         </ScrollAnimation>
                       </div>
                     </div>
+
                     <div class="row">
                       <ScrollAnimation animateIn="bounceInUp" animateOnce>
                         <form action="/team/">
