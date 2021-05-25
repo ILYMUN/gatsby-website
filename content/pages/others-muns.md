@@ -10,7 +10,7 @@ title: Others MUNs
 
 <div class="col-md-4">
 
-<h3>BERMUN**<**h3>
+<h3>BERMUN</h3>
 
 <p>The Berlin MUN conference is organised by the Friedrich-Ebert-Stiftung and
 
