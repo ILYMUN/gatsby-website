@@ -114,7 +114,7 @@ export class LandingTeam extends Component {
                           <p>{data.content.frontmatter.name6}</p>
                         </ScrollAnimation>
                       </div>
-
+                    </div>
                     <div class="row">
                       <ScrollAnimation animateIn="bounceInUp" animateOnce>
                         <form action="/team/">
