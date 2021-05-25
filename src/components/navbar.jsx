@@ -151,6 +151,9 @@ export class Navbar extends Component {
                   {/* <li><a class="scroll" href="/#team">Team</a></li> */}
                 </ul>
               </li>
+              <li>
+                  <a href="/mini-ilymun/">Mini Ilymun</a>
+              </li>
               <li class="dropdown">
                 <a
                   class="dropdown-toggle"
