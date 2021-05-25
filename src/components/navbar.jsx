@@ -151,8 +151,27 @@ export class Navbar extends Component {
                   {/* <li><a class="scroll" href="/#team">Team</a></li> */}
                 </ul>
               </li>
-              <li>
-                  <a href="/mini-ilymun/">Mini Ilymun</a>
+              <li class="dropdown">
+                <a
+                  class="dropdown-toggle"
+                  data-toggle="dropdown"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                >
+                  Mini Ilymun<span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="/mini-ilymun-conference/">The Conference</a>
+                  </li>
+                  <li>
+                    <a href="/mini-ilymun-committees-and-issues/">The Committees and Issues</a>
+                  </li>
+                  <li>
+                      <a href="/mini-ilymun-challenge/">The UNHCR Challenge</a>
+                  </li>
+                  {/* <li><a href="/school-photos/">School Photos</a></li> */}
+                </ul>
               </li>
               <li class="dropdown">
                 <a
