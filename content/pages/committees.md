@@ -14,42 +14,28 @@ title: Committees & Issues Debated
 
 <div class="col-md-4">
 
-### General Assembly
-
-* Protecting human rights in the cyber world: the need for just, effective, and accountable institutions
-
-</div>
-
-</div>
-
-<div class="row">
-
-<div class="col-md-4">
-
 ### Security Council
 
-* Protecting the democratic process
-* Technology: both propagating and fighting extremism
-* Global security
+* Protecting the Democratic Process
+* Technology: Both Propagating and Fighting Extremism
 
 </div>
 
 <div class="col-md-4">
 
-### Historical Security Council
+### **Historical Security Council**
 
-* Gulf War: 14th February 2003
-* Cuban missile crisis: October 16th 1962
-* Snowden's case: 22nd February 2014
+* Gulf War
+* Revelations of Edward Snowden
 
 </div>
 
 <div class="col-md-4">
 
-### Technology
+### **Council of the European Union**
 
-* Artifical intelligence
-* Cyber security
+* GAFAM: Protecting Europe’s digital sovereignty and integrity
+* Connectivity
 
 </div>
 
@@ -59,28 +45,28 @@ title: Committees & Issues Debated
 
 <div class="col-md-4">
 
-### Environmental
+### **UNESCO- Focus on Press**
 
-* Invisible pollution of cyber activity
-* Materials for cyber activity: resources and waste
-
-</div>
-
-<div class="col-md-4">
-
-### Social
-
-* Ethics of the internet
-* Equity and empowerment through the internet
+* Protection of Whistleblowers and Journalists
+* Free and Fair Press
 
 </div>
 
 <div class="col-md-4">
 
-### Human Rights
+### **Human Rights**
 
-* Control of personal information
-* Censorship and misinformation
+* Control of Personal Information
+* Censorship and Misinformation
+
+</div>
+
+<div class="col-md-4">
+
+### **Environmental**
+
+* Invisible Pollution of Cyber Activity
+* Materials for Cyber Activity: Resources and Waste
 
 </div>
 
@@ -90,10 +76,10 @@ title: Committees & Issues Debated
 
 <div class="col-md-4">
 
-### Economic
+### **Technology**
 
-* Work in the cyber world: inclusive, substainable and decent
-* Transparency and accountability
+* Artificial Intelligence
+* Cybersecurity
 
 </div>
 
@@ -101,18 +87,17 @@ title: Committees & Issues Debated
 
 ### World Health Organisation
 
-* Health and the cyber world
-* Data: strengthening collection, accuracy and diffusion
+* Health and the Cyber World
+* Data: Strengthening Collection, Accuracy and Diffusion
 
 </div>
 
 <div class="col-md-4">
 
-### Action Assembly
+### **Social**
 
-* Internet relationships
-* Activism on social media
-* Impact of the internet on press
+* Ethics of Internet
+* Equity and Empowerment in/through the Internet
 
 </div>
 
@@ -122,22 +107,49 @@ title: Committees & Issues Debated
 
 <div class="col-md-4">
 
-### International Court of Justice
+### **Economic**
 
-* Russian interference int the 2016 U.S. elections: USA vs Russian Federation
+* Transparency and Accountability in Cyber Finances
+* Work in the Cyber World: Inclusive, Sustainable and Decent
 
 </div>
 
 <div class="col-md-4">
 
-### Special Conference: Focus on Press
+### **Action Assembly**
 
-* Free and fair press
-* Protection of whistleblowers and journalists
+* Internet relationships
+* Activism on social media
+* The relationship between between digital press and the public opinion
+
+</div>
+
+<div class="col-md-4">
+
+### **ICJ**
+
+* Russian interference in the 2016 U.S. elections:
+
+  The relationship between between digital press and the public opinion USA vs Russian Federation
+* Execution of the Iranian General by a U.S. drone strike:
+
+  Iran vs USA
 
 </div>
 
 </div>
+
+<div class="row">
+
+<div class="col-md-4">
+
+### **Youth Committee**
+
+* To be announced
+
+</div>
+
+<div>
 
 </section>
 
