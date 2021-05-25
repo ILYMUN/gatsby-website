@@ -6,15 +6,23 @@ title: Others MUNs
 ---
 <p>Over the years, our students have gone to several MUN conferences, all around the world.</p>
 
-<p>Special shoutout to these two conferences, that inspired us to create ILYMUN:</p>
-
 <div class="row">
 
 <div class="col-md-4">
 
-<h3>Impact Summit</h3>
+<h3>BERMUN**<**h3>
 
-<p>International MUN, end of September in Prague <br /> <a href="https://www.salamforpeace.com/about">Click here for link to the website</a></p>
+<p>The Berlin MUN conference is organised by the Friedrich-Ebert-Stiftung and
+
+the John F. Kennedy School in Berlin, Germany<br /> <a href="[https://www.bermun.de/](https://www.bermun.de/ "https://www.bermun.de/")">Click here for link to the website</a></p>
+
+</div>
+
+<div class="col-md-4">
+
+<h3>INOMUM</h3>
+
+<p>The International Nord MUN is organised by the International British Sections of the Lycée International Montebello and the Lycée Wallon in Lille, France<br /> <a href="[https://www.inomun.com/](https://www.inomun.com/ "https://www.inomun.com/")">Click here for link to the website</a></p>
 
 </div>
 
@@ -22,47 +30,7 @@ title: Others MUNs
 
 <h3>HMUN</h3>
 
-<p>April conference in Haarlem, The Netherlands <br /> <a href="https://www.hmun.nl/">Click here for link to the website</a></p>
-
-</div>
-
-<div class="col-md-4">
-
-<h3>TIMUN</h3>
-
-<p>December conference in Istanbul <br /> <a href="https://www.timun.gen.tr/">Click here for link to the website</a></p>
-
-</div>
-
-<div class="col-md-4">
-
-<h3>BERMUN</h3>
-
-<p>Berlin MUN, that runs in November at the John F. Kennedy School <br /> <a href="https://www1.bermun.de/">Click here for link to the website</a></p>
-
-</div>
-
-<div class="col-md-4">
-
-<h3>INOMUN</h3>
-
-<p>International North MUN, end of March conference in Lille <br /><a href="http://inomun.weebly.com/">Click here for link to the website</a></p>
-
-</div>
-
-<div class="col-md-4">
-
-<h3>VefaMUN</h3>
-
-<p>Vefa Lisesi MUN, end of March conference in Instanbul <br /><a href="https://www.facebook.com/vefamun/">Click here for link to the website</a></p>
-
-</div>
-
-<div class="col-md-4">
-
-<h3>HagaMUN</h3>
-
-<p>March conference in The Hague <br /><a href="https://hagamun.org/">Click here  for link to the website</a></p>
+<p>The Haarlem MUN conference is organised by the Stedelijk Gymnasium Haarlem, the Netherlands<br /> <a href="https://www.hmun.nl/">Click here for link to the website</a></p>
 
 </div>
 
@@ -70,7 +38,31 @@ title: Others MUNs
 
 <h3>THIMUN</h3>
 
-<p>The Hague International Mun, that runs in Singapore end of November and in The Hague at the end of January. <br /><a href="http://foundation.thimun.org/">Click here for link to the website</a></p>
+<p>The Hague International MUN conference runs in Singapore, The Hague and Qatar <br /><a href="http://foundation.thimun.org/">Click here for link to the website</a></p>
+
+</div>
+
+<div class="col-md-4">
+
+<h3>TIMUN</h3>
+
+<p>Turkish International MUN conference is organised by the Uskudar American Academy, in Istanbul, Turkey <br /> <a href="[https://www.timun.gen.tr/](https://www.timun.gen.tr/ "https://www.timun.gen.tr/")">Click here for link to the website</a></p>
+
+</div>
+
+<div class="col-md-4">
+
+<h3>MUNNISA</h3>
+
+<p>The MUN conference is organised by the Nazarbayev Intellectual school in Aktau, Kazakhstan<br /><a href="[https://munnisa.kz/](https://munnisa.kz/ "https://munnisa.kz/")">Click here for link to the website</a></p>
+
+</div>
+
+<div class="col-md-4">
+
+<h3>LYMUN</h3>
+
+<p>The Lyons Township MUN conference is organised by the Lyons Township High School in Chicago<br /><a href="[https://www.lths.net/Page/11021](https://www.lths.net/Page/11021 "https://www.lths.net/Page/11021")">Click here for link to the website</a></p>
 
 </div>
 
