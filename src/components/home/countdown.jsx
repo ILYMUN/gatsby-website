@@ -30,7 +30,8 @@ export class CountDownParallax extends Component {
 
   calculateCountdown(endDate) {
     let diff = (Date.parse(new Date(endDate)) - Date.parse(new Date())) / 1000;
-    console.log(diff);
+    //console.log(diff);
+    console.log(Date.parse(new Date(endDate)));
     // clear countdown when date is reached
     if (diff <= 0) return false;
 
