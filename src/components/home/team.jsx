@@ -130,52 +130,6 @@ export class LandingTeam extends Component {
                         </div>
                       </div>
                     </div>
-                    <style>    
-                      #contenair-grid {
-                        display: grid;
-                        grid-template-columns: repeat(20, 1fr);
-                        grid-gap: 10px;
-                        grid-auto-rows: minmax(100px, auto);
-                      }
-
-                      .image {
-                        width: 100%;
-                      }
-
-                      .image:nth-child(1) {
-                        grid-column: 5/10;
-                        grid-row: 1;
-                      }
-
-                      .image:nth-child(2) {
-                        grid-column: 11/16;
-                        grid-row: 1;
-                      }
-
-                      .image:nth-child(3) {
-                        grid-column: 2/7;
-                        grid-row: 2;
-                      }
-
-                      .image:nth-child(4) {
-                        grid-column: 8/13;
-                        grid-row: 2;
-                      }
-                      .image:nth-child(5) {
-                        grid-column: 14/19;
-                        grid-row: 2;
-                      }
-
-                      .image:nth-child(6) {
-                        grid-column: 5/10;
-                        grid-row: 3;
-                      }
-
-                      .image:nth-child(7) {
-                        grid-column: 11/16;
-                        grid-row: 3;
-                      }
-                    </style>
                     <div class="row">
                       <ScrollAnimation animateIn="bounceInUp" animateOnce>
                         <form action="/team/">
