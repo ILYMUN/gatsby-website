@@ -202,7 +202,7 @@ export class CountDownParallax extends Component {
             date.eventStartHourUtc,
             date.eventStartMinuteUtc
           );
-
+          console.log(this.endDate);
           return countDownParallax;
         }}
       />
