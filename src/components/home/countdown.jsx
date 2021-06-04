@@ -5,8 +5,9 @@ import { Parallax, Background } from "react-parallax";
 export class CountDownParallax extends Component {
   constructor(props) {
     super(props);
-
-    this.endDate = new Date("5 Jun 2021 15:23:23").getTime();
+    var date = "5 Jun 2021 15:23:23";
+    //this.endDate = new Date("5 Jun 2021 15:23:23").getTime();
+    this.endDate = new Date.parse(new Date(date));
 
     this.state = {
       days: 0,
