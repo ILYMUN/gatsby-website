@@ -6,7 +6,7 @@ export class CountDownParallax extends Component {
   constructor(props) {
     super(props);
 
-    this.endDate = new Date();
+    this.endDate = new Date("5 Jun 2021 15:23:23");
 
     this.state = {
       days: 0,
