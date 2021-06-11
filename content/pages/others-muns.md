@@ -12,13 +12,7 @@ title: Others MUNs
 
 <h3>BERMUN</h3>
 
-<p>The Berlin MUN conference is organised by the Friedrich-Ebert-Stiftung and
-
-the John F. Kennedy School in Berlin, Germany<br> 
-
-<a href="[https://www.bermun.de/](https://www.bermun.de/ "https://www.bermun.de/")">Click here for link to the website</a></p>
-
-</div>
+<p>The Berlin MUN conference is organised by the Friedrich-Ebert-Stiftung andthe John F. Kennedy School in Berlin, Germany<br> <a href="[https://www.bermun.de/](https://www.bermun.de/ "https://www.bermun.de/")">Click here for link to the website</a></p></div>
 
 <div class="col-md-4">
 
