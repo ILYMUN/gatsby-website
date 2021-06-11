@@ -35,7 +35,7 @@ title: Committees & Issues Debated
 ### **Council of the European Union**
 
 * GAFAM: Protecting Europe’s digital sovereignty and integrity
-* Connectivity
+* Connectivity: The challenge of creating a 5G wireless network, targeting areas with little or no network coverage
 
 </div>
 
@@ -130,7 +130,7 @@ title: Committees & Issues Debated
 
 * Russian interference in the 2016 U.S. elections:
 
-  The relationship between between digital press and the public opinion USA vs Russian Federation
+  USA vs Russian Federation
 * Execution of the Iranian General by a U.S. drone strike:
 
   Iran vs USA
