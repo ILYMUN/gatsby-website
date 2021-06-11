@@ -60,7 +60,7 @@ class HomePage extends React.Component {
           {/* <LandingPartners />  */}
           <Contact />
           {/* <section id="map" style={{width: '100%', height: '500px'}}></section> */}
-          <Map />
+          /*<Map />*/
         </div>
         <Footer />
         {/* <ScriptTag type="text/javascript" src={require("./wp-content/themes/ilymun-wp-theme/js/owl.carousel.min.js")} /> */}
