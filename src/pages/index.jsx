@@ -51,8 +51,9 @@ class HomePage extends React.Component {
           <LandingHero />
           <HomeAboutSection />
           <LandingHero2 />
-          <LandingParallax />
           <LandingValues />
+          <LandingParallax />
+          
           <LandingTeam />
           <CountDownParallax />
           {/* <LandingQuotes /> */}
