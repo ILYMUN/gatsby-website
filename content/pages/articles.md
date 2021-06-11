@@ -12,9 +12,7 @@ title: Articles
 
 <h3>Journée de la Terre : Un appel à la préservation de la planète</h3>
 
-<p>À l'occasion de la Journée de la Terre 2021, notre équipe de presse, ainsi que l'équipe de presse de MUNNISA, ont créé un article sur la signification, l'histoire et les célébrations de la Journée de la Terre.
-
-<br/><a href="https://medium.com/@ilymun/earth-day-a-call-to-preserve-the-planet-b16d522cd3a2">See more</a></p>
+<p>À l'occasion de la Journée de la Terre 2021, notre équipe de presse, ainsi que l'équipe de presse de MUNNISA, ont créé un article sur la signification, l'histoire et les célébrations de la Journée de la Terre.<br/><a href="https://medium.com/@ilymun/earth-day-a-call-to-preserve-the-planet-b16d522cd3a2">See more</a></p>
 
 <br/><br/>
 
