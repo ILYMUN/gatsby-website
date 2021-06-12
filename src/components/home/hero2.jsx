@@ -27,7 +27,7 @@ export class LandingHero2 extends Component {
       }
     `}
       render={data => (
-        <section id="main-slider">
+        <section id="main-slider" style="transform: rotate(-3deg) skew(-3deg) scaleX(1.1);">
           <article class="content">
             <div class="hero-container">
               <img src={hero} alt="Image not found" />
