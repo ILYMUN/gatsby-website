@@ -27,7 +27,7 @@ export class LandingHero2 extends Component {
       }
     `}
       render={data => (
-        <section id="main-slider second-main">
+        <section id="second-main">
           <article class="content">
             <div class="hero-container">
               <img src={hero} alt="Image not found" />
