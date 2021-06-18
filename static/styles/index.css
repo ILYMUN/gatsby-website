@@ -366,6 +366,15 @@ li {
 .button:active{
   transform: scale3d(1.025, 1.025, 1.025);
 }
+
+/* Mini Ilymun Section aka hero2 */
+#second-main .hero-contenair {
+	transform: rotate(-3deg) skew(-3deg) scaleX(1.1);
+}
+#second-main .hero-content {
+	transform: rotate(3deg) skew(3deg) scaleX(1);
+}
+
 /* Teams */
 #team .section-content img{
   display: block;
