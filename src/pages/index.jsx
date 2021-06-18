@@ -63,7 +63,7 @@ class HomePage extends React.Component {
           {/* <section id="map" style={{width: '100%', height: '500px'}}></section> */}
           {/*<Map />*/}
         </div>
-        <hr>
+        <hr />
         <Footer />
         {/* <ScriptTag type="text/javascript" src={require("./wp-content/themes/ilymun-wp-theme/js/owl.carousel.min.js")} /> */}
         {/* <ScriptTag type="text/javascript" src={require("./wp-content/themes/ilymun-wp-theme/js/parallax.min.js")} /> */}
