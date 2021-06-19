@@ -368,7 +368,7 @@ li {
 }
 
 /* Mini Ilymun Section aka hero2 */
-#second-main .hero-contenair {
+#second-main article {
 	transform: rotate(-3deg) skew(-3deg) scaleX(1.1);
 }
 #second-main .hero-content {
