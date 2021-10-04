@@ -227,6 +227,9 @@ export class Navbar extends Component {
                 </ul>
               </li> */}
               <li>
+                <a href="/poster-gallery/">Poster Gallery</a>
+              </li>
+              <li>
                 <a href="/other-muns/">Other MUNs</a>
               </li>
             </ul>
