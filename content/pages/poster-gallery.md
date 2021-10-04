@@ -1,6 +1,6 @@
 ---
 type: plain
-path: poster-gallery
+path: "/poster-gallery/"
 title: Poster Gallery
 
 ---
