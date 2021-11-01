@@ -8,7 +8,7 @@ title: The ILYMUN Team
 
 #### Executive Team:
 
-Marine Balaÿ <br/>Sarah Cotte <br/>Raphaëlle Muller-Feuga <br/>Mathilde Le Luyer <br/> Tomàs Gouveia<br/> Emma Andreetta <br/> Maja Muszyński <br/>
+Marine Balaÿ <br/>Sarah Cotte <br/>Raphaëlle Muller-Feuga <br/>Mathilde Le Luyer <br/> Tomas Gouveia<br/> Emma Andreetta <br/> Maja Muszyński <br/>
 
 #### Heads of Chairs:
 
@@ -24,7 +24,7 @@ Giulia Olearo <br/> Eva Gromb <br/> Inès Fodor <br/> Clara Marsal <br/>  Titoua
 
 #### Heads of Youth Conference:
 
-Stefan Vanoosthuyse <br/>
+Stéphane Vanoosthuyse <br/>
 Patricio Andujar Salas <br/>
 Kim Anna Giang <br/>
 Carlota Ortega-Faurie <br/>
@@ -53,3 +53,7 @@ Anna L'huillier <br/>
 #### Heads of International Court of Justice:
 
 Lisa Matmati <br/> Bela Mohamed <br/> Roman Harding <br/> Vanessa Chioaru <br/>
+
+#### **Graphic Designer:**
+
+Lisa Nicol <br/>
