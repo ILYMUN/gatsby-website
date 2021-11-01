@@ -14,7 +14,7 @@ Marine Balaÿ <br/>Sarah Cotte <br/>Raphaëlle Muller-Feuga <br/>Mathilde Le Luy
 
 Sarah Matmati <br/> Claude Goni <br/> Tanya Kumble <br/> Chloe Marielle <br/>
 
-#### Heads of Logistic:
+#### Heads of Logistics:
 
 Mathilde Le Luyer <br/> Tristan Fournier<br/> Judy Sultan <br/> Lewis Cox <br/>
 
