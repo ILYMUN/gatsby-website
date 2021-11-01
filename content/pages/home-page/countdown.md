@@ -2,9 +2,9 @@
 page: home
 section: countdown
 eventStartYearUtc: 2021
-eventStartMonthUtc: '05'
-eventStartDayUtc: 26
-eventStartHourUtc: 20
+eventStartMonthUtc: 12
+eventStartDayUtc: 1
+eventStartHourUtc: 8
 eventStartMinuteUtc: '00'
 
 ---
