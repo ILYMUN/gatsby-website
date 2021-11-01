@@ -11,7 +11,7 @@ name2: Marine Balaÿ
 image3: raphaelle-muller-feuga-min.png 
 name3: Raphaëlle Muller-Feuga
 image4: tomas-gouveia-min.png 
-name4: Tomàs Gouveia
+name4: Tomas Gouveia
 image5: maja-muszynski-min.png 
 name5: Maja Muszyński
 image6: sarah-cotte-min.png 
