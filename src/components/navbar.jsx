@@ -76,6 +76,10 @@ export class Navbar extends Component {
                 href="https://www.instagram.com/_ilymun/"
               ></a>
               <a
+                class="fa fa-medium link"
+                href="https://medium.com/@ilymun"
+              ></a>
+              <a
                 class="fa fa-youtube-play link"
                 href="https://www.youtube.com/channel/UCFmcIYRifCNmHt9sjoWUDsA"
               ></a>
