@@ -70,18 +70,22 @@ export class Navbar extends Component {
               <a
                 class="fa fa-facebook link"
                 href="https://www.facebook.com/internationallyonmun"
+                target="_blank"
               ></a>
               <a
                 class="fa fa-instagram link"
                 href="https://www.instagram.com/_ilymun/"
+                target="_blank"
               ></a>
               <a
                 class="fa fa-medium link"
                 href="https://medium.com/@ilymun"
+                target="_blank"
               ></a>
               <a
                 class="fa fa-youtube-play link"
                 href="https://www.youtube.com/channel/UCFmcIYRifCNmHt9sjoWUDsA"
+                target="_blank"
               ></a>
             </p>
           </div>
