@@ -475,12 +475,12 @@ li {
 
 /* Values Section */
 #values{
-	z-index = 1;
+	z-index: 1;
 }
 
 /*First parallax*/
 .parallax:nth-child(0){
-	z-index=0;
+	z-index:0;
 }
 
 /*Team Section */
