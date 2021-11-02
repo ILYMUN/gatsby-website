@@ -410,7 +410,10 @@ li {
 }
 
 /*Content*/
-
+#content {
+	display:flex;
+	flex-direction:column;
+}
 /*.content-title{
 	text-transform: uppercase;
 	margin-bottom: 15px;
@@ -470,7 +473,15 @@ li {
 	transform: rotate(3deg) skew(3deg) scaleX(1);
 }
 
+/* Values Section */
+#values{
+	z-index = 1;
+}
 
+/*First parallax*/
+.parallax:nth-child(0){
+	z-index=0;
+}
 
 /*Team Section */
 #team .section-content img {
