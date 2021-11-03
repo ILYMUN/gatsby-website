@@ -1,4 +1,9 @@
 ---
 label: landing-poster-gallery
 hide_body: true
-fields: []
+fields:
+- name: poster
+  type: image_gallery
+  config: {}
+  description: The annual poster of Ilymun
+  label: Posters
