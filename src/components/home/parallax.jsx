@@ -20,7 +20,7 @@ export class LandingParallax extends Component {
           }
         `}
         render={data => (
-          <section class="parallax">
+          <section class="parallax" id="parallaxId">
             <div
               class="top-angle"
               style={{
