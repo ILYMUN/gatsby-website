@@ -2,8 +2,12 @@
 label: landing-poster-gallery
 hide_body: true
 fields:
-- name: poster
-  type: image_gallery
-  config: {}
+- name: poster-gallery
+  type: blocks
+  label: Poster-gallery
+  template_types:
+  - landing-pictures
+  config:
+    min: 
+    max: 
   description: The annual poster of Ilymun
-  label: Posters
