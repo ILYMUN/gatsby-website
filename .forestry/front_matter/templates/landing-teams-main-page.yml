@@ -23,3 +23,5 @@ fields:
     labelField: 
   label: Teams
   description: The executif team
+pages:
+- content/pages/home-page/team-1.md
