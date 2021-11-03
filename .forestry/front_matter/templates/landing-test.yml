@@ -1,4 +1,14 @@
 ---
 label: landing-test
 hide_body: true
-fields: []
+fields:
+- name: test
+  type: blocks
+  label: test
+  template_types:
+  - landing-poster-gallery
+  - landing-values
+  config:
+    min: 
+    max: 
+  description: juste simple test
