@@ -479,7 +479,7 @@ li {
 }
 
 /*First parallax*/
-.parallax:nth-child(0){
+#parallaxId{
 	z-index:0;
 }
 
