@@ -4,18 +4,23 @@ path: "/international-court-of-justice"
 title: International Court of Justice
 
 ---
-#### **What is the ICJ ?**
+# **International Court of Justice**
 
-**The International Court of Justice** was created to act as a supreme  
-judicial authority within the United Nations. It ensures global justice and safeguards nations’ sovereignty by settling legal altercations presented to it by the Member States. It does so by considering previous treaties, international conventions and international law.
+#### **WHAT IS THE ICJ ?**
+
+**The International Court of Justice** is the principal judicial organ of the United Nations. It pivots multinational disputes and safeguards nations’ sovereignty by settling legal altercations presented to it by the Member States. It does so by considering previous treaties, international conventions and international law.
 
 The ICJ at ILYMUN will help you view conflicts from a new perspective and will offer insight on international law and the proceedings of judicial cases. The ICJ is perfect for those interested in international relations, law or simply for those who want to try something new.
 
-#### What is This Year’s Case ?
+#### **WHAT IS THIS YEAR’S CASE ?**
 
-This year’s case is The Russian Federation versus The United States of America,
+This year consists of two cases, each one with its own team:
 
-in the conflict over the alleged Russian interference in the 2016 USA elections.
+**Case 1:**
+
+The Russian Federation versus The United States of America,
+
+In the conflict over the alleged Russian interference in the 2016 USA elections.
 
 The two teams of advocates will represent the following groups :
 
@@ -23,13 +28,25 @@ The two teams of advocates will represent the following groups :
 
 – Respondent party: Russian Federation (Russia)
 
-#### **How Does the ICJ at ILYMUN Work ?**
+**Case 2:**
+
+The Islamic Republic of Iran versus the United States of America,
+
+In the assassination of the Iranian General by US drone
+
+The two teams of advocates will represent the following groups :
+
+– Applicant party: The Islamic Republic of Iran (Iran)
+
+– Respondent party: The United States of America (USA)
+
+#### **HOW DOES THE ICJ AT ILYMUN WORK ?**
 
 The International Court of Justice is composed of:
 
 \- **The Presidency:**
 
-This year they are represented by Lila Schwab, Emily Ren and Vanessa Chioaru.
+This year they are represented by Lisa Matimati, Belal Mohamed, Roman Harding and Vanessa Chioaru.
 
 \- **The Advocacy:**
 
@@ -45,9 +62,9 @@ Next, each advocate team presents two to four witnesses. (Witnesses are approved
 
 Then advocates present closing statements. After this, the judges deliberate upon the information presented to them and compose a verdict expressing their judgment in the case.
 
-#### **How do Advocates and Judges Prepare for the ICJ ?**
+#### **HOW DO ADVOCATES AND JUDGES PREPARE FOR THE ICJ ?**
 
-**Advocates** need to research the case and create a report (called a memorandum). They also suggest a list of 3-4 witnesses they would like to have at the trial. Finally, they create an evidence packet. The 2 parties collaborate together to create a stipulation. In sum, both teams prepare by:
+**Advocates** need to research the case and create a report (called a memorandum). They also suggest a list of 3-4 supposed witnesses they would like to have at the trial. Finally, they create an evidence packet. The 2 parties collaborate together to create a stipulation. In sum, both teams prepare by:
 
 \- Gathering evidence
 
@@ -65,13 +82,13 @@ partnership with the advocates to create and polish these documents. The
 
 Presidents will then share the documents with the opposing advocates and the
 
-judges and/or post them on the ILYMUN website for all to access.
+judges and/or post them on the ILYMUN website for all to access once the Trial is near..
 
 **Judges** should read the documents shared and posted by the Presidents of the ICJ to become familiar with the case, the witnesses and the evidence. It is expected that judges will act without bias, be reflective and innovative.
 
 **Presidents of the ICJ** will also guide the judges in their **_deliberation_** to help them evaluate legal documents and assure the quality of the final verdict.
 
-#### **How do I Sign Up for the ICJ ?**
+#### **HOW DO I SIGN UP FOR THE ICJ ?**
 
 Delegates who want to apply to the ICJ should be confident in their level of English. Advocates in particular should be confident public speakers.
 
@@ -83,6 +100,8 @@ Due to the challenging nature and limited places for this committee we ask deleg
 
 Delegates should also state which role they prefer (_judge or advocate_) and if they are open to taking the _alternative_ if they aren’t accepted for their first choice.
 
-Send **_any questions_** about the ICJ or **_letters of application_** before October 25 to:
+Send **_any questions_** about the ICJ or **_letters of application_** before October 20 to:
 
-vanessac@islyon.org
+[Belal.mohamed@csilyon.fr](mailto:Belal.mohamed@csilyon.fr) - General reference and Case 1 president
+
+[Lisa.matimati@csilyon.fr](mailto:Lisa.matimati@csilyon.fr) and [romanh@islyon.org](mailto:romanh@islyon.org) - Case 2 presidents
