@@ -6,6 +6,36 @@ title: Articles
 ---
 <title>ILYMUN</title>
 
+<div class="row">
+
+<h3>Mini ILYMUN Interviews</h3>
+
+<p>On the occasion of the Mini-ILYMUN conference, we had the great opportunity to interview Gaëlle Gormley, founder of the association Act for Ref and Tarek El, a refugee from Syria who came to France in 2014. Discover what they had to share about the conference's theme: refugees:<br/><a href="[https://medium.com/mini-ilymun-refugees-moving-towards-better-world/guest-speaker-interview-ga%C3%ABlle-gormley-df8ffbbcc418](https://medium.com/mini-ilymun-refugees-moving-towards-better-world/guest-speaker-interview-ga%C3%ABlle-gormley-df8ffbbcc418 "https://medium.com/mini-ilymun-refugees-moving-towards-better-world/guest-speaker-interview-ga%C3%ABlle-gormley-df8ffbbcc418")">Click here to read Gaëlle Gormley's interview</a><br/>
+
+<a href="[https://medium.com/mini-ilymun-refugees-moving-towards-better-world/guest-speaker-interview-tarek-eleiwy-27274647353c](https://medium.com/mini-ilymun-refugees-moving-towards-better-world/guest-speaker-interview-tarek-eleiwy-27274647353c "https://medium.com/mini-ilymun-refugees-moving-towards-better-world/guest-speaker-interview-tarek-eleiwy-27274647353c")">Click here to read Tarek El's interview</a></p>
+
+<br/><br/>
+
+</div>
+
+<div class="row">
+
+<h3>Mini ILYMUN: Refugees</h3>
+
+<p>Throughout the mini-conference of ILYMUN, our delegates were able to discuss important issues regarding the key relations between refugees and technology, covid or women rights. Discover more about these paramount topics our respective articles on medium:
+
+<br/><a href="[https://medium.com/mini-ilymun-refugees-moving-towards-better-world/refugees-and-the-impact-of-covid-19-7074c3bdbd67](https://medium.com/mini-ilymun-refugees-moving-towards-better-world/refugees-and-the-impact-of-covid-19-7074c3bdbd67 "https://medium.com/mini-ilymun-refugees-moving-towards-better-world/refugees-and-the-impact-of-covid-19-7074c3bdbd67")">Click here to read about refugees and the impact of covid-19</a>
+
+<br/>
+
+<a href="[https://medium.com/mini-ilymun-refugees-moving-towards-better-world/empowering-refugees-through-technology-f4c93d208f96](https://medium.com/mini-ilymun-refugees-moving-towards-better-world/empowering-refugees-through-technology-f4c93d208f96 "https://medium.com/mini-ilymun-refugees-moving-towards-better-world/empowering-refugees-through-technology-f4c93d208f96")">Click here to read about empowering refugees through technology </a>
+
+<br/>
+
+<a href="[https://medium.com/mini-ilymun-refugees-moving-towards-better-world/protecting-the-rights-of-refugee-women-8b957a163676](https://medium.com/mini-ilymun-refugees-moving-towards-better-world/protecting-the-rights-of-refugee-women-8b957a163676 "https://medium.com/mini-ilymun-refugees-moving-towards-better-world/protecting-the-rights-of-refugee-women-8b957a163676")">Click here to read about protecting rights of women refugees</a></p>
+
+<br/>
+
 <br />
 
 <div class="row">
