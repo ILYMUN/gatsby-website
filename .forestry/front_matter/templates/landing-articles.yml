@@ -1,4 +1,35 @@
 ---
 label: landing-articles
 hide_body: true
-fields: []
+fields:
+- name: articles
+  type: field_group_list
+  fields:
+  - name: article-title
+    type: text
+    config:
+      required: true
+    label: Article-title
+    description: The title of the article
+  - name: article-description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Article-description
+    description: A quick description of the article
+  - name: article-url
+    type: text
+    config:
+      required: false
+    label: Article-url
+    description: The link for the article
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Articles
+  description: The articles
