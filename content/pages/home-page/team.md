@@ -33,5 +33,20 @@ portrait-executif-team:
   name: Sarah Cotte
 - image: "/uploads/mathilde-le-luyer.png"
   name: Mathilde Le Luyer
+portrait:
+- image: "/uploads/emme-andreetta.png"
+  name: Emma Andreetta
+- image: "/uploads/marine-balay.png"
+  name: Marine Balaÿ
+- image: "/uploads/raphaelle-muller-feuga.png"
+  name: Raphaëlle Muller-Feuga
+- image: "/uploads/tomas-gouveia.png"
+  name: Tomas Gouveia
+- image: "/uploads/maja-muszynski.png"
+  name: Maja Muszyński
+- image: "/uploads/sarah-cotte.png"
+  name: Sarah Cotte
+- image: "/uploads/mathilde-le-luyer.png"
+  name: Mathilde Le Luyer
 
 ---
