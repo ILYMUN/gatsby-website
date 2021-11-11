@@ -16,7 +16,6 @@ sections:
   match: "*.md"
   new_doc_ext: md
   templates:
-  - landing-poster-gallery
   - plain-page
 upload_dir: uploads
 public_path: "/uploads"
