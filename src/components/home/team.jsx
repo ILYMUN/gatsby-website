@@ -29,12 +29,12 @@ export class LandingTeam extends Component {
                 name6
                 image7
                 name7
-                portrait{
-                  {
-                    image
-                    name
-                  }
-                }
+                #portrait{
+                #  {
+                #    image
+                #    name
+                #  }
+                #}
               }
               
               html
