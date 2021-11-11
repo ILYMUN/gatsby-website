@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: " gatsby-website/content/pages/poster-gallery.md"
+  label: Poster-gallery
+  match: "**/*"
+  read_only: false
 - type: directory
   path: content/pages/home-page
   label: Landing Page
