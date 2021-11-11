@@ -2,20 +2,22 @@
 label: landing-poster-gallery
 hide_body: true
 fields:
-- name: page
+- name: type
   type: text
   config:
     required: false
-  label: page
+  label: type
   hidden: true
-  default: poster-gallery
-- name: section
+- name: title
   type: text
   config:
     required: false
-  label: section
-  hidden: true
-  default: carrousel
+  label: title
+- name: path
+  type: text
+  config:
+    required: false
+  label: path
 - name: poster-gallery
   type: field_group_list
   fields:
