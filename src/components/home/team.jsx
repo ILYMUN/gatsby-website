@@ -29,8 +29,14 @@ export class LandingTeam extends Component {
                 name6
                 image7
                 name7
-                portrait-executif-team
+                portrait-executif-team{
+                  {
+                  image
+                  name
+                  }
+                }
               }
+              
               html
             }
           }
