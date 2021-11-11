@@ -8,6 +8,7 @@ fields:
     required: false
   label: type
   hidden: true
+  default: plain
 - name: title
   type: text
   config:
