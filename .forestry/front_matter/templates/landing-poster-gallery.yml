@@ -8,7 +8,7 @@ fields:
     required: false
   label: type
   hidden: true
-  default: plain
+  default: plain-gallery
 - name: title
   type: text
   config:
