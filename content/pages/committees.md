@@ -16,8 +16,8 @@ title: Committees & Issues Debated
 
 ### Security Council
 
-* Protecting the Democratic Process
-* Technology: Both Propagating and Fighting Extremism
+* [https://drive.google.com/file/d/1ynWRCqZR049EAfcMT2LlKtpX6ifBDY63/view?usp=sharing](https://drive.google.com/file/d/1ynWRCqZR049EAfcMT2LlKtpX6ifBDY63/view?usp=sharing "Protecting the Democratic Process")
+* [https://drive.google.com/file/d/1e1Yhd2GtuT0l6YxPYTv4LG665rcMdivs/view?usp=sharing](https://drive.google.com/file/d/1e1Yhd2GtuT0l6YxPYTv4LG665rcMdivs/view?usp=sharing "Technology: Both Propagating and Fighting Extremism")
 
 </div>
 
@@ -26,7 +26,8 @@ title: Committees & Issues Debated
 ### **Historical Security Council**
 
 * Gulf War
-* Revelations of Edward Snowden
+* [https://drive.google.com/file/d/1eWfcabol7mlhTVj_5DQm0nybc827nCjp/view?usp=sharing](https://drive.google.com/file/d/1eWfcabol7mlhTVj_5DQm0nybc827nCjp/view?usp=sharing "Revelations of Edward Snowden")
+* [https://drive.google.com/file/d/1CfEDEuCAZWo4h2oBpWNP3IFp-Nfrh06y/view?usp=sharing](https://drive.google.com/file/d/1CfEDEuCAZWo4h2oBpWNP3IFp-Nfrh06y/view?usp=sharing "The Rwandan Genocide: April to July 1994")
 
 </div>
 
@@ -34,8 +35,8 @@ title: Committees & Issues Debated
 
 ### **Council of the European Union**
 
-* GAFAM: Protecting Europe’s digital sovereignty and integrity
-* Connectivity: The challenge of creating a 5G wireless network, targeting areas with little or no network coverage
+* [https://drive.google.com/file/d/1ft_7oWOiNLtZFI7EdTC-71kQ-0sV0QzR/view?usp=sharing](https://drive.google.com/file/d/1ft_7oWOiNLtZFI7EdTC-71kQ-0sV0QzR/view?usp=sharing "GAFAM: Protecting Europe’s digital sovereignty and integrity")
+* [https://drive.google.com/file/d/1UF9K0gOSFyxRxcTa1S-vpyJ1nqVMfTU1/view?usp=sharing](https://drive.google.com/file/d/1UF9K0gOSFyxRxcTa1S-vpyJ1nqVMfTU1/view?usp=sharing "Connectivity: The challenge of creating a 5G wireless network, targeting areas with little or no network coverage")
 
 </div>
 
@@ -47,8 +48,8 @@ title: Committees & Issues Debated
 
 ### **UNESCO- Focus on Press**
 
-* Protection of Whistleblowers and Journalists
-* Free and Fair Press
+* [https://drive.google.com/file/d/15fkxt7KIoF4rgEgrbRSy2Fcrd6hZupzP/view?usp=sharing](https://drive.google.com/file/d/15fkxt7KIoF4rgEgrbRSy2Fcrd6hZupzP/view?usp=sharing "Protection of Whistleblowers and Journalists")
+* [https://drive.google.com/file/d/1zs86K-WgIY6eunnFObEYNbj_3RNgkvmX/view?usp=sharing](https://drive.google.com/file/d/1zs86K-WgIY6eunnFObEYNbj_3RNgkvmX/view?usp=sharing "Free and Fair Press")
 
 </div>
 
@@ -56,8 +57,8 @@ title: Committees & Issues Debated
 
 ### **Human Rights**
 
-* Control of Personal Information
-* Censorship and Misinformation
+* [https://drive.google.com/file/d/1bxhhQHdjxLkiAjcjhvjrZY3Y7KGs1Bry/view?usp=sharing](https://drive.google.com/file/d/1bxhhQHdjxLkiAjcjhvjrZY3Y7KGs1Bry/view?usp=sharing "Censorship and Misinformation")
+* [https://drive.google.com/file/d/1v8rMr11o_b6t8Gew2ooZcQ-7smBR9Noh/view?usp=sharing](https://drive.google.com/file/d/1v8rMr11o_b6t8Gew2ooZcQ-7smBR9Noh/view?usp=sharing "Control of Personal Information")
 
 </div>
 
@@ -65,8 +66,8 @@ title: Committees & Issues Debated
 
 ### **Environmental**
 
-* Invisible Pollution of Cyber Activity
-* Materials for Cyber Activity: Resources and Waste
+* [https://drive.google.com/file/d/1v0IMA7mhemF6AeIvkosOinGDOZLJ_zkJ/view?usp=sharing](https://drive.google.com/file/d/1v0IMA7mhemF6AeIvkosOinGDOZLJ_zkJ/view?usp=sharing "Invisible Pollution of Cyber Activity")
+* [https://drive.google.com/file/d/1xr9ktgzJG28H-98dbXVuDB4OuqP0rc33/view?usp=sharing](https://drive.google.com/file/d/1xr9ktgzJG28H-98dbXVuDB4OuqP0rc33/view?usp=sharing "Materials for Cyber Activity: Resources and Waste")
 
 </div>
 
@@ -78,8 +79,8 @@ title: Committees & Issues Debated
 
 ### **Technology**
 
-* Artificial Intelligence
-* Cybersecurity
+* [https://drive.google.com/file/d/1XOeaLpt93_r-CarpIu7bwlYBXSs5NLZ9/view?usp=sharing](https://drive.google.com/file/d/1XOeaLpt93_r-CarpIu7bwlYBXSs5NLZ9/view?usp=sharing "Artificial Intelligence")
+* [https://drive.google.com/file/d/1HEfnJbrBJLZL1eW0ksLUwQYuqSgyxtiz/view?usp=sharing](https://drive.google.com/file/d/1HEfnJbrBJLZL1eW0ksLUwQYuqSgyxtiz/view?usp=sharing "Cybersecurity")
 
 </div>
 
@@ -87,8 +88,8 @@ title: Committees & Issues Debated
 
 ### World Health Organisation
 
-* Health and the Cyber World
-* Data: Strengthening Collection, Accuracy and Diffusion
+* [https://drive.google.com/file/d/1ONwv1dF6T23s47v8Phxyz7XtexyuGT-O/view?usp=sharing](https://drive.google.com/file/d/1ONwv1dF6T23s47v8Phxyz7XtexyuGT-O/view?usp=sharing "Health and the Cyber World")
+* [https://drive.google.com/file/d/1V6d22rPEKdif2xP3xbv1gkxlD4AauHPi/view?usp=sharing](https://drive.google.com/file/d/1V6d22rPEKdif2xP3xbv1gkxlD4AauHPi/view?usp=sharing "Data: Strengthening Collection, Accuracy and Diffusion")
 
 </div>
 
@@ -96,8 +97,8 @@ title: Committees & Issues Debated
 
 ### **Social**
 
-* Ethics of Internet
-* Equity and Empowerment in/through the Internet
+* [https://drive.google.com/file/d/1dpnBxgHm42_HkdPtRXnbVIoevF7T6uWt/view?usp=sharing](https://drive.google.com/file/d/1dpnBxgHm42_HkdPtRXnbVIoevF7T6uWt/view?usp=sharing "Ethics of Internet")
+* [https://drive.google.com/file/d/1EYXiNTR0zHDDKoHBHZMg39o0KUA3dAJk/view?usp=sharing](https://drive.google.com/file/d/1EYXiNTR0zHDDKoHBHZMg39o0KUA3dAJk/view?usp=sharing "Equity and Empowerment in/through the Internet")
 
 </div>
 
@@ -109,8 +110,8 @@ title: Committees & Issues Debated
 
 ### **Economic**
 
-* Transparency and Accountability in Cyber Finances
-* Work in the Cyber World: Inclusive, Sustainable and Decent
+* [https://drive.google.com/file/d/1P4rcFp04BRZ2mIflvHHo2CFqPNYIjzPp/view?usp=sharing](https://drive.google.com/file/d/1P4rcFp04BRZ2mIflvHHo2CFqPNYIjzPp/view?usp=sharing "Transparency and Accountability in Cyber Finances")
+* [https://drive.google.com/file/d/1ahLmwRS59fMRTinJXRo_DesI-Y0Nc2cS/view?usp=sharing](https://drive.google.com/file/d/1ahLmwRS59fMRTinJXRo_DesI-Y0Nc2cS/view?usp=sharing "Work in the Cyber World: Inclusive, Sustainable and Decent")
 
 </div>
 
@@ -118,6 +119,7 @@ title: Committees & Issues Debated
 
 ### **Action Assembly**
 
+* [https://drive.google.com/file/d/1sHPDG92C51z6KTMbtrkhmuUgSoVcbUFs/view?usp=sharing](https://drive.google.com/file/d/1sHPDG92C51z6KTMbtrkhmuUgSoVcbUFs/view?usp=sharing "Action Assembly")
 * Internet relationships
 * Activism on social media
 * The relationship between between digital press and the public opinion
@@ -145,7 +147,10 @@ title: Committees & Issues Debated
 
 ### **Youth Committee**
 
-* To be announced
+* [https://drive.google.com/file/d/1BLI1i__tw6BfEzJs1n-pKigHykoJLL2s/view?usp=sharing](https://drive.google.com/file/d/1BLI1i__tw6BfEzJs1n-pKigHykoJLL2s/view?usp=sharing "AI")
+* [https://drive.google.com/file/d/1l7OUyZuQlnLA39Poyq3YCVeQ-1SymhGA/view?usp=sharing](https://drive.google.com/file/d/1l7OUyZuQlnLA39Poyq3YCVeQ-1SymhGA/view?usp=sharing "Cyber Security")
+* [https://drive.google.com/file/d/11BSHRIy-_SnFTUrFPtvQAY0oWBdVLAvp/view?usp=sharing](https://drive.google.com/file/d/11BSHRIy-_SnFTUrFPtvQAY0oWBdVLAvp/view?usp=sharing "Invisible Pollution of Cyber")
+* [https://drive.google.com/file/d/1iS8Ol7Mj3u99coROVS-DPFCbTqX9FOz7/view?usp=sharing](https://drive.google.com/file/d/1iS8Ol7Mj3u99coROVS-DPFCbTqX9FOz7/view?usp=sharing "Materiels for cyber activity Resources and Waste")
 
 </div>
 
