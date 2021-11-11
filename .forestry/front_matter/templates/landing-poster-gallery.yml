@@ -40,3 +40,5 @@ fields:
     labelField: 
   label: Poster-Gallery
   description: The annual poster of Ilymun<br>
+pages:
+- content/pages/poster-gallery-1.md
