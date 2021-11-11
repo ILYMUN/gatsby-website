@@ -68,7 +68,7 @@ export class LandingTeam extends Component {
                                 src={require("../../../static/images/team/" + data.content.frontmatter.image1)}
                               />
                             </LazyLoad>
-                            <p>{data.content.frontmatter.portrait-executif-team}</p>
+                            <p>{data.content.frontmatter.name1}</p>
                           </ScrollAnimation>
                         </div>
                         <div class="image_contenair col-md-4 col-sm-4">
