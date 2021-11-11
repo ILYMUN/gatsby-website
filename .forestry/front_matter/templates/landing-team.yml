@@ -16,7 +16,7 @@ fields:
 - type: textarea
   name: subtitle
   label: subtitle
-- name: portrait-executif-team
+- name: portrait
   type: field_group_list
   fields:
   - name: image
