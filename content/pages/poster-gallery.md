@@ -17,7 +17,7 @@ fichier1: affiche-ilymun-2014.jpg
 ---
 <div class="wrapper" style="display:grid;grid-template-columns:repeat(3,1fr);grid-gap:10px;">
 
-<img href="/uploads/affiche-ilymun-2014.jpg">
+<img href="../../../static/images/poster2014.jpg">
 
 <img href="/uploads/affiche-ilymun-2014.jpg">
 
