@@ -14,6 +14,10 @@ export class LandingSponsors extends Component {
             ) {
               frontmatter {
                 title
+                image1
+                image2
+                image3
+                image4
               }
               
               html
@@ -34,48 +38,7 @@ export class LandingSponsors extends Component {
                       </h2>
                     </div>
                   </ScrollAnimation>
-                  <div class="section-content">
-                    <div class="row">
-                        <div class="col-md-4 col-sm-4">
-                          <ScrollAnimation animateIn="bounceInUp" animateOnce>
-                            <LazyLoad>
-                              <img
-                                src={require("../../../static/images/" + data.content.frontmatter.image1)}
-                              />
-                            </LazyLoad>
-                          </ScrollAnimation>
-                         </div>
-                        <div class="col-md-4 col-sm-4">
-                          <ScrollAnimation animateIn="bounceInUp" animateOnce>
-                            <LazyLoad>
-                              <img
-                                src={require("../../../static/images/" + data.content.frontmatter.image2)}
-                              />
-                            </LazyLoad>
-                          </ScrollAnimation>
-                        </div>
-
-                            
-                        <div class="col-md-4 col-sm-4">
-                          <ScrollAnimation animateIn="bounceInUp" animateOnce>
-                            <LazyLoad>
-                              <img
-                                src={require("../../../static/images/" + data.content.frontmatter.image3)}
-                              />
-                            </LazyLoad>
-                          </ScrollAnimation>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                          <ScrollAnimation animateIn="bounceInUp" animateOnce>
-                            <LazyLoad>
-                              <img
-                                src={require("../../../static/images/" + data.content.frontmatter.image4)}
-                              />
-                            </LazyLoad>
-                          </ScrollAnimation>
-                        </div>
-                      </div>
-                    </div>
+                  
                   </div>
                 </div>
                 <div class="bottom-angle"></div>
