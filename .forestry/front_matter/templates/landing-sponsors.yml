@@ -1,4 +1,19 @@
 ---
 label: landing-sponsors
 hide_body: false
-fields: []
+fields:
+- name: page
+  type: text
+  config:
+    required: false
+  label: page
+- name: section
+  type: text
+  config:
+    required: false
+  label: section
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
