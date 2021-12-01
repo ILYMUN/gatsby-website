@@ -3,7 +3,7 @@ import { StaticQuery, graphql } from "gatsby";
 import LazyLoad from "react-lazyload";
 import ScrollAnimation from "react-animate-on-scroll";
 
-export class LandingTeam extends Component {
+export class LandingSponsors extends Component {
   render() {
     return (
       <StaticQuery
