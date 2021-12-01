@@ -15,6 +15,7 @@ import { CountDownParallax } from "../components/home/countdown";
 import { LandingPress } from "../components/home/press";
 import { Contact } from "../components/home/contact";
 import { Map } from "../components/home/map";
+import { LandingSponsors }from "../components/home/sponsors";
 
 /* CSS Files */
 import "../../static/css/bootstrap.min.css";
@@ -62,6 +63,7 @@ class HomePage extends React.Component {
           <Contact />
           {/* <section id="map" style={{width: '100%', height: '500px'}}></section> */}
           {/*<Map />*/}
+          <LandingSponsors />
         </div>
         <hr />
         <Footer />
