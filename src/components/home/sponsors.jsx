@@ -14,10 +14,6 @@ export class LandingSponsors extends Component {
             ) {
               frontmatter {
                 title
-                image1
-                image2
-                image3
-                image4
               }
               
               html
