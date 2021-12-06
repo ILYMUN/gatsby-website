@@ -17,24 +17,24 @@ fichier1: affiche-ilymun-2014.jpg
 ---
 <div class="wrapper" style="display:grid;grid-template-columns:repeat(3,1fr);grid-gap:10px;">
 
-<img href="../../../static/images/poster2014.jpg">
+<img href="https://ilymun.org/images/poster2014.jpg">
 
-<img href="/uploads/affiche-ilymun-2014.jpg">
+<img href="https://ilymun.org/affiche-ilymun-2014.jpg">
 
-<img href="/uploads/affiche-ilymun-2014.jpg">
+<img href="https://ilymun.org/affiche-ilymun-2014.jpg">
 
-<img href="/uploads/affiche-ilymun-2014.jpg">
+<img href="https://ilymun.org/affiche-ilymun-2014.jpg">
 
-<img href="/uploads/affiche-ilymun-2014.jpg">
+<img href="https://ilymun.org/affiche-ilymun-2014.jpg">
 
-<img href="/uploads/affiche-ilymun-2014.jpg">
+<img href="https://ilymun.org/affiche-ilymun-2014.jpg">
 
-<img href="/uploads/affiche-ilymun-2014.jpg">
+<img href="https://ilymun.org/affiche-ilymun-2014.jpg">
 
-<img href="/uploads/affiche-ilymun-2014.jpg">
+<img href="https://ilymun.org/affiche-ilymun-2014.jpg">
 
-<img href="/uploads/affiche-ilymun-2014.jpg">
+<img href="https://ilymun.org/affiche-ilymun-2014.jpg">
 
-<img href="/uploads/affiche-ilymun-2014.jpg">
+<img href="https://ilymun.org/affiche-ilymun-2014.jpg">
 
 </div>
