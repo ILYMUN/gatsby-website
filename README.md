@@ -15,7 +15,7 @@
    ```sh
    cd gatsby-website
    npm install
-   gatsby develop
+   npm run develop
    ```
 
 3. **Open the source code and start editing!**
