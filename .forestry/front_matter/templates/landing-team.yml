@@ -37,5 +37,3 @@ fields:
     labelField: 
   label: Portrait-executif-team
   description: The portrait with name of the executif team
-pages:
-- content/pages/home-page/team.md
