@@ -17,5 +17,3 @@ fields:
   config:
     required: false
   label: title
-pages:
-- content/pages/home-page/our-sponsors.md
