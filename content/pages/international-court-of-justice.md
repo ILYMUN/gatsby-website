@@ -8,37 +8,23 @@ title: International Court of Justice
 
 #### **WHAT IS THE ICJ ?**
 
-**The International Court of Justice** is the principal judicial organ of the United Nations. It pivots multinational disputes and safeguards nations’ sovereignty by settling legal altercations presented to it by the Member States. It does so by considering previous treaties, international conventions and international law.
+**The International Court of Justice** was created to act as a supreme judicial authority within the United Nations. It ensures global justice and safeguards nations’ sovereignty by settling legal altercations presented to it by the Member States. It does so by considering previous treaties, international conventions and international law.
 
 The ICJ at ILYMUN will help you view conflicts from a new perspective and will offer insight on international law and the proceedings of judicial cases. The ICJ is perfect for those interested in international relations, law or simply for those who want to try something new.
 
 #### **WHAT IS THIS YEAR’S CASE ?**
 
-This year consists of two cases, each one with its own team:
+This year, the ICJ has chosen a case concerning maritime disputes and state sovereignty, in alliance with the theme of the conference: Sovereignty: Law, Land and Limits.  This is a contentious case that has been carried out in the actual ICJ since 2016.  We strongly encourage students to participate in this year’s ICJ. This case is filled with moral dilemmas, conventions of international law, and gives compelling insight on modern day international relations and diplomacy. 
 
-**Case 1:**
+The case is as follows:
 
-The Russian Federation versus The United States of America,
-
-In the conflict over the alleged Russian interference in the 2016 USA elections.
+Nicaragua v. Colombia: Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea 
 
 The two teams of advocates will represent the following groups :
 
-– Applicant party: United States of America (USA)
+– Applicant party: Nicaragua
 
-– Respondent party: Russian Federation (Russia)
-
-**Case 2:**
-
-The Islamic Republic of Iran versus the United States of America,
-
-In the assassination of the Iranian General by US drone
-
-The two teams of advocates will represent the following groups :
-
-– Applicant party: The Islamic Republic of Iran (Iran)
-
-– Respondent party: The United States of America (USA)
+– Respondent party: Colombia 
 
 #### **HOW DOES THE ICJ AT ILYMUN WORK ?**
 
@@ -46,7 +32,7 @@ The International Court of Justice is composed of:
 
 \- **The Presidency:**
 
-This year they are represented by Lisa Matimati, Belal Mohamed, Roman Harding and Vanessa Chioaru.
+This year they are represented by Emma Andreetta, Guillemette Leurs, &  Yasmine Mardak. 
 
 \- **The Advocacy:**
 
@@ -54,7 +40,7 @@ An Applicant and a Respondent party, both represented by 2 advocates each.
 
 \- **The Jurisdiction:**
 
-A court of 15-20 independent judges.
+A court of 15-19 independent judges.
 
 Both advocate parties hold opening speeches, to present both factual and legal evidence to the judges. The judges are given time to question the advocates.
 
@@ -100,8 +86,8 @@ Due to the challenging nature and limited places for this committee we ask deleg
 
 Delegates should also state which role they prefer (_judge or advocate_) and if they are open to taking the _alternative_ if they aren’t accepted for their first choice.
 
-Send **_any questions_** about the ICJ or **_letters of application_** before October 20 to:
+Send **_any questions_** about the ICJ or **_letters of application_** before October 14 to:
 
-[Belal.mohamed@csilyon.fr](mailto:Belal.mohamed@csilyon.fr) - General reference and Case 1 president
+Please contact the presidents of the ICJ for more information on applications and positions:
 
-[Lisa.matimati@csilyon.fr](mailto:Lisa.matimati@csilyon.fr) and [romanh@islyon.org](mailto:romanh@islyon.org) - Case 2 presidents
+[Emmaa@islyon.org](mailto:Emmaa@islyon.org), [Guillemettel@islyon.org](mailto:Guillemettel@islyon.org) & [yasmine.mardak@csilyon.fr](mailto:yasmine.mardak@csilyon.fr)

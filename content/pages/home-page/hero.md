@@ -1,7 +1,7 @@
 ---
 page: home
 section: hero
-title: ILYMUN 2021
+title: ILYMUN 2023
 subtitle: 'Sovereignty: Law, Land and Limits
 
 '
