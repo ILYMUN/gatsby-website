@@ -25,3 +25,5 @@ fields:
 - type: number
   name: eventStartMinuteUtc
   label: ILYMUN's Start Minute (UTC Time Zone)
+pages:
+- content/pages/home-page/countdown.md
