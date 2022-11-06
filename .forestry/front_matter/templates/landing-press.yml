@@ -16,3 +16,5 @@ fields:
 - type: textarea
   name: subtitle
   label: subtitle
+pages:
+- content/pages/home-page/press.md
