@@ -2,9 +2,9 @@
 page: home
 section: hero
 title: ILYMUN 2021
-subtitle: 'Cyber World: Untangling the Web
+subtitle: 'Sovereignty: Law, Land and Limits
 
 '
-date: 'DATES: 1st to the 4th of December'
+date: 'DATES: 1st to the 3rd of February 2023'
 
 ---

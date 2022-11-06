@@ -17,21 +17,17 @@ As the name implies, the Action Assembly’s purpose is to _take action_. For th
 
 ### <span style="font-weight: 400;">What is this year’s theme ?</span>
 
-<span style="font-weight: 400;"> This year’s conference theme is **Cyber World: Are truth, justice and peace in the balance? **The Action Assembly will focus on the following three topics:
+<span style="font-weight: 400;"> This year’s conference theme is **Sovereignty: Law, Land and Limits **The Action Assembly will focus on the following two topics:
 
-_- Internet Relationships_
+_- TNCs in Globalisation_
 
-_- Cyber Activism_
-
-_- The Impact Of The Internet On The Press_
-
-We are a “digital” generation and it’s time we take more control of this aspect of our everyday lives. It’s up to us to develop frameworks and guidelines for the cyber world we live in.</span>
+_- TNCs in Sovereignty_</span>
 
 ### <span style="font-weight: 400;">What are we going to do ?</span>
 
-<span style="font-weight: 400;"> This year, the committee will produce a video in which volunteer delegates explain what they have learnt about the three topics, and what can be done to make positive changes. Given our _Cyber World_ theme, we hope to post the video on the ILYMUN YouTube Channel, and Facebook and Instagram accounts. The committee will also create a poster for delegates to put up in their respective schools, and to reach out to a wider audience about the topics discussed.
+<span style="font-weight: 400;"> This year, the committee will produce a video in which volunteer delegates explain what they have learnt about the three topics, and what can be done to make positive changes. Given our Sovereignty theme, we hope to post the video on the ILYMUN YouTube Channel, and Facebook and Instagram accounts. The committee will also create a poster for delegates to put up in their respective schools, and to reach out to a wider audience about the topics discussed.
 
-The video and poster will help each and everyone of us to raise awareness, to take action on a scale that is attainable for students, and to share the knowledge that we have acquired at ILYMUN 2021.  
+The video and poster will help each and everyone of us to raise awareness, to take action on a scale that is attainable for students, and to share the knowledge that we have acquired at ILYMUN 2021.
 </span>
 
 ### <span style="font-weight: 400;">How do we prepare for the Action Assembly ?</span>
