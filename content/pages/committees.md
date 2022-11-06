@@ -8,13 +8,122 @@ title: Committees & Issues Debated
 
 <section>
 
+## ILYMUN 2023
+
+<div class="row">
+
+<div class="col-md-4">
+
+### General Assembly
+
+* The United Nations: is our common assembly relevant today and how will it be so tomorrow?
+
+</div>
+
+<div class="col-md-4">
+
+### Special Conference
+
+* What is sovereignty in a globalised world?
+
+</div>
+
+<div class="col-md-4">
+
+### Security Council
+
+* The militarization of atolls in the South China Sea
+* The Russian invasion of Ukraine 
+
+</div>
+
+<div class="col-md-4">
+
+### Arctic Council
+
+* Territorial disputes in the Arctic including marine passage and shipping rights
+* Sharing resources and maintaining ecosystems while preserving the sovereignty of indigenous populations
+
+</div>
+
+<div class="col-md-4">
+
+###   United Nations Office for Outer Space Affairs - UNOOSA
+
+* The question of claiming territory in outer space 
+* Space race: the role of public and private entities
+
+</div>
+
+<div class="col-md-4">
+
+###   United Nations High Commissioner for Refugees - UNHCR
+
+* Integrating refugees into host countries while maintaining their ethnicity
+* Forced migration due to rising sea levels 
+
+</div>
+
+<div class="col-md-4">
+
+###   African Union
+
+* Foreign Interests and African Resources
+* Breaking the cycle of dependency
+
+</div>
+
+<div class="col-md-4">
+
+### Economic
+
+* Regulating GAFAM and multinational organisations
+* The Pollution market
+
+</div>
+
+<div class="col-md-4">
+
+###   Historic Security Council
+
+* October 1, 1998 - The Kosovo War (Reaction to the Gornje Obrinje massacre)
+* December 8, 1975 - The East Timor conflict
+* September 24, 1980 - The Iran-Iraq war
+
+</div>
+
+<div class="col-md-4">
+
+### Action Assembly - AA
+
+* TNCs in Globalisation
+* TNCs in Sovereignty
+
+</div>
+
+<div class="col-md-4">
+
+###  International Court of Justice - ICJ
+
+* Conflict between Colombia and Nicaragua over territorial waters
+
+</div>
+
+<div class="col-md-4">
+
+###  Youth Conference
+
+* The UN’s power with regards to National sovereignty
+
+</div>
+
 ## ILYMUN 2021
 
 <div class="row">
 
 <div class="col-md-4">
 
-### Security Council
+### General Assembly
 
 * [Protecting the Democratic Process](https://drive.google.com/file/d/1ynWRCqZR049EAfcMT2LlKtpX6ifBDY63/view?usp=sharing)
 * [Technology: Both Propagating and Fighting Extremism](https://drive.google.com/file/d/1e1Yhd2GtuT0l6YxPYTv4LG665rcMdivs/view?usp=sharing)
