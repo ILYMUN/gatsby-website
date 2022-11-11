@@ -27,8 +27,6 @@ export class LandingTeam extends Component {
                 name5
                 image6
                 name6
-                image7
-                name7
                 #portrait{
                 #  {
                 #    image
