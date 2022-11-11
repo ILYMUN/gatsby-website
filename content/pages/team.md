@@ -6,54 +6,91 @@ title: The ILYMUN Team
 ---
 <br/>
 
-#### Executive Team:
+#### Secretaries-General
+Salomé Lio <br>
+Nia Negron <br>
+Stéphane Vanoosthuyse <br>
+Andy Rangel Estrada <br>
+Patricio Andújar Salas
+Dave Kim <br>
 
-Marine Balaÿ <br/>Sarah Cotte <br/>Raphaëlle Muller-Feuga <br/>Mathilde Le Luyer <br/> Tomas Gouveia<br/> Emma Andreetta <br/> Maja Muszyński <br/>
+#### Heads of Chairs
+Marie Muller-Feuga <br>
+Leila McKenna <br>
+Majvie Rodier <br>
+Nitika Gupta <br>
 
-#### Heads of Chairs:
+#### Heads of Logistics
+Titouan Rérolle <br>
+Arthur Lhuillier <br>
+Rafael Restano Freitas <br>
+Alice Ollier <br>
 
-Sarah Matmati <br/> Claude Goni <br/> Tanya Kumble <br/> Chloe Marielle <br/>
+#### Heads of Housing
+Louise Valla <br>
+Emma Deandrea <br>
+Scarlett Peillet-Long <br>
+Mariana Birckenstaedt <br>
 
-#### Heads of Logistics:
+#### Heads of Admins
+Lucas Lopez <br>
+Wanda Dembinski <br>
+Radovan Kerata <br>
+Lola Corcoran <br>
 
-Mathilde Le Luyer <br/> Tristan Fournier<br/> Judy Sultan <br/> Lewis Cox <br/>
+#### Heads of Public Relations
+Adèle Hedrich <br>
+Cliana Rouger <br>
+Tobias Harding <br>
+Lou Guyaz <br>
 
-#### Communications Team:
+#### Social Team
+Alicia Aknin <br>
+Antoine Duron <br>
+Sagal Veluire  <br>
+Tobias Harding <br>
+Lou Guyaz <br>
 
-Giulia Olearo <br/> Eva Gromb <br/> Inès Fodor <br/> Clara Marsal <br/>  Titouan Rérolle <br/> Malak Malkawi <br/> Tahel Tobi <br/>
+#### Head of Press
+Eva Coudurier <br>
 
-#### Heads of Youth Conference:
+#### Heads of Audiovisual Press <br>
+Elise Larsen <br>
+Riley Jane Caunter <br>
 
-Stéphane Vanoosthuyse <br/>
-Patricio Andujar Salas <br/>
-Kim Anna Giang <br/>
-Carlota Ortega-Faurie <br/>
+#### Heads of Written Press
+Marvella Zimbiri <br>
+Joe Whibly <br>
 
-#### Head of Press:
+#### Head of Social Media
+Wanda Dembinski <br>
 
-Clara Larsen <br/> Caroline Tintinger <br/>
+#### Heads of the Youth Conference
+Gustave Bernard <br>
+Vanesa Qorolli <br>
+Mag Liz Sam <br>
+Madeline Cox <br>
 
-#### Heads of Audiovisual Press:
+#### Presidents of the International Court of Justice
+Yasmine Mardak <br>
+Guillemette Leurs <br>
+Emma Andreetta <br>
 
-Nathalia Kawarski <br/>
+#### Heads of the Action Assembly
+Sarah Balaÿ <br>
+Chloé Soualle <br>
 
-#### Heads of Written Press:
+#### Heads of the CSI Model United Nations club
+Penelope Stokes <br>
+Sarah Balaÿ <br>
 
-Mae-Line Provoost <br/>
+#### Heads of the ISL Model United Nations club
+Majvie Rodier <br>
+Riley Jane Caunter <br>
+Nitika Gupta  <br>
 
-#### Heads of Admins:
+#### Graphic Designer
+Salomee Tiessen <br>
 
-Lorraine Brisset <br/> Violène Bertolino <br/> Daehun Kim <br/> Julien Chaussin <br/>
-
-#### Heads of Action Assembly:
-
-Lila Schwab <br/>
-Anna L'huillier <br/>
-
-#### Heads of International Court of Justice:
-
-Lisa Matmati <br/> Bela Mohamed <br/> Roman Harding <br/> Vanessa Chioaru <br/>
-
-#### **Graphic Designer:**
-
-Lisa Nicol <br/>
+#### Webmaster
+Elio Hayman
