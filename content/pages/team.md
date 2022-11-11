@@ -11,7 +11,7 @@ Salomé Lio <br>
 Nia Negron <br>
 Stéphane Vanoosthuyse <br>
 Andy Rangel Estrada <br>
-Patricio Andújar Salas
+Patricio Andújar Salas <br>
 Dave Kim <br>
 
 #### Heads of Chairs

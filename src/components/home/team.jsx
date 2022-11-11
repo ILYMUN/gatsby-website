@@ -125,16 +125,6 @@ export class LandingTeam extends Component {
                             <p>{data.content.frontmatter.name6}</p>
                           </ScrollAnimation>
                         </div>
-                        <div class="image_contenair col-md-4 col-sm-4">
-                          <ScrollAnimation animateIn="bounceInUp" animateOnce>
-                            <LazyLoad>
-                              <img
-                                src={require("../../../static/images/team/" + data.content.frontmatter.image7)}
-                              />
-                            </LazyLoad>
-                            <p>{data.content.frontmatter.name7}</p>
-                          </ScrollAnimation>
-                        </div>
                       </div>
                     </div>
                     <div class="row">
