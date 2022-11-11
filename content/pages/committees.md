@@ -117,6 +117,10 @@ title: Committees & Issues Debated
 
 </div>
 
+</section
+  
+<section>
+  
 ## ILYMUN 2021
 
 <div class="row">
