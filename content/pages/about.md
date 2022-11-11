@@ -1,7 +1,7 @@
 ---
 type: plain
 path: "/about"
-title: ILYMUN 2021
+title: ILYMUN 2023
 
 ---
 We have the utmost pleasure and privilege to invite your Model United Nations students to the tenth annual edition of the International Lyon Model United Nations conference.  The Covid-19 crisis has prevented us from being able to organise an in-person conference since 2020, and we’re so excited that our 10th edition will be our first face-to-face conference in three years! This three-day conference is organised by the International School of Lyon and the Cité Scolaire Internationale de Lyon. The Région Auvergne-Rhône-Alpes 
