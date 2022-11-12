@@ -63,7 +63,7 @@ export class LandingTeam extends Component {
                           <ScrollAnimation animateIn="bounceInUp" animateOnce>
                             <LazyLoad>
                               <img
-                                src={require("../../../static/images/team/" + data.content.frontmatter.image1)}
+                                src="../../../static/images/team/salome-lio.png"
                               />
                             </LazyLoad>
                             <p>{data.content.frontmatter.name1}</p>
