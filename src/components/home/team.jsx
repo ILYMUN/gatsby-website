@@ -91,6 +91,9 @@ export class LandingTeam extends Component {
                             <p>{data.content.frontmatter.name3}</p>
                           </ScrollAnimation>
                         </div>
+
+                        <div class="image_contenair col-md-4 col-sm-4"></div>
+
                         <div class="image_contenair col-md-4 col-sm-4">
                           <ScrollAnimation animateIn="bounceInUp" animateOnce>
                             <LazyLoad>
