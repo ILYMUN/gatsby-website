@@ -123,7 +123,7 @@ export class Navbar extends Component {
             {/* <!-- TODO: Make Logo Pop-out on hover to let people know it is clickable --> */}
             <a href="/">
               <a class="navbar-brand" href="/">
-                <img src={require("../../static/images/logo.png")} alt="" />
+                <img src={require("../../static/images/logo.png").default} alt="" />
               </a>
             </a>
           </div>
