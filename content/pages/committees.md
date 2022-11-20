@@ -113,7 +113,7 @@ title: Committees & Issues Debated
 
 ###  Youth Conference
 
-* The UN’s power with regards to National sovereignty
+* To what extent can the UN and individual member states intervene in a sovereign country without said country’s authorization during times of extreme breaches of international law
 
 </div>
 
