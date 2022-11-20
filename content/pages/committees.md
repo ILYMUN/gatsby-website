@@ -30,6 +30,14 @@ title: Committees & Issues Debated
 
 <div class="col-md-4">
 
+###  Youth Conference
+
+* To what extent can the UN and individual member states intervene in a sovereign country without said country’s authorization during times of extreme breaches of international law
+
+</div>
+
+<div class="col-md-4">
+
 ### Security Council
 
 * The militarization of atolls in the South China Sea
@@ -109,15 +117,7 @@ title: Committees & Issues Debated
 
 </div>
 
-<div class="col-md-4">
-
-###  Youth Conference
-
-* To what extent can the UN and individual member states intervene in a sovereign country without said country’s authorization during times of extreme breaches of international law
-
-</div>
-
-</section
+</section>
   
 <section>
   
