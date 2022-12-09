@@ -8,7 +8,7 @@ title: Help
 
 <h2>Email</h2>
 
-<p>ILYMUN Support email address: <a href="https://web.archive.org/web/20181108191113/mailto:support@ilymun.org">support@ilymun.org</a></p>
+<p>ILYMUN Support email address: <a href="mailto:support@ilymun.org">support@ilymun.org</a></p>
 
 <br />
 
@@ -24,4 +24,4 @@ FRANCE   </p>
 
 <h2>Payment information</h2>
 
-<p>Payment is to APESA (IBAN/RIB available <a href="https://web.archive.org/web/20181108191113/http://ilymun.org/static/RIB-APESA.pdf">here</a>).</p>
+<p>If you are interested in helping us or financing ILYMUN, please contact <a href="mailto:support@ilymun.org">support@ilymun.org</a></p>
