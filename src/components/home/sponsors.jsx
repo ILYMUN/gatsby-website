@@ -61,6 +61,26 @@ export class LandingSponsors extends Component {
                             </LazyLoad>
                           </ScrollAnimation>
                         </div>
+
+                            
+                        <div class="image_contenair col-md-4 col-sm-4">
+                          <ScrollAnimation animateIn="bounceInUp" animateOnce>
+                            <LazyLoad>
+                              <img
+                                src={require("../../../static/images/" + data.content.frontmatter.image1).default}
+                              />
+                            </LazyLoad>
+                          </ScrollAnimation>
+                        </div>
+                        <div class="image_contenair col-md-4 col-sm-4">
+                          <ScrollAnimation animateIn="bounceInUp" animateOnce>
+                            <LazyLoad>
+                              <img
+                                src={require("../../../static/images/" + data.content.frontmatter.image2).default}
+                              />
+                            </LazyLoad>
+                          </ScrollAnimation>
+                        </div>
                       </div>
                     </div>
                   </div>
