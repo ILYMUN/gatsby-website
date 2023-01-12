@@ -9,6 +9,7 @@ import { LandingHero } from "../components/home/hero";
 import { LandingParallax } from "../components/home/parallax";
 import { LandingValues } from "../components/home/values";
 import { LandingTeam } from "../components/home/team";
+import { LandingOurSponsors } from "../components/home/our-sponsors";
 import { CountDownParallax } from "../components/home/countdown";
 // import {LandingQuotes} from '../components/home/quotes'
 import { LandingPress } from "../components/home/press";
@@ -55,13 +56,14 @@ class HomePage extends React.Component {
           
           <LandingTeam />
           <CountDownParallax />
+          <LandingOurSponsors />
           {/* <LandingQuotes /> */}
           <LandingPress />
           {/* <LandingPartners />  */}
           <Contact />
           {/* <section id="map" style={{width: '100%', height: '500px'}}></section> */}
           {/*<Map />*/}
-          {<LandingSponsors />}
+          {/* <LandingSponsors /> */ /* breaks the home page by the way */}
         </div>
         <hr />
         <Footer />
