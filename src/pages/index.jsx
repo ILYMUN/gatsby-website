@@ -56,7 +56,7 @@ class HomePage extends React.Component {
           
           <LandingTeam />
           <CountDownParallax />
-          <LandingOurSponsors />
+          {/* <LandingOurSponsors /> */}
           {/* <LandingQuotes /> */}
           <LandingPress />
           {/* <LandingPartners />  */}
