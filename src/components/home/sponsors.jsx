@@ -17,8 +17,6 @@ export class LandingSponsors extends Component {
                 subtitle
                 image1
                 image2
-                image3
-                image4
               }
               
               html
@@ -49,7 +47,7 @@ export class LandingSponsors extends Component {
                           <ScrollAnimation animateIn="bounceInUp" animateOnce>
                             <LazyLoad>
                               <img
-                                src={require("../../../static/images/team/" + data.content.frontmatter.image1).default}
+                                src={require("../../../static/images/" + data.content.frontmatter.image1).default}
                               />
                             </LazyLoad>
                           </ScrollAnimation>
@@ -58,27 +56,7 @@ export class LandingSponsors extends Component {
                           <ScrollAnimation animateIn="bounceInUp" animateOnce>
                             <LazyLoad>
                               <img
-                                src={require("../../../static/images/team/" + data.content.frontmatter.image2).default}
-                              />
-                            </LazyLoad>
-                          </ScrollAnimation>
-                        </div>
-
-                            
-                        <div class="image_contenair col-md-4 col-sm-4">
-                          <ScrollAnimation animateIn="bounceInUp" animateOnce>
-                            <LazyLoad>
-                              <img
-                                src={require("../../../static/images/team/" + data.content.frontmatter.image3).default}
-                              />
-                            </LazyLoad>
-                          </ScrollAnimation>
-                        </div>
-                        <div class="image_contenair col-md-4 col-sm-4">
-                          <ScrollAnimation animateIn="bounceInUp" animateOnce>
-                            <LazyLoad>
-                              <img
-                                src={require("../../../static/images/team/" + data.content.frontmatter.image4).default}
+                                src={require("../../../static/images/" + data.content.frontmatter.image2).default}
                               />
                             </LazyLoad>
                           </ScrollAnimation>
