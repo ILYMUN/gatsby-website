@@ -92,5 +92,5 @@ Nitika Gupta  <br>
 #### Graphic Designer
 Salomee Tiessen <br>
 
-#### Webmaster
+#### Website Maintainer
 Elio Hayman

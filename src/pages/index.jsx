@@ -61,7 +61,7 @@ class HomePage extends React.Component {
           <Contact />
           {/* <section id="map" style={{width: '100%', height: '500px'}}></section> */}
           {/*<Map />*/}
-          {/* <LandingSponsors /> */}
+          {<LandingSponsors />}
         </div>
         <hr />
         <Footer />
