@@ -155,6 +155,11 @@ export class Navbar extends Component {
                       International Court of Justice
                     </a>
                   </li>
+                  <li>
+                    <a href="/sponsors">
+                      Our Sponsors
+                    </a>
+                  </li>
                   {/* <!--<li><a href="/program">Programme</a></li>--> */}
                   {/* <li><a class="scroll" href="/#team">Team</a></li> */}
                 </ul>
