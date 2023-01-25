@@ -24,7 +24,7 @@ title: Committees & Issues Debated
 
 ### Special Conference
 
-* What is sovereignty in a globalised world?
+* What is Sovereignty in a Globalised World?
 
 </div>
 
@@ -32,7 +32,7 @@ title: Committees & Issues Debated
 
 ###  Youth Conference
 
-* To what extent can the UN and individual member states intervene in a sovereign country without said country’s authorization during times of extreme breaches of international law
+* Sovereignty and the United Nations
 
 </div>
 
@@ -40,8 +40,8 @@ title: Committees & Issues Debated
 
 ### Security Council
 
-* The militarization of atolls in the South China Sea
-* The Russian invasion of Ukraine 
+* The militarization of Atolls in the South China Sea
+* The Russia-Ukraine Conflict
 
 </div>
 
@@ -49,8 +49,8 @@ title: Committees & Issues Debated
 
 ### Arctic Council
 
-* Territorial disputes in the Arctic including marine passage and shipping rights
-* Sharing resources and maintaining ecosystems while preserving the sovereignty of indigenous populations
+* Territorial Disputes in the Arctic
+* Sovereignty of Indigenous Peoples and Sharing Resources
 
 </div>
 
@@ -58,8 +58,8 @@ title: Committees & Issues Debated
 
 ###   United Nations Office for Outer Space Affairs - UNOOSA
 
-* The question of claiming territory in outer space 
-* Space race: the role of public and private entities
+* Claiming Territory in Outer Space 
+* Space Race: the Role of Public and Private entities
 
 </div>
 
@@ -67,8 +67,8 @@ title: Committees & Issues Debated
 
 ###   United Nations High Commissioner for Refugees - UNHCR
 
-* Integrating refugees into host countries while maintaining their ethnicity
-* Forced migration due to rising sea levels 
+* Migration due to Rising Sea Levels
+* Integration while Maintaining Ethnicity 
 
 </div>
 
@@ -76,27 +76,27 @@ title: Committees & Issues Debated
 
 ###   African Union
 
+* Breaking the Cycle of Dependency
 * Foreign Interests and African Resources
-* Breaking the cycle of dependency
 
 </div>
 
 <div class="col-md-4">
 
-### Economic
+### Economic Committee
 
-* Regulating GAFAM and multinational organisations
-* The Pollution market
+* Regulating GAFAM and Multinational Organisations
+* The Pollution Market
 
 </div>
 
 <div class="col-md-4">
 
-###   Historic Security Council
+### Historic Security Council
 
-* October 1, 1998 - The Kosovo War (Reaction to the Gornje Obrinje massacre)
-* December 8, 1975 - The East Timor conflict
-* September 24, 1980 - The Iran-Iraq war
+* Kosovo War: Reaction to the Gornje Obrinje Massacre (October 1, 1998)
+* East Timor Conflict (December 8, 1975)
+* Iran-Iraq War (September 24, 1980)
 
 </div>
 
@@ -104,8 +104,8 @@ title: Committees & Issues Debated
 
 ### Action Assembly - AA
 
-* TNCs in Globalisation
-* TNCs in Sovereignty
+* Transnational Corporations in a Globalized World
+* Sovereignty and Transnational Corporations
 
 </div>
 
@@ -113,7 +113,7 @@ title: Committees & Issues Debated
 
 ###  International Court of Justice - ICJ
 
-* Conflict between Colombia and Nicaragua over territorial waters
+* Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea: Nicaragua vs Colombia
 
 </div>
 
