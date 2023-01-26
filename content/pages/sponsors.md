@@ -1,7 +1,7 @@
 ---
 type: plain
 path: "/sponsors"
-title: ILYMUN Sponsors
+title: ILYMUN 2023 Sponsors
 
 ---
 <br/>
@@ -10,6 +10,14 @@ title: ILYMUN Sponsors
 <img src="https://ilymun.org/images/logo_riso.png" alt="Riso: Productive Printing" style="width:60%;">
 </a>
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 
