@@ -19,7 +19,7 @@ fichier1: affiche-ilymun-2014.jpg
 
 <img src="https://ilymun.org/images/poster2014.jpg" alt="Not found">
 
-<img src="https://ilymun.org/images/poster2014.jpg" alt="Not found">
+<img src="affiche-ilymun-2015.jpg" alt="Not found">
 
 <img src="https://ilymun.org/images/poster2014.jpg" alt="Not found">
 
