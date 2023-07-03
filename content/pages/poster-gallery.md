@@ -19,7 +19,7 @@ fichier1: affiche-ilymun-2014.jpg
 
 <img src="gatsby-website/uploads/affiche-ilymun-2014.jpg" alt="Poster 2014">
 
-<img src="/gatsby-website/content/home-page/poster-gallery/affiche-ilymun-2015.jpg" alt="Poster 2015">
+<img src="gatsby-website/content/home-page/poster-gallery/affiche-ilymun-2015.jpg" alt="Poster 2015">
 
 <img src="/gatsby-website/content/home-page/poster-gallery/affiche-ilymun-2016.jpg" alt="Poster 2016">
 
