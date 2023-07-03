@@ -1,10 +1,10 @@
 ---
 page: home
 section: countdown
-eventStartYearUtc: 2023
-eventStartMonthUtc: 1
-eventStartDayUtc: 1
-eventStartHourUtc: 8
-eventStartMinuteUtc: '00'
+eventStartYearUtc: 2024
+eventStartMonthUtc: 7
+eventStartDayUtc: 29
+eventStartHourUtc: 17
+eventStartMinuteUtc: '30'
 
 ---
