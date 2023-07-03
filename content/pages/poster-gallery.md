@@ -1,6 +1,6 @@
 ---
 type: plain
-path: "/poster-gallery/"
+path: "/home-page/poster-gallery/"
 title: Poster Gallery
 fichier9: affiche-ilymun-2020-version-2.jpg
 fichier5: affiche-ilymun-2017-version-2.jpg
@@ -15,19 +15,7 @@ fichier10: affiche-ilymun-2021-v1.jpg
 fichier1: affiche-ilymun-2014.jpg
 
 ---
-portrait:
-- image: "/uploads/affiche-ilymun-2014.jpg"
-  name: Poster 2014
-- image: "/uploads/affiche-ilymun-2015.jpg"
-  name: Poster 2015
-- image: "/uploads/affiche-ilymun-2016.jpg"
-  name: Poster 2016
-- image: "/uploads/affiche-ilymun-2017.jpg"
-  name: Poster 2017
-- image: "/uploads/affiche-ilymun-2018.jpg"
-  name: Poster 2018
-- image: "/uploads/affiche-ilymun-2019.jpg"
-  name: Poster 2019
+
 
 <div class="wrapper" style="display:grid;grid-template-columns:repeat(3,1fr);grid-gap:10px;">
 
