@@ -4,30 +4,30 @@ section: team
 title: Our Team
 subtitle: Meet the people who make all this possible. A hard working team dedicated
   to bringing ILYMUN to life in the best way possible
-image1: salome-lio.png
-name1: Salomé Lio
-image2: dave-kim.png
-name2: Dave Kim
-image3: stephane-vanoosthuyse.png
-name3: Stéphane Vanoosthuyse
-image4: patricio-andujar-salas.png
-name4: Patricio Andújar Salas
-image5: andy-rangel-estrada.png
-name5: Andy Rangel Estrada
+image1: sarah-balay.png
+name1: Sarah Balaÿ
+image2: arthur-lhuillier.png
+name2: Arthur Lhuillier 
+image3: leila-mckenna.png
+name3: Leïla Mckenna
+image4: guillemette-leurs.png
+name4: Guillemette Leurs 
+image5: alice-ollier.png
+name5: Alice Ollier 
 image6: nia-negron.png
 name6: Nia Negron
 portrait:
-- image: "/uploads/salome-lio.png"
-  name: Salomé Lio
-- image: "/uploads/dave-kim.png"
-  name: Dave Kim
-- image: "/uploads/stephane-vanoosthuyse.png"
-  name: Stéphane Vanoosthuyse
-- image: "/uploads/patricio-andujar-salas.png"
-  name: Patricio Andújar Salas
-- image: "/uploads/andy-rangel-estrada.png"
-  name: Andy Rangel Estrada
-- image: "/uploads/nia-negron.png"
-  name: Nia Negron
+- image: "/uploads/sarah-balay.png"
+  name: Sarah Balaÿ
+- image: "/uploads/arthur-lhuillier.png"
+  name: Arthur Lhuillier 
+- image: "/uploads/leila-mckenna.png"
+  name: Leïla Mckenna
+- image: "/uploads/guillemette-leurs.png"
+  name: Guillemette Leurs 
+- image: "/uploads/alice-ollier.png"
+  name: Alice Ollier 
+- image: "/uploads/majvie-rodier.png"
+  name: Majvie Rodier
 
 ---
