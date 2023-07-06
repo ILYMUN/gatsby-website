@@ -9,7 +9,7 @@ title: The ILYMUN Team
 #### Secretaries-General
 Arthur Lhuillier <br>
 Leïla Mckenna <br>
-Sarah Balay <br>
+Sarah Balaÿ <br>
 Alice Ollier <br>
 Guillemette Leurs <br>
 Majvie Rodier <br>
@@ -21,10 +21,10 @@ Sukhada Joshi <br>
 Kasia Rice <br>
 
 #### Heads of Logistics
-Titouan Rérolle <br>
-Arthur Lhuillier <br>
-Rafael Restano Freitas <br>
-Alice Ollier <br>
+Lucas Lopes <br>
+Marie Muller-Feuga <br>
+Lola Corcoran <br>
+Nadia Kim <br>
 
 #### Heads of Housing
 Arthur Boutry <br>
@@ -79,17 +79,16 @@ Lina Kanki <br>
 Andrea Rangel Estrada <br>
 
 #### Heads of the CSI Model United Nations club
-Penelope Stokes <br>
-Sarah Balaÿ <br>
+Philip Bavoux <br>
+Rafael Delucca <br>
 
 #### Heads of the ISL Model United Nations club
-Majvie Rodier <br>
-Riley Jane Caunter <br>
-Nitika Gupta  <br>
+Kasia Rice <br>
+Sukhada Joshi <br>
 
 #### Graphic Designer
 Andrea Rangel Estrada <br>
 
-#### Website Maintainer
+#### Webmasters
 Simon Brehm <br>
 Clément Vasseneix
