@@ -5,6 +5,6 @@ eventStartYearUtc: 2024
 eventStartMonthUtc: 1
 eventStartDayUtc: 1
 eventStartHourUtc: 8
-eventStartMinuteUtc: '0'
+eventStartMinuteUtc: 0
 
 ---
