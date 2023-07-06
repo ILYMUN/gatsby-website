@@ -29,12 +29,12 @@ Nadia Kim <br>
 #### Heads of Housing
 Arthur Boutry <br>
 Chloe Soualle <br>
-Gabrielle Clyne  <br>
+Gabrielle Clyne <br>
 Tess Meggiolaro <br>
 
 #### Heads of Admins
 Titouan Chassant <br>
-Romana Keratova  <br>
+Romana Keratova <br>
 
 #### Heads of Public Relations
 Eva Zenone <br>
