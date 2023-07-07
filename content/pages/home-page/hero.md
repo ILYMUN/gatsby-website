@@ -1,7 +1,7 @@
 ---
 page: home
 section: hero
-title: ILYMUN 2023
+title: ILYMUN 2024
 subtitle: 'Rights and Freedoms
 
 '
