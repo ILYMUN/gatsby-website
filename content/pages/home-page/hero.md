@@ -2,9 +2,9 @@
 page: home
 section: hero
 title: ILYMUN 2023
-subtitle: 'Sovereignty: Law, Land and Limits
+subtitle: 'Rights and Freedoms
 
 '
-date: 'DATES: 1st to the 3rd of February 2023'
+date: 'DATES: beginning of February 2024'
 
 ---
