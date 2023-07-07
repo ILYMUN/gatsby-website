@@ -1,4 +1,5 @@
 ---
+
 type: plain
 path: "/home-page/poster-gallery/"
 title: Poster Gallery
