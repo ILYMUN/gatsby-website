@@ -6,6 +6,122 @@ title: Committees & Issues Debated
 ---
 ***
 
+
+<section>
+
+## ILYMUN 2024
+
+<div class="row">
+
+<div class="col-md-4">
+
+### General Assembly
+
+* Eradicating discrimination: valuing diversity and promoting inclusion 
+
+</div>
+
+<div class="col-md-4">
+
+### Special Conference
+
+* Freedom of Press
+* Freedom of Speech
+
+</div>
+
+<div class="col-md-4">
+
+###  World Health Organization (WHO)
+
+* Access to sexual and reproductive health-care services
+* Newborn health 
+
+</div>
+
+<div class="col-md-4">
+
+### Security Council
+
+* Israel-Palestine conflict
+* China-Taiwan conflict
+
+</div>
+
+<div class="col-md-4">
+
+### United Nations Children's Fund (UNICEF)
+
+* Child soldiers
+* Right to education 
+
+
+</div>
+
+<div class="col-md-4">
+
+###   Office of the High Commissioner for Human Rights (OHCHR)
+
+* Exploitation and trafficking
+* Rights of prisoners 
+
+</div>
+
+<div class="col-md-4">
+
+###   United Nations High Commissioner for Refugees - UNHCR
+
+* Freedom of movement 
+* Resettlement and Integration
+
+</div>
+
+<div class="col-md-4">
+
+###   United Nations Women 
+
+* Violence against women
+* Equal opportunities for leadership
+
+</div>
+
+<div class="col-md-4">
+
+### Technology Committee
+
+* Privacy and personal data protection
+* Right to technology and scientific development
+
+
+</div>
+
+<div class="col-md-4">
+
+### Historic Security Council
+
+* Rwandan Genocide: April 21, 1994
+* Syrian conflict: October 4, 2011
+
+</div>
+
+<div class="col-md-4">
+
+### Action Assembly - AA
+
+* Stand up for Human Rights
+
+</div>
+
+<div class="col-md-4">
+
+###  International Court of Justice - ICJ
+
+* The Gambia v Myanmar: Alleged perpetration of genocide and violations of human rights of the Rohingya
+
+</div>
+
+</section>
+
 <section>
 
 ## ILYMUN 2023
