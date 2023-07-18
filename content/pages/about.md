@@ -1,18 +1,27 @@
 ---
 type: plain
 path: "/about"
-title: ILYMUN 2023
-
+title: ILYMUN 2024
 ---
-We have the utmost pleasure and privilege to invite your Model United Nations students to the tenth annual edition of the International Lyon Model United Nations conference.  The Covid-19 crisis has prevented us from being able to organise an in-person conference since 2020, and we’re so excited that our 10th edition will be our first face-to-face conference in three years! This three-day conference is organised by the International School of Lyon and the Cité Scolaire Internationale de Lyon. The Région Auvergne-Rhône-Alpes 
-has. once. again. agreed. to. host. our. conference. in.the. distinguished. Hôtel. de 
-Région (1 Esplanade François Mitterrand, 69269 Lyon, Cedex 02). The conference
-will take place from the 1st to the 3rd of February 2023.
-The theme for ILYMUN this year is Sovereignty: Law, Land, and Limits.
+We have the utmost pleasure and privilege to invite your Model United Nations students to the eleventh annual edition of the International Lyon Model United Nations conference. Due to covid-19, last year was our first in person conference since 2020 and we are very glad that we are able to do it again this year.  This three-day conference is organized by the International School of Lyon and the Cité Scolaire Internationale de Lyon. The Région Auvergne-Rhône-Alpes has. once. again. agreed. to. host. our. conference. in.the. distinguished. Hôtel. de Région (1 Esplanade François Mitterrand, 69269 Lyon, Cedex 02). The conference will take place in February 2024. The theme for ILYMUN this year is Rights and Freedoms. 
 
-Sovereignty is a fundamental concept for the UN, one that has been redefined by the rise of globalisation while needing to maintain its individual implications. The conference will focus on the different subdivisions being impacted around the world. For example, how border and territorial disputes are imposing ineffable consequences on people globally and how they are being forced to adapt. This is only a small part of the enveloping concept that is Sovereignty, and the concepts of “Law”, “Land”, and its “Limits” will be thoroughly explored either individually or jointly within the different committees. Together, delegates will work together on a mission to conquer this complex and crucial subject which must be addressed.
+Rights and Freedoms are two interconnected notions that play a fundamental role in both individual and collective laws, as they are structural concepts of the UN. This year’s conference will explore the implementation, integration, and impact of rights and freedoms around the world through various lenses. We can better understand rights as moral or legal principles entitled to each individual regardless of social affiliation, background, or origin, that are ideally universally possessed by the general public and irrevocably guaranteed by the law. Rights are critical to freedom; the freedom of an individual is protected and ensured by rights, and prevents coercion into an action or decision. It is the state of being free. 
 
-At ILYMUN, we believe in creating as many possibilities for youth to collaborate and discover solutions regarding the world they are living in and will grow into, while simultaneously understanding its vast issues. Accordingly, we will once again host our Action Assembly, where students can represent themselves to bring about a change in their communities, instead of  speaking for their designated countries in worldwide problems. Furthermore, the Youth Conference will be open for middle school or “collège” students in the Auvergne-Rhône-Alpes region. We also strive to provide delegates with a wide variety of perspectives on global events, and have thus implemented several brand-new committees to ILYMUN 2023: the African Union and the Arctic Council will allow delegates to explore complex and intricate issues through the eyes of the countries that live them on a daily basis. The UNOOSA (United States Office for Outer Space Affairs) will make the conference transcend the limits of Earth to reflect upon the issue of sovereignty in space
+Over the course of the conference, delegates will - in varying committees - thoroughly examine the intricacies that lie within the encompassing concepts of Rights and Freedoms. Together, they will work to analyze and understand this complex and crucial subject.
+
+At ILYMUN, we believe in creating as many possibilities for youth to collaborate and discover solutions regarding the world they are living in and will grow into, while simultaneously understanding its vast issues. Accordingly, we will once again host our Action Assembly, where students can represent themselves to bring about a change in their communities, instead of speaking for their designated countries in worldwide problems. Furthermore, the Youth Conference will be open for middle school or “collège” students in the Auvergne-Rhône-Alpes region. We also strive to provide delegates with a wide variety of perspectives on global events. 
+
+Explanation of the different committees: 
+
+For ILYMUN 2024, the General Assembly and the United Nations Women will discuss how to eradicate discriminations and end violences against women.
+
+The United Nations Children’s Found (UNICEF), the Office of the High Commissioner for Human Rights (OHCHR) and the United Nations High Commissioner for Refugees (UNHCR) will focus on children’s right to education, human explotation and trafficking as well as freedom of movement.
+
+The Security Council, Historic Security Council and International Court of Justice (ICJ) will debate on different conflicts and genocide that occur/ed around the globe
+
+The World Health Organization (WHO) and the Technology Committee will discourse on the rights and access to healthcare and technology.
+
+The Special Conference will concentrate on freedom of speech and press. And last but not least, the Action Assembly’s theme is « standing up for human rights » which could also be seen as the ultimate goal of the United Nations.
 
 We are absolutely thrilled to be able to hold ILYMUN this year, and will strive to make it the most inclusive, interesting and unforgettable experience yet!
 
