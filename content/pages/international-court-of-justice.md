@@ -4,7 +4,7 @@ path: "/international-court-of-justice"
 title: International Court of Justice
 
 ---
-# **International Court of Justice**
+***
 
 #### **WHAT IS THE ICJ ?**
 
