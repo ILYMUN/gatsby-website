@@ -17,7 +17,7 @@ As the name implies, the Action Assembly’s purpose is to _take action_. For th
 
 ### <span style="font-weight: 400;">What is this year’s theme ?</span>
 
-<span style="font-weight: 400;"> This year’s conference theme is **Rights and Freedoms **The Action Assembly will focus on the following topic:
+<span style="font-weight: 400;"> This year’s conference theme is **Rights and Freedoms** The Action Assembly will focus on the following topic:
 
 _- Stand up for Human Rights_
 
