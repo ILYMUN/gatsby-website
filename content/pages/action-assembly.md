@@ -17,17 +17,17 @@ As the name implies, the Action Assembly’s purpose is to _take action_. For th
 
 ### <span style="font-weight: 400;">What is this year’s theme ?</span>
 
-<span style="font-weight: 400;"> This year’s conference theme is **Sovereignty: Law, Land and Limits **The Action Assembly will focus on the following two topics:
+<span style="font-weight: 400;"> This year’s conference theme is **Rights and Freedoms **The Action Assembly will focus on the following topic:
 
-_- TNCs in Globalisation_
+_- Stand up for Human Rights_
 
-_- TNCs in Sovereignty_</span>
+</span>
 
 ### <span style="font-weight: 400;">What are we going to do ?</span>
 
 <span style="font-weight: 400;"> This year, the committee will produce a video in which volunteer delegates explain what they have learnt about the three topics, and what can be done to make positive changes. Given our Sovereignty theme, we hope to post the video on the ILYMUN YouTube Channel, and Facebook and Instagram accounts. The committee will also create a poster for delegates to put up in their respective schools, and to reach out to a wider audience about the topics discussed.
 
-The video and poster will help each and everyone of us to raise awareness, to take action on a scale that is attainable for students, and to share the knowledge that we have acquired at ILYMUN 2021.
+The video and poster will help each and everyone of us to raise awareness, to take action on a scale that is attainable for students, and to share the knowledge that we have acquired at ILYMUN 2024.
 </span>
 
 ### <span style="font-weight: 400;">How do we prepare for the Action Assembly ?</span>
