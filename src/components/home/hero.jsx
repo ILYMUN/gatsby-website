@@ -22,6 +22,7 @@ export class LandingHero extends Component {
             title
             subtitle
             date
+            Adress
           }
         }
       }
