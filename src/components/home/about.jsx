@@ -72,7 +72,7 @@ export class HomeAboutSection extends Component {
                             />
                             <form action="/about/">
                               <button type="submit" class="button">
-                                Learn More
+                                The Conference
                               </button>
                             </form>
                           </div>
