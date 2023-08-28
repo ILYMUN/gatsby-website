@@ -22,7 +22,7 @@ export class LandingHero extends Component {
             title
             subtitle
             date
-            adress
+            address
           }
         }
       }
@@ -36,7 +36,7 @@ export class LandingHero extends Component {
                 <h1>{data.content.frontmatter.title}</h1>
                 <h2>{data.content.frontmatter.subtitle}</h2>
                 <p>{data.content.frontmatter.date}</p>
-                <p>{data.content.frontmatter.adress}</p>
+                <p>{data.content.frontmatter.address}</p>
               </div>
             </div>
           </article>
