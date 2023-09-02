@@ -124,6 +124,7 @@ title: Committees & Issues Debated
 
 <section>
 
+<hr>
 ## ILYMUN 2023
 
 <div class="row">
