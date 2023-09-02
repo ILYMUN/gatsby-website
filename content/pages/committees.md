@@ -99,8 +99,8 @@ title: Committees & Issues Debated
 
 ### Historic Security Council
 
-* Rwandan Genocide: April 21, 1994
-* Syrian conflict: October 4, 2011
+* Rwandan Genocide: **April 21, 1994**
+* Syrian conflict: **October 4, 2011**
 
 </div>
 
