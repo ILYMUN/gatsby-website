@@ -25,7 +25,7 @@ fields:
   - name: poster-img
     type: file
     config:
-      maxSize: 64
+      maxSize: 1024
     label: Poster-img
     description: The poster
   - name: poster-name
