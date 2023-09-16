@@ -10,9 +10,8 @@ title: Action Assembly
 
 ### <span style="font-weight: 400;">What is Action Assembly ?</span>
 
-<span style="font-weight: 400;">The Action Assembly (AA) is very different from other committees at ILYMUN. In this unique committee, you will not be debating real-time UN motions in the name of nations. Instead, the debates are more down-to-earth and relatable. They invite individual reflection. In the AA we debate motions that directly impact our way of life and delegates represent themselves (or corporations, political figures, etc. of their choice, depending on the theme).
-
-As the name implies, the Action Assembly’s purpose is to _take action_. For this reason, each year, the committee works together to develop a statement of action or action plan, that will empower conference participants to take action on an attainable scale. It’s all about our generation being true actors of change.  
+<span style="font-weight: 400;">Welcome delegates!
+Welcome to the **Action Assembly**! This organ of the conference focuses our efforts on finding change on an accessible level. Unlike the rest of the committees, our work will extend further than a hypothetical view on the events around the world. Since our impact will be more physical, it is also more personal. You have a chance to represent yourselves, not a member-state country. With your unique perspectives you can work on bringing about change within your communities and environment. In the **Action Assembly**, you will then be able to discuss with your fellow delegates and gain feedback and inspiration from the knowledge their perspectives bring them. You will draft an Action Plan to bring about the change you find you are able to do. This action Plan will go through edits throughout the conference until the final version on our final day. From there, you will be able to use your Action Plan to bring about change when you go back home. This means we will keep in contact with you for an update on your work, which we hope will show the effective fruition of your efforts. 
 </span>
 
 ### <span style="font-weight: 400;">What is this year’s theme ?</span>
@@ -25,9 +24,7 @@ _- Stand up for Human Rights_
 
 ### <span style="font-weight: 400;">What are we going to do ?</span>
 
-<span style="font-weight: 400;"> This year, the committee will produce a video in which volunteer delegates explain what they have learnt about the three topics, and what can be done to make positive changes. Given our Sovereignty theme, we hope to post the video on the ILYMUN YouTube Channel, and Facebook and Instagram accounts. The committee will also create a poster for delegates to put up in their respective schools, and to reach out to a wider audience about the topics discussed.
-
-The video and poster will help each and everyone of us to raise awareness, to take action on a scale that is attainable for students, and to share the knowledge that we have acquired at ILYMUN 2024.
+<span style="font-weight: 400;"> This year is important for Human Rights. The 10th of December 2023 marks the 75th anniversary of the Universal Declaration of Human Rights (UDHR). This document details the rights everyone is entitled to as a human being, no matter what their race, color, religion, sex, language, political or other opinion, national or social origin, property, birth, or other status. Since this year’s Conference is based on Rights and Freedoms, we as the Action Assembly are focusing on Human Rights specifically because of this anniversary. The UDHR is the most translated document in the world, and in honor of the anniversary the UN created a year-long initiative culminating in an event in December 2023 where global pledges and ideas will be announced. As you can see, our Action Assembly will do similar work but on an accessible level, with your own Action Plans reflecting the pledges and ideas the countries in the UN undertake. Later on in this Handbook, we will introduce the UDHR fully so you may use it as inspiration or as a tool when creating your initiatives.
 </span>
 
 ### <span style="font-weight: 400;">How do we prepare for the Action Assembly ?</span>
@@ -48,6 +45,6 @@ In short, we expect our delegates to have thought about their personal opinions 
 
 ### <span style="font-weight: 400;">Why should YOU join the Action Assembly ?</span>
 
-<span style="font-weight: 400;"> This is the committee in which your own voice is heard. The AA works _as a team._ We are all on an equal footing, learning together. The AA _takes action_ towards _real change_. The AA explores different points of view and hosts relevant conversations which lead to fulfilling debates. The issues are interesting and challenging. We can relate personally to these cyber issues. Unlike the other ILYMUN committees, our fight for change goes beyond the three-day conference.
+<span style="font-weight: 400;"> This is the committee in which your own voice is heard. The AA works _as a team._ We are all on an equal footing, learning together. The AA _takes action_ towards _real change_. The AA explores different points of view and hosts relevant conversations which lead to fulfilling debates. In the Action Assembly we encourage you to take change into your own hands. With our theme of Human Rights, you have the opportunity to create a serious initiative to produce actual and real change in your environments. As you will work as individuals, please keep in mind the scale of your initiative: a revolution is not made with only one person. However, the spark for change needs only **one voice** to start. Whether you have a long-time issue in your community, find injustices around you, or have to search for a problem, in the Action Assembly you will work to find _change_.
 
 **_So...join us in the Action Assembly and promote action in the world!_**</span>
