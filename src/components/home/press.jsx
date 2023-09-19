@@ -104,7 +104,7 @@ export class LandingPress extends Component {
                           class="button"
                           onclick="location.href='/media/';"
                         >
-                          Checkout more Photogrpahy
+                          Checkout more Photography
                         </button>
                       </a>
                     </ScrollAnimation>
