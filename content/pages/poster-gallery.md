@@ -1,10 +1,10 @@
 ---
 type: plain
 path: "/poster-gallery"
-title: poster-gallery
+title: Poster-Gallery
 
 ---
-<div class="wrapper" style="display:grid;grid-template-columns:repeat(3,1fr);grid-gap:10px;">
+<div class="wrapper" style="display:grid;grid-template-columns:repeat(3,1fr);grid-gap:11px;">
 
 <img src="https://ilymun.org/images/poster2014.jpg" alt="Poster 2014">
 
