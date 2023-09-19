@@ -1,7 +1,7 @@
 ---
 type: plain
 path: "/poster-gallery"
-title: Gallery
+title: poster-gallery
 
 ---
 <div class="wrapper" style="display:grid;grid-template-columns:repeat(3,1fr);grid-gap:10px;">
