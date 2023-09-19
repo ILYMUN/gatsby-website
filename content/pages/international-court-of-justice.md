@@ -14,17 +14,17 @@ The ICJ at ILYMUN will help you view conflicts from a new perspective and will o
 
 #### **WHAT IS THIS YEAR’S CASE ?**
 
-This year, the ICJ has chosen a case concerning maritime disputes and state sovereignty, in alliance with the theme of the conference: Sovereignty: Law, Land and Limits.  This is a contentious case that has been carried out in the actual ICJ since 2016.  We strongly encourage students to participate in this year’s ICJ. This case is filled with moral dilemmas, conventions of international law, and gives compelling insight on modern day international relations and diplomacy. 
+This year, the ICJ has chosen a case concerning human rights and genocide, in alliance with the theme of the conference: RIGHTS AND FREEDOMS. This is a contentious case that has been carried out in the actual ICJ since 2019. We strongly encourage students to participate in this year’s ICJ. This case is filled with moral dilemmas, conventions of international law, and gives compelling insight on modern day international relations and diplomacy.
 
 The case is as follows:
 
-Nicaragua v. Colombia: Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea 
+Gambia v. Myanmar: Alleged Violations of Convention on the Prevention and Punishment of the Crime of Genocide (Genocide Convention) in Rakhine State against Rohingya Muslims (Feb. 2022)
 
-The two teams of advocates will represent the following groups :
+The two teams of advocates will represent the following groups : 
 
-– Applicant party: Nicaragua
+– Applicant party: Gambia
 
-– Respondent party: Colombia 
+– Respondent party: Myanmar
 
 #### **HOW DOES THE ICJ AT ILYMUN WORK ?**
 
@@ -32,7 +32,7 @@ The International Court of Justice is composed of:
 
 \- **The Presidency:**
 
-This year they are represented by Emma Andreetta, Guillemette Leurs, &  Yasmine Mardak. 
+This year they are represented by Miranda Lee and Theodore de Longeaux.
 
 \- **The Advocacy:**
 
@@ -42,35 +42,27 @@ An Applicant and a Respondent party, both represented by 2 advocates each.
 
 A court of 15-19 independent judges.
 
+\- **The Procedure:**
+
 Both advocate parties hold opening speeches, to present both factual and legal evidence to the judges. The judges are given time to question the advocates.
+    
+Next, each advocate team presents two to four witnesses. (Witnesses are chosen by the Presidents of the ICJ prior to the conference.) Advocates are given the opportunity to interview witnesses and then judges can also question the witnesses or pose questions to the advocates regarding witnesses.
 
-Next, each advocate team presents two to four witnesses. (Witnesses are approved by the Presidents of the ICJ prior to the conference.) Advocates are given the opportunity to interview witnesses and then judges can also question the witnesses or pose questions to the advocates regarding witnesses.
-
-Then advocates present closing statements. After this, the judges deliberate upon the information presented to them and compose a verdict expressing their judgment in the case.
+Then advocates present closing statements. After this, the judges deliberate upon the information presented to them and compose a verdict expressing their judgment concerning the case.
 
 #### **HOW DO ADVOCATES AND JUDGES PREPARE FOR THE ICJ ?**
 
-**Advocates** need to research the case and create a report (called a memorandum). They also suggest a list of 3-4 supposed witnesses they would like to have at the trial. Finally, they create an evidence packet. The 2 parties collaborate together to create a stipulation. In sum, both teams prepare by:
+**Advocates** need to research the case and create a report (called a memorandum). They also suggest and select a list of 3-4 witnesses they would like to have at the trial. Finally, they create an evidence packet. The 2 parties collaborate together to create a stipulation. In sum, both teams prepare by:
 
-\- Gathering evidence
+- Writing a memorandum
 
-\- Bringing in “witnesses”
+- Writing a stipulation, together - Bringing in “witnesses”
 
-\- Writing a stipulation, together
+- Gathering evidence
 
-\- Writing a memorandum
+**The Presidents of the ICJ** will offer **unbiased help and guidance** to the advocates. They will provide **templates** for the various documents and work in partnership with the advocates to create and polish these documents. The Presidents will then share the documents with the opposing advocates and the judges and/or post them on the ILYMUN website for all to access.
 
-The Presidents of the ICJ will offer unbiased help and guidance to the
-
-advocates. They will provide templates for the various documents and work in
-
-partnership with the advocates to create and polish these documents. The
-
-Presidents will then share the documents with the opposing advocates and the
-
-judges and/or post them on the ILYMUN website for all to access once the Trial is near..
-
-**Judges** should read the documents shared and posted by the Presidents of the ICJ to become familiar with the case, the witnesses and the evidence. It is expected that judges will act without bias, be reflective and innovative.
+**Judges** should read the documents shared and posted by the Presidents of the ICJ to become familiar with the case, the witnesses and the evidence. It is expected that judges will be impartial, reflective and innovative.
 
 **Presidents of the ICJ** will also guide the judges in their **_deliberation_** to help them evaluate legal documents and assure the quality of the final verdict.
 
@@ -90,4 +82,4 @@ Send **_any questions_** about the ICJ or **_letters of application_** before Oc
 
 Please contact the presidents of the ICJ for more information on applications and positions:
 
-[Emmaa@islyon.org](mailto:Emmaa@islyon.org), [Guillemettel@islyon.org](mailto:Guillemettel@islyon.org) & [yasmine.mardak@csilyon.fr](mailto:yasmine.mardak@csilyon.fr)
+[mirandal@islyon.org](mailto:mirandal@islyon.org) & [theodore.delongeaux@csilyon.fr](mailto:theodore.delongeaux@csilyon.fr)
