@@ -56,7 +56,9 @@ Then advocates present closing statements. After this, the judges deliberate upo
 
 - Writing a memorandum
 
-- Writing a stipulation, together - Bringing in “witnesses”
+- Writing a stipulation, together
+
+- Bringing in “witnesses”
 
 - Gathering evidence
 
