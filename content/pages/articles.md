@@ -8,6 +8,14 @@ title: Articles
 
 <div class="row">
 
+<h3>ILYMUN 2023-24 THEME: Rights and Freedoms</h3>
+
+<h4>No Articles yet!</h4>
+
+<hr>
+
+<h3>ILYMUN 2022-23</h3>
+
 <h3>Mini ILYMUN Interviews</h3>
 
 <p>On the occasion of the Mini-ILYMUN conference, we had the great opportunity to interview Gaëlle Gormley, founder of the association Act for Ref and Tarek El, a refugee from Syria who came to France in 2014. Discover what they had to share about the conference's theme: refugees:<br/><a href="[https://medium.com/mini-ilymun-refugees-moving-towards-better-world/guest-speaker-interview-ga%C3%ABlle-gormley-df8ffbbcc418](https://medium.com/mini-ilymun-refugees-moving-towards-better-world/guest-speaker-interview-ga%C3%ABlle-gormley-df8ffbbcc418 "https://medium.com/mini-ilymun-refugees-moving-towards-better-world/guest-speaker-interview-ga%C3%ABlle-gormley-df8ffbbcc418")">Click here to read Gaëlle Gormley's interview</a><br/>
@@ -49,6 +57,8 @@ title: Articles
 </div>
 
 <div class="row">
+
+<hr>
 
 <h3>ILYMUN 2020 THEME: Water, a Thirst for Change</h3>
 
