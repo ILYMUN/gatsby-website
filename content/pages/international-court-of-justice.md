@@ -14,7 +14,7 @@ The ICJ at ILYMUN will help you view conflicts from a new perspective and will o
 
 #### **WHAT IS THIS YEAR’S CASE ?**
 
-This year, the ICJ has chosen a case concerning human rights and genocide, in alliance with the theme of the conference: RIGHTS AND FREEDOMS. This is a contentious case that has been carried out in the actual ICJ since 2019. We strongly encourage students to participate in this year’s ICJ. This case is filled with moral dilemmas, conventions of international law, and gives compelling insight on modern day international relations and diplomacy.
+This year, the ICJ has chosen a case concerning human rights and genocide, in alliance with the theme of the conference: **RIGHTS AND FREEDOMS**. This is a contentious case that has been carried out in the actual ICJ since 2019. We strongly encourage students to participate in this year’s ICJ. This case is filled with moral dilemmas, conventions of international law, and gives compelling insight on modern day international relations and diplomacy.
 
 The case is as follows:
 
@@ -52,15 +52,17 @@ Then advocates present closing statements. After this, the judges deliberate upo
 
 #### **HOW DO ADVOCATES AND JUDGES PREPARE FOR THE ICJ ?**
 
-**Advocates** need to research the case and create a report (called a memorandum). They also suggest and select a list of 3-4 witnesses they would like to have at the trial. Finally, they create an evidence packet. The 2 parties collaborate together to create a stipulation. In sum, both teams prepare by:
+**Advocates** need to research the case and create a report (called a memorandum). They also suggest and select a list of 3-4 witnesses they would like to have at the trial. Finally, they create an evidence packet. The 2 parties collaborate together to create a stipulation. 
 
-- Writing a memorandum
+In sum, both teams prepare by:
 
-- Writing a stipulation, together
+\- Writing a memorandum
 
-- Bringing in “witnesses”
+\- Writing a stipulation, together
 
-- Gathering evidence
+\- Bringing in “witnesses”
+
+\- Gathering evidence
 
 **The Presidents of the ICJ** will offer **unbiased help and guidance** to the advocates. They will provide **templates** for the various documents and work in partnership with the advocates to create and polish these documents. The Presidents will then share the documents with the opposing advocates and the judges and/or post them on the ILYMUN website for all to access.
 
