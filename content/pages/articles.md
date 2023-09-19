@@ -8,12 +8,12 @@ title: Articles
 
 <div class="row">
 
-<div>
+<hr>
 <h3>ILYMUN 2023-24 THEME: Rights and Freedoms</h3>
 
 <h4>No Articles yet!</h4>
 
-</div>
+
 <hr>
 
 <h3>ILYMUN 2022-23</h3>
