@@ -198,6 +198,9 @@ export class Navbar extends Component {
                     <a href="/articles/">Articles</a>
                   </li>
                   <li>
+            	      <a href="/poster-gallery/">Poster Gallery</a>
+          	      </li>
+                  <li>
                     <a href="/gallery/">
                       Gallery
                     </a>
