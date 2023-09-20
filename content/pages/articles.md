@@ -27,7 +27,7 @@ title: Articles
 
 <p>On the occasion of the Mini-ILYMUN conference, we had the great opportunity to interview Gaëlle Gormley, founder of the association Act for Ref and Tarek El, a refugee from Syria who came to France in 2014. Discover what they had to share about the conference's theme: refugees:<br/><a href="[https://medium.com/mini-ilymun-refugees-moving-towards-better-world/guest-speaker-interview-ga%C3%ABlle-gormley-df8ffbbcc418](https://medium.com/mini-ilymun-refugees-moving-towards-better-world/guest-speaker-interview-ga%C3%ABlle-gormley-df8ffbbcc418 "https://medium.com/mini-ilymun-refugees-moving-towards-better-world/guest-speaker-interview-ga%C3%ABlle-gormley-df8ffbbcc418")">Click here to read Gaëlle Gormley's interview</a><br/>
 
-<a href="[https://medium.com/mini-ilymun-refugees-moving-towards-better-world/guest-speaker-interview-tarek-eleiwy-27274647353c](https://medium.com/mini-ilymun-refugees-moving-towards-better-world/guest-speaker-interview-tarek-eleiwy-27274647353c "https://medium.com/mini-ilymun-refugees-moving-towards-better-world/guest-speaker-interview-tarek-eleiwy-27274647353c")">Click here to read Tarek El's interview</a></p>
+<a href="https://medium.com/mini-ilymun-refugees-moving-towards-better-world/guest-speaker-interview-tarek-eleiwy-27274647353c">Click here to read Tarek El's interview</a></p>
 
 <br/><br/>
 
