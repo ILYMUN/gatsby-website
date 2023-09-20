@@ -138,6 +138,7 @@ export class LandingTeam extends Component {
                           >
                             See the Entire Team
                           </button>
+                          <br></br>
                         </form>
                       </ScrollAnimation>
                     </div>
