@@ -15,18 +15,18 @@ const imagesLoadedOptions = { background: ".my-bg-image-el" };
 export class LandingPress extends Component {
   render() {
     const childElements = [
-      require("../../../static/images/gallery/sample/optimized/new_01.jpg"),
-      require("../../../static/images/gallery/sample/optimized/new_02.jpg"),
-      require("../../../static/images/gallery/sample/optimized/new_03.jpg"),
-      require("../../../static/images/gallery/sample/optimized/new_04.jpg"),
-      require("../../../static/images/gallery/sample/optimized/new_05.jpg"),
-      require("../../../static/images/gallery/sample/optimized/new_06.jpg"),
-      require("../../../static/images/gallery/sample/optimized/new_07.jpg"),
-      require("../../../static/images/gallery/sample/optimized/new_08.jpg"),
-      require("../../../static/images/gallery/sample/optimized/new_09.jpg"),
-      require("../../../static/images/gallery/sample/optimized/new_10.jpg"),
-      require("../../../static/images/gallery/sample/optimized/new_11.jpg"),
-      require("../../../static/images/gallery/sample/optimized/new_12.jpg")
+      require("../../../../static/images/gallery/sample/optimized/new_01.jpg"),
+      require("../../../../static/images/gallery/sample/optimized/new_02.jpg"),
+      require("../../../../static/images/gallery/sample/optimized/new_03.jpg"),
+      require("../../../../static/images/gallery/sample/optimized/new_04.jpg"),
+      require("../../../../static/images/gallery/sample/optimized/new_05.jpg"),
+      require("../../../../static/images/gallery/sample/optimized/new_06.jpg"),
+      require("../../../../static/images/gallery/sample/optimized/new_07.jpg"),
+      require("../../../../static/images/gallery/sample/optimized/new_08.jpg"),
+      require("../../../../static/images/gallery/sample/optimized/new_09.jpg"),
+      require("../../../../static/images/gallery/sample/optimized/new_10.jpg"),
+      require("../../../../static/images/gallery/sample/optimized/new_11.jpg"),
+      require("../../../../static/images/gallery/sample/optimized/new_12.jpg")
     ].map(function (src) {
       return (
         <div className="masonryImage col-md-3 col-sm-4 col-xs-6">
