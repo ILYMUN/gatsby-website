@@ -39,15 +39,15 @@ title: Articles
 
 <p>Throughout the mini-conference of ILYMUN, our delegates were able to discuss important issues regarding the key relations between refugees and technology, covid or women rights. Discover more about these paramount topics our respective articles on medium:
 
-<br/><a href="[https://medium.com/mini-ilymun-refugees-moving-towards-better-world/refugees-and-the-impact-of-covid-19-7074c3bdbd67](https://medium.com/mini-ilymun-refugees-moving-towards-better-world/refugees-and-the-impact-of-covid-19-7074c3bdbd67 "https://medium.com/mini-ilymun-refugees-moving-towards-better-world/refugees-and-the-impact-of-covid-19-7074c3bdbd67")">Click here to read about refugees and the impact of covid-19</a>
+<br/><a href="https://medium.com/mini-ilymun-refugees-moving-towards-better-world/refugees-and-the-impact-of-covid-19-7074c3bdbd67">Click here to read about refugees and the impact of covid-19</a>
 
 <br/>
 
-<a href="[https://medium.com/mini-ilymun-refugees-moving-towards-better-world/empowering-refugees-through-technology-f4c93d208f96](https://medium.com/mini-ilymun-refugees-moving-towards-better-world/empowering-refugees-through-technology-f4c93d208f96 "https://medium.com/mini-ilymun-refugees-moving-towards-better-world/empowering-refugees-through-technology-f4c93d208f96")">Click here to read about empowering refugees through technology </a>
+<a href="https://medium.com/mini-ilymun-refugees-moving-towards-better-world/empowering-refugees-through-technology-f4c93d208f96">Click here to read about empowering refugees through technology </a>
 
 <br/>
 
-<a href="[https://medium.com/mini-ilymun-refugees-moving-towards-better-world/protecting-the-rights-of-refugee-women-8b957a163676](https://medium.com/mini-ilymun-refugees-moving-towards-better-world/protecting-the-rights-of-refugee-women-8b957a163676 "https://medium.com/mini-ilymun-refugees-moving-towards-better-world/protecting-the-rights-of-refugee-women-8b957a163676")">Click here to read about protecting rights of women refugees</a></p>
+<a href="https://medium.com/mini-ilymun-refugees-moving-towards-better-world/protecting-the-rights-of-refugee-women-8b957a163676">Click here to read about protecting rights of women refugees</a></p>
 
 <br/>
 
