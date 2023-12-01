@@ -8,7 +8,7 @@ title: The ILYMUN Team
 
 #### Secretaries-General
 Arthur Lhuillier <br>
-Leïla Mckenna <br>
+Leïla McKenna <br>
 Sarah Balaÿ <br>
 Alice Ollier <br>
 Guillemette Leurs <br>
@@ -26,15 +26,15 @@ Marie Muller-Feuga <br>
 Lola Corcoran <br>
 Nadia Kim <br>
 
+#### Heads of Admins
+Titouan Chassant <br>
+Romana Keratova <br>
+
 #### Heads of Housing
 Arthur Boutry <br>
 Chloe Soualle <br>
 Gabrielle Clyne <br>
 Tess Meggiolaro <br>
-
-#### Heads of Admins
-Titouan Chassant <br>
-Romana Keratova <br>
 
 #### Heads of Public Relations
 Eva Zenone <br>
