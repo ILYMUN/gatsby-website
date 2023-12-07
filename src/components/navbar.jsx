@@ -225,7 +225,7 @@ export class Navbar extends Component {
                 <a href="/other-muns/">Other MUNs</a>
               </li>
               <li>
-                <a href="/The Conference 2024/">The Conference 2024</a>
+                <a href="/The-Conference-2024/">The Conference 2024</a>
               </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
