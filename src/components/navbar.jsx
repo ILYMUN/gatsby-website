@@ -218,6 +218,7 @@ export class Navbar extends Component {
                 <ul class="dropdown-menu">
                   <li><Link href="/partners/">Partners</a></li>
                   <li><Link href="/other-muns/">Other MUNs</a></li>
+                  <li><Link href="/The-Conference-2024/">The Conference 2024</a></li>
                 </ul>
               </li> */}
            
