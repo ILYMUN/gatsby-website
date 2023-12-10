@@ -210,9 +210,6 @@ export class Navbar extends Component {
                       Videos
                     </a>
                   </li>
-                  <li>
-                    <a href="/The-Conference-2024/">The Conference 2024</a>
-                  </li>
                   {/* <li><a href="/school-photos/">School Photos</a></li> */}
                 </ul>
               </li>
@@ -227,6 +224,9 @@ export class Navbar extends Component {
            
               <li>
                 <a href="/other-muns/">Other MUNs</a>
+              </li>
+              <li>
+                <a href="/The-Conference-2024/">The Conference 2024</a>
               </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
