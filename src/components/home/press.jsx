@@ -26,7 +26,7 @@ export class LandingPress extends Component {
       require("../../../static/images/home-photo-grid/grid_image9.JPG").default,
       require("../../../static/images/home-photo-grid/grid_image10.JPG").default,
       require("../../../static/images/home-photo-grid/grid_image11.JPG").default,
-      require("../../../static/images/home-photo-grid/grid_image12.jpg").default
+      require("../../../static/images/gallery/sample/optimized/new_12.jpg").default {/*grid_image12 seems to crash the website...*/}
     ].map(function (src) {
       return (
         <div className="masonryImage col-md-3 col-sm-4 col-xs-6">
