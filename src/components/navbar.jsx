@@ -93,8 +93,8 @@ export class Navbar extends Component {
             <p>
                <i class="fa fa-calendar"></i> Next Event in:{" "} 
               <span id="top-time"></span> 
-            </p> -->*/}
-          </div>
+            </p> 
+          </div> -->*/}
         </div>
       </div>
     );
