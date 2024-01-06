@@ -15,18 +15,18 @@ const imagesLoadedOptions = { background: ".my-bg-image-el" };
 export class LandingPress extends Component {
   render() {
     const childElements = [
-      require("../../../static/images/gallery/sample/optimized/new_01.jpg").default,
-      require("../../../static/images/gallery/sample/optimized/new_02.jpg").default,
-      require("../../../static/images/gallery/sample/optimized/new_03.jpg").default,
-      require("../../../static/images/gallery/sample/optimized/new_04.jpg").default,
-      require("../../../static/images/gallery/sample/optimized/new_05.jpg").default,
-      require("../../../static/images/gallery/sample/optimized/new_06.jpg").default,
-      require("../../../static/images/gallery/sample/optimized/new_07.jpg").default,
-      require("../../../static/images/gallery/sample/optimized/new_08.jpg").default,
-      require("../../../static/images/gallery/sample/optimized/new_09.jpg").default,
-      require("../../../static/images/gallery/sample/optimized/new_10.jpg").default,
-      require("../../../static/images/gallery/sample/optimized/new_11.jpg").default,
-      require("../../../static/images/gallery/sample/optimized/new_12.jpg").default
+      require("../../../static/images/home-photo-grid/grid_image1.JPG").default,
+      require("../../../static/images/home-photo-grid/grid_image2.JPG").default,
+      require("../../../static/images/home-photo-grid/grid_image3.JPG").default,
+      require("../../../static/images/home-photo-grid/grid_image4.JPG").default,
+      require("../../../static/images/home-photo-grid/grid_image5.JPG").default,
+      require("../../../static/images/home-photo-grid/grid_image6.JPG").default,
+      require("../../../static/images/home-photo-grid/grid_image7.JPG").default,
+      require("../../../static/images/home-photo-grid/grid_image8.JPG").default,
+      require("../../../static/images/home-photo-grid/grid_image9.JPG").default,
+      require("../../../static/images/home-photo-grid/grid_image10.JPG").default,
+      require("../../../static/images/home-photo-grid/grid_image11.JPG").default,
+      require("../../../static/images/home-photo-grid/grid_image12.JPG").default
     ].map(function (src) {
       return (
         <div className="masonryImage col-md-3 col-sm-4 col-xs-6">
