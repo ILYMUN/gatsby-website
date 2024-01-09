@@ -10,7 +10,7 @@ To guarantee the excellence and the effective functioning of our ILYMUN debates,
 
 To help our delegates in preparing for the conference, we have produced an effective five-step plan of action, to enable students to arrive at the conference in full confidence.
 
-For an in depth guide, please download the <embed src="https://ilymun.org/uploads/Delegate's Handbook 2024.pdf" Delegate's Handbook 2024/>.
+For an in depth guide, please download the <embed src="https://ilymun.org/uploads/Delegate's Handbook 2024.pdf" type="application/pdf" width="100%" height="600px" />
 
 ## How to successfully prepare for ILYMUN
 
