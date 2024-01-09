@@ -1,14 +1,18 @@
 ---
 type: plain
 path: "/debate-help"
-title: Learn how to Debate
+title: How to successfully prepare for ILYMUN
 
 ---
-## How to successfully prepare for ILYMUN
+## Introduction
 
-To guarantee the excellence and the effective functioning of our ILYMUN debates, prior to the event, we greatly encourage all students partaking in the conference to thoroughly prepare themselves. This will enable all to reap benefit from the experience!
+To guarantee the excellence and the effective functioning of our ILYMUN debates, prior to the event, we greatly encourage all students partaking in the conference to thoroughly prepare themselves by downloading and reading the Delegate's Handbook 2024 available at the end of the introduction. This will enable all to reap benefit from the experience!
 
 To help our delegates in preparing for the conference, we have produced an effective five-step plan of action, to enable students to arrive at the conference in full confidence.
+
+For an in depth guide, please download the Delegate's Handbook 2024.
+
+## How to successfully prepare for ILYMUN
 
 #### **1. Investigate your country's background profile:** 
 
