@@ -70,11 +70,12 @@ This is a key component towards guaranteeing a delegate’s effective preparatio
 
 \-  The following video equally provides a helpful visualisation of the main rules of procedure.
 
-<iframe src="https://www.youtube.com/watch?v=RQIbx4s8YTw" width="100%" height="720px" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RQIbx4s8YTw?si=TKMor2I-CuQRg65f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![](../assets/Rules-and-Procedures.jpg)
+<img src="../assets/Rules-and-Procedures.jpg" alt="ILYMUN Rules and Procedures">
 
-[Click here to view the pdf version of the ILYMUN rules and procedures](../assets/ILYMUN-rules-and-procedure.pdf)
+<a href="../assets/ILYMUN-rules-and-procedure.pdf" target="_blank">Click here to view the PDF version of the ILYMUN rules and procedures</a>
+
 
 ## Must know Concepts
 
