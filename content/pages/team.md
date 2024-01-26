@@ -60,6 +60,10 @@ Madeline Cox <br>
 Héloïse Hamm <br>
 Yann Leblond <br>
 
+#### Webmasters
+Simon Brehm <br>
+Clément Vasseneix
+
 #### Head of Social Media
 Stella Gilroy <br>
 Gabrielle Clyne <br>
@@ -88,7 +92,3 @@ Sukhada Joshi <br>
 
 #### Graphic Designer
 Andrea Rangel Estrada <br>
-
-#### Webmasters
-Simon Brehm <br>
-Clément Vasseneix
