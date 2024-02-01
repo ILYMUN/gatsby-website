@@ -13,10 +13,10 @@ title: The Conference 2024
 <h4>Committees Photos</h4>
 <br>
 
-<h3>Day 2: February 1st 2024</h3>
+<h3>Day 2: February 2nd 2024</h3>
 <br>
 
-<h3>Day 2: February 1st 2024</h3>
+<h3>Day 3: February 3rd 2024</h3>
 <br>
 
 
