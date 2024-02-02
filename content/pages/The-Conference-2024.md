@@ -14,7 +14,8 @@ title: The Conference 2024
 <br>
 
 <h4>Day 1 Video</h4>
-<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ow2LeJfoes8?si=SJA3UQQCggwVj3x_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: relative;"></iframe><br>
 
 <h4>Articles</h4>
 <ul>
