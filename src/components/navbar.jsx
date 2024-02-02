@@ -145,6 +145,9 @@ export class Navbar extends Component {
                     <a href="/about">The Conference</a>
                   </li>
                   <li>
+                    <a href="/other">External Articles</a>
+                  </li>
+                  <li>
                     <a href="/committees/">Committees & Issues Debated</a>
                   </li>
                   <li>
