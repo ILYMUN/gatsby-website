@@ -17,9 +17,10 @@ title: The Conference 2024
 <br>
 
 <h4>Articles</h4>
-<br>
+<ul>
 <h5><a href="https://ilymun.org/images/Opening-Ceremony.pdf" download="Opening-Ceremony.pdf"><b>Opening-Ceremony</b></a></h5>
-
+</ul>
+<br>
 <h3>Day 2: February 2nd 2024</h3>
 <br>
 
