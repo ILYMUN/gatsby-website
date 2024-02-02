@@ -5,6 +5,34 @@ title: ILYMUN 2024
 ---
 We have the utmost pleasure and privilege to invite your Model United Nations students to the eleventh annual edition of the International Lyon Model United Nations conference. Due to covid-19, last year was our first in person conference since 2020 and we are very glad that we are able to do it again this year.  This three-day conference is organized by the Cité Scolaire Internationale de Lyon and the International School of Lyon. This year, the conference will be held at the Cité Scolaire Internationale (2 Pl. de Montréal, 69007 Lyon) and at the International School of Lyon (80 Chemin du Grand Roule, 69110 Sainte-Foy-lès-Lyon) in France. The conference will take place from the 1st to the 3rd of February 2024. The theme for ILYMUN this year is Rights and Freedoms. 
 
+<style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        .fade-in {
+            opacity: 0;
+            transition: opacity 1s ease-in-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="fade-in" id="fadeContainer">
+        <img src="/static/images/the-conference.jpg" alt="Conference Image" style="width: 100%; max-width: 800px; margin: 50px auto;">
+    </div>
+    <script>
+        window.onscroll = function() {
+            var fadeContainer = document.getElementById('fadeContainer');
+            var windowHeight = window.innerHeight;
+            var fadeContainerTop = fadeContainer.getBoundingClientRect().top;
+            if (fadeContainerTop < windowHeight) {
+                fadeContainer.style.opacity = '1';
+            }
+        };
+    </script>
+    
 Rights and Freedoms are two interconnected notions that play a fundamental role in both individual and collective laws, as they are structural concepts of the UN. This year’s conference will explore the implementation, integration, and impact of rights and freedoms around the world through various lenses. We can better understand rights as moral or legal principles entitled to each individual regardless of social affiliation, background, or origin, that are ideally universally possessed by the general public and irrevocably guaranteed by the law. Rights are critical to freedom; the freedom of an individual is protected and ensured by rights, and prevents coercion into an action or decision. It is the state of being free. 
 
 Over the course of the conference, delegates will - in varying committees - thoroughly examine the intricacies that lie within the encompassing concepts of Rights and Freedoms. Together, they will work to analyze and understand this complex and crucial subject.
