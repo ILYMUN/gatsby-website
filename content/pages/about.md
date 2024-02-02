@@ -7,10 +7,10 @@ We have the utmost pleasure and privilege to invite your Model United Nations st
 
 <!--<div style="display: inline-block; position: relative; margin: 0 6%"> --> 
 
-<img src="https://ilymun.org/images/ISL.jpg" alt="Picture" style="height:20%;width:20%;">
+<img class="box" src="https://ilymun.org/images/ISL.jpg" alt="Picture" style="height:20%;width:20%;">
 
 <!--<div style="display: inline-block; position: relative">--> 
-<img src="https://ilymun.org/images/CSI.jpg" alt="Picture" style="height:20%;width:20%;">
+<img class="box" src="https://ilymun.org/images/CSI.jpg" alt="Picture" style="height:20%;width:20%;">
     
 Rights and Freedoms are two interconnected notions that play a fundamental role in both individual and collective laws, as they are structural concepts of the UN. This year’s conference will explore the implementation, integration, and impact of rights and freedoms around the world through various lenses. We can better understand rights as moral or legal principles entitled to each individual regardless of social affiliation, background, or origin, that are ideally universally possessed by the general public and irrevocably guaranteed by the law. Rights are critical to freedom; the freedom of an individual is protected and ensured by rights, and prevents coercion into an action or decision. It is the state of being free. 
 
