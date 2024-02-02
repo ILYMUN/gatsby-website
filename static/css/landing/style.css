@@ -805,6 +805,15 @@ li {
     color: white;
 }
 
+.box {
+    width:600px;
+    text-align:center; /* center align the text inside the box */
+    margin:auto; /* center this .box element, assuming it is block-level */
+}
+img {
+    margin:5px;
+}
+
 @media (max-width: 992px) {
     section#press {
         padding-bottom: 15px;
