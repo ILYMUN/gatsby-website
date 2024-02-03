@@ -26,6 +26,9 @@ title: The Conference 2024
 <img src="https://ilymun.org/images/Ilymun9.png" alt="Ilymun9" style="width: 25%;"/>
 <img src="https://ilymun.org/images/Ilymun10.png" alt="Ilymun10" style="width: 25%;"/>
 <img src="https://ilymun.org/images/Ilymun11.png" alt="Ilymun11" style="width: 25%;"/>
+<img src="https://ilymun.org/images/Ilymun17.png" alt="Ilymun17" style="width: 25%;"/>
+<img src="https://ilymun.org/images/Ilymun18.png" alt="Ilymun18" style="width: 25%;"/>
+<img src="https://ilymun.org/images/Ilymun19.png" alt="Ilymun19" style="width: 25%;"/>
 <br>
 
 <h4>Day 1 Video</h4>
