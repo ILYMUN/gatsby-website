@@ -8,12 +8,11 @@ title: The Conference 2024
 <br>
 
 <h4>Opening Ceremony Photos</h4>
-<img src="https://ilymun.org/images/Ilymun2.png" alt="Ilymun2" width="400" 
-     height="600" />
-<img src="https://ilymun.org/images/Ilymun1.png" alt="Ilymun1">
+<img src="https://ilymun.org/images/Ilymun1.png" alt="Ilymun2" style="width: 13%;"/>
 <br>
 
 <h4>Committees Photos</h4>
+<img src="https://ilymun.org/images/Ilymun2.png" alt="Ilymun1" style="width: 25%"/>
 <br>
 
 <h4>Day 1 Video</h4>
