@@ -7,10 +7,10 @@ We have the utmost pleasure and privilege to invite your Model United Nations st
 
 <div class="box">
     <div class="left">
-        <img src="https://ilymun.org/images/ISL.jpg"; style='width: 50%;' /> 
+        <img src="https://ilymun.org/images/ISL.jpg"; style='width: 130%;' /> 
     </div>
     <div class="right">
-        <img src="https://ilymun.org/images/CSI.jpg"; style='width: 45%;' />
+        <img src="https://ilymun.org/images/CSI.jpg"; style='width: 130%;' />
        </div>
      </div>
     
