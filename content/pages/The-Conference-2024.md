@@ -14,7 +14,7 @@ title: The Conference 2024
 
 <h4>Committees Photos</h4>
 <img src="https://ilymun.org/images/Ilymun2.png" alt="Ilymun1" style="width: 25%"/>
-<img src="https://ilymun.org/images/Ilymun4.png" alt="Ilymun4" style="width: 25%;"/>
+<img src="https://ilymun.org/images/Ilymun4.png" alt="Ilymun4" style="width: 28%;"/>
 <img src="https://ilymun.org/images/Ilymun5.png" alt="Ilymun5" style="width: 13%;"/>
 <br>
 
