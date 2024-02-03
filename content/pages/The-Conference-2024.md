@@ -3,11 +3,15 @@ type: plain
 path: "/The-Conference-2024"
 title: The Conference 2024
 ---
+<div class="wrapper" style="display:grid;grid-template-columns:repeat(3,1fr);grid-gap:11px;">
 
 <h3>Day 1: February 1st 2024</h3>
+<img src="https://ilymun.org/images/Ilymun1.png" alt="Ilymun1">
+
 <br>
 
 <h4>Opening Ceremony Photos</h4>
+<img src="https://ilymun.org/images/Ilymun2.png" alt="Ilymun2">
 <br>
 
 <h4>Committees Photos</h4>
