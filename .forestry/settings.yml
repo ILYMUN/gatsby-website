@@ -17,9 +17,6 @@ sections:
   new_doc_ext: md
   templates:
   - plain-page
-- type: document
-  path: " gatsby-website/content/pages/poster-gallery.md"
-  label: Poster-gallery
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

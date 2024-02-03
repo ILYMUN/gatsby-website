@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.container {
+  font-family: 'Raleway', sans-serif;
+  text-height: 150%;
+  color: #333;
+}
+.container h1, .container h2, .container h3, .container h4, .container h5, .container h6 {
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+}
+
+.container .content {
+    padding-top: 80px;
+}
+
+.container .content li {
+  margin-bottom: 10px;
+}
+.container .content a {
+  text-decoration: underline;
+  /* Remove gatsby added underline */
+  box-shadow: none;
+}

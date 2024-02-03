@@ -48,6 +48,12 @@ exports.createPages = async ({ graphql, actions }) => {
         break;
     }
   });
+
+  // createPage({
+  //   path: '/current-conference',
+  //   component: path.resolve(`./src/pages/current-conference.jsx`),
+  //   context: {}
+  // });
 };
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
