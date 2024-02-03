@@ -102,6 +102,9 @@ class CurrentConferencePgae extends React.Component {
 
                     <h3>Day 3: February 3rd 2024</h3>
                     <br/>
+                    <h4>Closing Ceremony 2024</h4>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/1vcMjx6eXcM?si=3E4pzDaeSOQOsFVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                    
+                    <br/>
 
                     <Footer />
                 </div>

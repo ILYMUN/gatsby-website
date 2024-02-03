@@ -805,11 +805,13 @@ li {
     color: white;
 }
 
-.box{display: flex;
+.box {
+    display: flex;
 	justify-content: center; /* align horizontal */
-	align-items: center; height:300px; 
-    	gap: 150px;
-    }
+	align-items: center; 
+    height:250px; 
+    gap: 150px;
+}
 
 
 @media (max-width: 992px) {
