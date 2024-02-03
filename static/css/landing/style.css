@@ -806,12 +806,12 @@ li {
 }
 
 .box {
-    width:600px;
-    text-align:center; /* center align the text inside the box */
-    margin:auto; /* center this .box element, assuming it is block-level */
-}
-img {
-    margin:5px;
+	margin: 0;
+        padding: 0;
+        height: 100vh; /* 100% of the viewport height */
+        display: flex;
+        align-items: center;
+        justify-content: center;
 }
 
 @media (max-width: 992px) {
