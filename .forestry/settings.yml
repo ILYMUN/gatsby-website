@@ -15,8 +15,6 @@ sections:
   create: documents
   match: "*.md"
   new_doc_ext: md
-# - type: document 
-#   path: 
   templates:
   - plain-page
 upload_dir: uploads
