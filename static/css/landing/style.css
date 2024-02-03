@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600,700,800,900);
+s@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600,700,800,900);
 html,
 body {
     font-family: 'Raleway', sans-serif;
@@ -806,12 +806,18 @@ li {
 }
 
 .box {
-	margin: 0;
+        margin: 0;
         padding: 0;
         height: 100vh; /* 100% of the viewport height */
         display: flex;
         align-items: center;
         justify-content: center;
+}
+
+.box img {
+        height: 20%;
+        width: 20%;
+        margin: 0 10px; /* Adjust margin as needed for spacing between images */
 }
 
 @media (max-width: 992px) {
