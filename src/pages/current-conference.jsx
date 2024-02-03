@@ -4,6 +4,8 @@ import Masonry from "react-masonry-component";
 import { Navbar } from "../components/navbar";
 import { Footer } from "../components/footer";
 
+import "../../static/css/current.css";
+
 const masonryOptions = {
     transitionDuration: 0,
     itemSelector: ".masonryImage",
@@ -40,53 +42,57 @@ class CurrentConferencePgae extends React.Component {
         });
 
         const page = (
-            <div>
+            <div class="container">
                 <Navbar/>
 
-                <h3>Day 1: February 1st 2024</h3>
-                <br/>
+                <div className="content">
+                    <h1>The Conference 2024</h1>
 
-                <h4>Opening Ceremony Photos</h4>
-                <Masonry
-                    className={"masonry row"} 
-                    elementType={"div"}
-                    options={masonryOptions} 
-                    disableImagesLoaded={false} 
-                    updateOnEachImageLoad={false} 
-                    imagesLoadedOptions={imagesLoadedOptions} 
-                >
-                    {openingChildElements}
-                </Masonry>
-                <br/>
-                
-                <h4>Committees Photos</h4>
-                <Masonry
-                    className={"masonry row"}
-                    elementType={"div"} 
-                    options={masonryOptions} 
-                    disableImagesLoaded={false}
-                    updateOnEachImageLoad={false}
-                    imagesLoadedOptions={imagesLoadedOptions}
-                >
-                    {commiteeeChildElements}
-                </Masonry>
-                <br/>
+                    <h3>Day 1: February 1st 2024</h3>
+                    <br/>
 
-                <h4>Day 1 Video</h4>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/Ow2LeJfoes8?si=SJA3UQQCggwVj3x_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style={{position: "relative"}}></iframe>
-                <br/>
+                    <h4>Opening Ceremony Photos</h4>
+                    <Masonry
+                        className={"masonry row"} 
+                        elementType={"div"}
+                        options={masonryOptions} 
+                        disableImagesLoaded={false} 
+                        updateOnEachImageLoad={false} 
+                        imagesLoadedOptions={imagesLoadedOptions} 
+                    >
+                        {openingChildElements}
+                    </Masonry>
+                    <br/>
+                    
+                    <h4>Committees Photos</h4>
+                    <Masonry
+                        className={"masonry row"}
+                        elementType={"div"} 
+                        options={masonryOptions} 
+                        disableImagesLoaded={false}
+                        updateOnEachImageLoad={false}
+                        imagesLoadedOptions={imagesLoadedOptions}
+                    >
+                        {commiteeeChildElements}
+                    </Masonry>
+                    <br/>
 
-                <h4>Articles</h4>
-                <h5><a href="https://ilymun.org/images/Opening-Ceremony.pdf" download="Opening-Ceremony.pdf"><b>Opening-Ceremony</b></a></h5>
-                <br/>
+                    <h4>Day 1 Video</h4>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Ow2LeJfoes8?si=SJA3UQQCggwVj3x_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style={{position: "relative"}}></iframe>
+                    <br/>
 
-                <h3>Day 2: February 2nd 2024</h3>
-                <br/>
+                    <h4>Articles</h4>
+                    <h5><a href="https://ilymun.org/images/Opening-Ceremony.pdf" download="Opening-Ceremony.pdf"><b>Opening-Ceremony</b></a></h5>
+                    <br/>
 
-                <h3>Day 3: February 3rd 2024</h3>
-                <br/>
+                    <h3>Day 2: February 2nd 2024</h3>
+                    <br/>
 
-                <Footer />
+                    <h3>Day 3: February 3rd 2024</h3>
+                    <br/>
+
+                    <Footer />
+                </div>
             </div>
         );
 
