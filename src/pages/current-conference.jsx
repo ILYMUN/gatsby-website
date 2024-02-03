@@ -18,24 +18,36 @@ const imagesLoadedOptions = { background: ".my-bg-image-el" };
 class CurrentConferencePgae extends React.Component {
     render() {
         const openingChildElements = [
-            require("../../static/images/gallery/sample/optimized/new_01.jpg").default,
-            require("../../static/images/gallery/sample/optimized/new_02.jpg").default,
-            require("../../static/images/gallery/sample/optimized/new_03.jpg").default
+            require("../../static/images/conf-2024/Ilymun1.png").default,
+            require("../../static/images/conf-2024/Ilymun3.png").default,
+            require("../../static/images/conf-2024/Ilymun12.png").default,
+            require("../../static/images/conf-2024/Ilymun13.png").default,
+            require("../../static/images/conf-2024/Ilymun14.png").default,
+            require("../../static/images/conf-2024/Ilymun15.png").default,
+            require("../../static/images/conf-2024/Ilymun16.png").default
         ].map(function (src) {
             return (
-                <div className="masonryImage col-md-1 col-sm-1 col-xs-1">
+                <div className="masonryImage col-md-3 col-sm-4 col-xs-4">
                     <img src={src} alt=""/>
                 </div>
             );
         });
 
         const commiteeeChildElements = [
-            require("../../static/images/gallery/sample/optimized/new_01.jpg").default,
-            require("../../static/images/gallery/sample/optimized/new_02.jpg").default,
-            require("../../static/images/gallery/sample/optimized/new_03.jpg").default
+            require("../../static/images/conf-2024/Ilymun2.png").default,
+            require("../../static/images/conf-2024/Ilymun4.png").default,
+            require("../../static/images/conf-2024/Ilymun5.png").default,
+            require("../../static/images/conf-2024/Ilymun7.png").default,
+            require("../../static/images/conf-2024/Ilymun8.png").default,
+            require("../../static/images/conf-2024/Ilymun9.png").default,
+            require("../../static/images/conf-2024/Ilymun10.png").default,
+            require("../../static/images/conf-2024/Ilymun11.png").default,
+            require("../../static/images/conf-2024/Ilymun17.png").default,
+            require("../../static/images/conf-2024/Ilymun18.png").default,
+            require("../../static/images/conf-2024/Ilymun19.png").default
         ].map(function (src) {
             return (
-                <div className="masonryImage col-md-1 col-sm-1 col-xs-1">
+                <div className="masonryImage col-md-3.5 col-sm-4 col-xs-4">
                     <img src={src} alt=""/>
                 </div>
             );
