@@ -2,13 +2,21 @@
 
 1. **Prerequisites**
 
-   Get npm, if you don't already have it, and install gatsby.
+   Get npm, if you don't already have it, and install gatsby. Also install git and configure it.
 
    ```sh
    npm install -g gatsby-cli
    ```
 
 2. **Start developing.**
+
+   Create a directory on your computer and initialize git, then pull the code with these commands :
+
+   ```sh
+   git init 
+   git remote add origin www.github.com/ILYMUN/gatsby-website 
+   git pull origin master
+   ```
 
    Navigate into your new site’s directory and start it up.
 
@@ -34,7 +42,6 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
     ├── src
     ├── static
     ├── .gitignore
-    ├── .prettierrc
     ├── gatsby-browser.js
     ├── gatsby-config.js
     ├── gatsby-node.js
@@ -52,23 +59,21 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 5.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
 
-6.  **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/). Prettier is a tool to help keep the formatting of your code consistent. Run `npm run format` to format all the files.
+6.  **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://www.gatsbyjs.org/docs/browser-apis/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
 
-7.  **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://www.gatsbyjs.org/docs/browser-apis/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
+7.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.org/docs/gatsby-config/) for more detail).
 
-8.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.org/docs/gatsby-config/) for more detail).
+8.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://www.gatsbyjs.org/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
 
-9.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://www.gatsbyjs.org/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
+9. **`gatsby-ssr.js`**: This file is where Gatsby expects to find any usage of the [Gatsby server-side rendering APIs](https://www.gatsbyjs.org/docs/ssr-apis/) (if any). These allow customization of default Gatsby settings affecting server-side rendering.
 
-10. **`gatsby-ssr.js`**: This file is where Gatsby expects to find any usage of the [Gatsby server-side rendering APIs](https://www.gatsbyjs.org/docs/ssr-apis/) (if any). These allow customization of default Gatsby settings affecting server-side rendering.
+10. **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
 
-11. **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
-
-12. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
+11. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
 
 ## 💫 Deployment
 
-Deployment is very simple. A CI/CD pipeline is set up with Travis to run any time this repository changes. This pipeline will build the production version of the website from the latest master and deploys the changes to [ILYMUN/ilymun.github.io](https://github.com/ILYMUN/ilymun.github.io) which are then live at [ilymun.github.io/](https://ilymun.github.io/). The pipeline takes a couple of minutes to run, so changes are only live a couple minutes after changes are commited to the repository.
+Deployment is very simple. A GitHub action is run on every commit to master. This action will build the production version of the website from the latest master and deploys the changes to [ILYMUN/ilymun.github.io](https://github.com/ILYMUN/ilymun.github.io) which are then live at [ilymun.github.io/](https://ilymun.github.io/). The pipeline takes a couple of minutes to run, so changes are only live a couple minutes after changes are commited to the repository.
 
 ## 🎓 Learning
 
@@ -80,10 +85,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on their website
 
 - **To dive straight into code samples, head [the Gatsby documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
-### Travis CI
-
-Find the Travis CI documentation on [Travis' website](https://docs.travis-ci.com/).
-
 ### Forestry
 
-Find documentation about Forestry on [their website](https://forestry.io/docs/guides/developing-with-gatsby/).
+This module no longer exists, so no need to learn it.
