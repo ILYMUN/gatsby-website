@@ -13,8 +13,8 @@
    Create a directory on your computer and initialize git, then pull the code with these commands :
 
    ```sh
-   git init 
-   git remote add origin www.github.com/ILYMUN/gatsby-website 
+   git init
+   git remote add origin www.github.com/ILYMUN/gatsby-website
    git pull origin master
    ```
 
@@ -42,6 +42,7 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
     ├── content
     ├── src
     ├── static
+    ├── uploads
     ├── .gitignore
     ├── gatsby-browser.js
     ├── gatsby-config.js
@@ -62,17 +63,19 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 6.  **`/static`**: This is where you should put any "static" files, such as css files, javascript files, and images.
 
-7.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
+7.  **`/uploads`**: This repository is used by Forestry, and should not be used by anything else in the website, if found in the code, redirect the source of the image to static.
 
-8.  **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://www.gatsbyjs.org/docs/browser-apis/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
+8.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
 
-9.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.org/docs/gatsby-config/) for more detail).
+9.  **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://www.gatsbyjs.org/docs/browser-apis/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
 
-10.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://www.gatsbyjs.org/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
+10.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.org/docs/gatsby-config/) for more detail).
 
-11. **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
+11.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://www.gatsbyjs.org/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
 
-12. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
+12. **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
+
+13. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
 
 ## 💫 Deployment
 
