@@ -172,6 +172,7 @@ export class CountDownParallax extends Component {
             </div>
           </div>
         </Parallax>
+        <h2>The event has taken place! See you next year!</h2>
       </section>
     );
 
